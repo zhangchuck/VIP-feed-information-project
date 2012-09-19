@@ -1,0 +1,408 @@
+## Datafeed for test election 2000
+
+# Kansas
+data {
+  nid: 3001
+  election_id: 2000
+  title: "KS Test Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/ks/vipFeed-20.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Connecticut
+data {
+  nid: 3003
+  election_id: 2000
+  title: "CT Test Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-9.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# West Virginia
+data {
+  nid: 3004
+  election_id: 2000
+  title: "WV Test Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/wv/vipFeed-54.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Alaska
+data {
+  nid: 3005
+  election_id: 2000
+  title: "AK Test Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Ohio
+data {
+  nid: 3006
+  election_id: 2000
+  title: "OH Test Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Mississippi
+data {
+  nid: 3011
+  election_id: 2000
+  title: "MS Test Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Virginia
+data {
+  nid: 3015
+  election_id: 2000
+  title: "2011-11-08 VA General Election"
+  feed_url: "http://www2.sbe.virginia.gov/GRDocs/VIP/vipFeed-51-2011-11-08.xml.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Nebraska
+data {
+  nid: 3016
+  election_id: 2000
+  title: "NE Test Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-31.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Delaware
+data {
+  nid: 3017
+  election_id: 2000
+  title: "DE Test Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/de/vipFeed-10.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Nevada
+data {
+  nid: 3018
+  election_id: 2000
+  title: "NV Test Election"
+  feed_url: "http://www.nvsos.gov/Vipfeedtest/TEST_VIPFeed-32.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Wisconsin
+data {
+  nid: 3019
+  election_id: 2000
+  title: "WI Test Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/wi/vipFeed-55.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Iowa Caucus
+data {
+  nid: 3020
+  election_id: 2000
+  title: "Iowa Caucus Test"
+  feed_url: "http://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-01-03.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# South Carolina Primary
+data {
+  nid: 3022
+  election_id: 2000
+  title: "SC Primary Test"
+  feed_url: "http://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Montana Primary
+data {
+  nid: 3038
+  election_id: 2000
+  title: "Montana Primary 2012"
+  feed_url: "http://sos.mt.gov/elections/vip/vipFeed-30-2012-06-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## END Datafeed for test election 2000
+
+## North Carolina Municipal Election 2002
+data {
+  nid: 3002
+  election_id: 2002
+  title: "2011-11-08 North Carolina Municipal Election Feed"
+  feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## North Carolina Primary 2003
+data {
+  nid: 3029
+  election_id: 2003
+  title: "North Carolina Primary 2012"
+  feed_url: "ftp://www.app.sboe.state.nc.us/data/vipFeed/vipFeed-37-2012-05-08.xml.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## West Virginia Gubernatorial Special Election 2005
+data {
+  nid: 3007
+  election_id: 2005
+  title: "2011-10-04 West Virginia Gubernatorial Special Election 2005"
+  feed_url: "http://data.votinginfoproject.org/feeds/wv/vipFeed-54.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Ohio General Election 2006
+data {
+  nid: 3008
+  election_id: 2006
+  title: "2011-11-08 OH General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Connecticut Municipal Election 2007
+data {
+  nid: 3009
+  election_id: 2007
+  title: "2011-11-08 CT Municipal Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-9.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Pennsylvania Municipal Election 2008
+data {
+  nid: 3012
+  election_id: 2008
+  title: "11-08-2011 PA Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Mississippi General Election 2009
+data {
+  nid: 3013
+  election_id: 2009
+  title: "11-08-2011 MS Election Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+# Virginia General Election 2010
+data {
+  nid: 3014
+  election_id: 2010
+  title: "2011-11-08 VA General Election"
+  feed_url: "http://www2.sbe.virginia.gov/GRDocs/VIP/vipFeed-51-2011-11-08.xml.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Iowa Caucuses 2100
+data {
+  nid: 3021
+  election_id: 2100
+  title: "Iowa Caucus Data"
+  feed_url: "http://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-01-03.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## South Carolina Primary 2101
+data {
+  nid: 3023
+  election_id: 2101
+  title: "South Carolina Primary"
+  feed_url: "http://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Nevada Caucus 2103
+data {
+  nid: 3024
+  election_id: 2103
+  title: "Nevada Caucus"
+  feed_url: "http://data.votinginfoproject.org/feeds/nv/vipFeed-32-2012-02-04.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Virigina Primary 2109
+data {
+  nid: 3025
+  election_id: 2109
+  title: "Virginia 2012 Primary"
+  feed_url: "http://www2.sbe.virginia.gov/GRDocs/VIP/vipFeed-51-2012-03-06.xml.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Mississippi Primary 2111
+data {
+  nid: 3027
+  election_id: 2111
+  title: "Mississippi 2012 Primary"
+  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28-2012-03-13.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Kansas Republican Caucus 2112
+data {
+  nid: 3028
+  election_id: 2112
+  title: "Kansas Republican Caucus 2012"
+  feed_url: "http://data.votinginfoproject.org/feeds/ks/vipFeed-20-2012-03-10.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Maryland Primary 2113
+data {
+  nid: 3030
+  election_id: 2113
+  title: "Maryland Primary 2012"
+  feed_url: "http://www.elections.state.md.us/voting_info_project/vipFeed-24-2012-04-03.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Pennsylvania Primary 2114
+data {
+  nid: 3031
+  election_id: 2114
+  title: "Pennsylvania Primary 2012"
+  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-04-24.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Rhode Island Primary 2115
+data {
+  nid: 3032
+  election_id: 2115
+  title: "Rhode Island Primary 2012"
+  feed_url: "http://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-04-24.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## West Viriginia Primary 2117
+data {
+  nid: 3033
+  election_id: 2117
+  title: "West Virginia Primary 2012"
+  feed_url: "http://data.votinginfoproject.org/feeds/wv/vipFeed-54-2012-05-08.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Nevada Primary 2118
+data {
+  nid: 3034
+  election_id: 2118
+  title: "Nevada Primary 2012"
+  feed_url: "http://www.nvsos.gov/Vipfeed/vipFeed-32-2012-06-12.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Montana Primary 2119
+data {
+  nid: 3035
+  election_id: 2119
+  title: "Montana Primary 2012"
+  feed_url: "http://sos.mt.gov/elections/vip/vipFeed-30-2012-06-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## LA County Primary 2120
+data {
+  nid: 3036
+  election_id: 2120
+  title: "LA County Primary 2012"
+  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-6037-2012-06-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Virginia Primary 2121
+data {
+  nid: 3037
+  election_id: 2121
+  title: "Virginia 2012 State Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-06-12.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Connecticut Primary 2123
+data {
+  nid: 3039
+  election_id: 2123
+  title: "Connecticut 2012 State Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-9-2012-08-14.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Alaska Primary 2125
+data {
+  nid: 3041
+  election_id: 2125
+  title: "Alaska 2012 State Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-08-28.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Rhode Island Primary 2124
+data {
+  nid: 3040
+  election_id: 2124
+  title: "Rhode Island 2012 Primary Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-09-11.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Delaware Primary 2126
+data {
+  nid: 3042
+  election_id: 2126
+  title: "Delaware 2012 Primary Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Pennsylvania General (in Test)
+data {
+  nid: 3043
+  election_id: 2000
+  title: "Pennsylvania 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Pennsylvania General (in Prod)
+data {
+  nid: 3044
+  election_id: 4000
+  title: "Pennsylvania 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Minnesota Special Election (in Test)
+data {
+  nid: 3045
+  election_id: 2000
+  title: "Minnesota 2012 Special Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-08-14.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## North Carolina General Election (in Test)
+data {
+  nid: 3046
+  election_id: 2000
+  title: "North Carolina 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## North Carolina General Election (in Prod)
+data {
+  nid: 3047
+  election_id: 4000
+  title: "North Carolina 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
+  user: "jared@votinginfoproject.org"
+}
