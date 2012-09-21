@@ -406,3 +406,21 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Colorado General Election (in Test)
+data {
+  nid: 3048
+  election_id: 2000
+  title: "Colorado 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/co/vipFeed-8-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Colorado General Election (in Prod)
+data {
+  nid: 3049
+  election_id: 4000
+  title: "Colorado 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/co/vipFeed-8-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
