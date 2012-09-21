@@ -99,15 +99,6 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-# Iowa Caucus
-data {
-  nid: 3020
-  election_id: 2000
-  title: "Iowa Caucus Test"
-  feed_url: "http://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-01-03.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 # South Carolina Primary
 data {
   nid: 3022
@@ -200,30 +191,12 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## Iowa Caucuses 2100
-data {
-  nid: 3021
-  election_id: 2100
-  title: "Iowa Caucus Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-01-03.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 ## South Carolina Primary 2101
 data {
   nid: 3023
   election_id: 2101
   title: "South Carolina Primary"
   feed_url: "http://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
-  user: "jared@votinginfoproject.org"
-}
-
-## Nevada Caucus 2103
-data {
-  nid: 3024
-  election_id: 2103
-  title: "Nevada Caucus"
-  feed_url: "http://data.votinginfoproject.org/feeds/nv/vipFeed-32-2012-02-04.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -404,15 +377,6 @@ data {
   election_id: 4000
   title: "North Carolina 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
-  user: "jared@votinginfoproject.org"
-}
-
-## Colorado General Election (in Test)
-data {
-  nid: 3048
-  election_id: 2000
-  title: "Colorado 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/co/vipFeed-8-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
