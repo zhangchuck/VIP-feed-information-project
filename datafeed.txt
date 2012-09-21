@@ -218,15 +218,6 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## Kansas Republican Caucus 2112
-data {
-  nid: 3028
-  election_id: 2112
-  title: "Kansas Republican Caucus 2012"
-  feed_url: "http://data.votinginfoproject.org/feeds/ks/vipFeed-20-2012-03-10.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 ## Maryland Primary 2113
 data {
   nid: 3030
