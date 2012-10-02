@@ -376,7 +376,7 @@ data {
   nid: 3049
   election_id: 4000
   title: "Colorado 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/co/vipFeed-8-2012-11-06.zip"
+  feed_url: "http://data.votinginfoproject.org/feeds/co/vipFeed-08-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
