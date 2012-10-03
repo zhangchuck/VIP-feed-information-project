@@ -397,3 +397,12 @@ data {
   feed_url: "http://www.nvsos.gov/Vipfeed/vipFeed-32-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Minnesota General Election (in Prod)
+data {
+  nid: 3052
+  election_id: 4000
+  title: "Minnesota 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
