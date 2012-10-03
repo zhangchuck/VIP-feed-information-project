@@ -415,3 +415,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Kansas General Election (in Prod)
+data {
+  nid: 3054
+  election_id: 4000
+  title: "Kansas 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ks/vipFeed-20-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
