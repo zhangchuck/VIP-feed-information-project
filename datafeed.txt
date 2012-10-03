@@ -406,3 +406,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Alaska General Election (in Prod)
+data {
+  nid: 3053
+  election_id: 4000
+  title: "Alaska 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
