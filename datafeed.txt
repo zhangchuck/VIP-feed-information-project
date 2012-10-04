@@ -433,3 +433,21 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/mt/vipFeed-30-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Palm Beach General Election (in Prod)
+data {
+  nid: 3056
+  election_id: 4000
+  title: "Palm Beach 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/fl/vipFeed-12099-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Nebraska General Election (in Prod)
+data {
+  nid: 3057
+  election_id: 4000
+  title: "Nebraska 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-31-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
