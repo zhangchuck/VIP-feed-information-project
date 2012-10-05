@@ -460,3 +460,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-35-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Michigan General Election
+data {
+  nid: 3059
+  election_id: 4000
+  title: "Michigan 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/mi/vipFeed-26-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
