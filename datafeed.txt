@@ -451,3 +451,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-31-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## New Mexico General Election (in Prod)
+data {
+  nid: 3058
+  election_id: 4000
+  title: "New Mexico 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-35-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
