@@ -458,7 +458,7 @@ data {
   election_id: 4000
   title: "New Mexico 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/nm/vipFeed-35-2012-11-06.zip"
-  user: "jared@votinginfoproject.org"
+  user: "mike@votinginfoproject.org"
 }
 
 ## Michigan General Election
@@ -467,7 +467,7 @@ data {
   election_id: 4000
   title: "Michigan 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/mi/vipFeed-26-2012-11-06.zip"
-  user: "jared@votinginfoproject.org"
+  user: "mike@votinginfoproject.org"
 }
 
 ## Lee County General Election
@@ -487,3 +487,13 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/fl/vipFeed-12115-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Maricopa County General Election
+data {
+  nid: 3062
+  election_id: 4000
+  title: "Maricopa 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/az/vipFeed-04013-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+  
