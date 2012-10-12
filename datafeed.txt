@@ -497,3 +497,11 @@ data {
   user: "mike@votinginfoproject.org"
 }
   
+## DuPage County General Election
+data {
+  nid: 3063
+  election_id: 4000
+  title: "DuPage County 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/il/vipFeed-17043-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
