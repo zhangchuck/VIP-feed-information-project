@@ -492,7 +492,7 @@ data {
 data {
   nid: 3062
   election_id: 4000
-  title: "Maricopa 2012 General Election"
+  title: "Maricopa County 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/az/vipFeed-04013-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
@@ -512,5 +512,14 @@ data {
   election_id: 4000
   title: "Maryland 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/md/vipFeed-28-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Kentucky General Election
+data {
+  nid: 3065
+  election_id: 4000
+  title: "Kentucky 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ky/vipFeed-21-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
