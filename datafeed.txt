@@ -523,3 +523,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ky/vipFeed-21-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## New Hampshire General Election
+data {
+  nid: 3066
+  election_id: 4000
+  title: "New Hampshire 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/nh/vipFeed-33-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
