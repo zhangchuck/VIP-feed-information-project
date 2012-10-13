@@ -511,7 +511,7 @@ data {
   nid: 3064
   election_id: 4000
   title: "Maryland 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/md/vipFeed-28-2012-11-06.zip"
+  feed_url: "http://data.votinginfoproject.org/feeds/md/vipFeed-24-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
