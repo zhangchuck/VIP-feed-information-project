@@ -550,3 +550,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## City of Woburn, Massachusetts General Election
+data {
+  nid: 3069
+  election_id: 4000
+  title: "City of Woburn, Massachusetts 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ma/vipFeed-2581035-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
