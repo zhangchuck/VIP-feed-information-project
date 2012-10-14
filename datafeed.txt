@@ -541,3 +541,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ma/vipFeed-2581035-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## San Diego County General Election
+data {
+  nid: 3070
+  election_id: 4000
+  title: "San Diego County 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
