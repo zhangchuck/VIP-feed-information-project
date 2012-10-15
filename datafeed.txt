@@ -559,3 +559,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## Oklahoma General Election
+data {
+  nid: 3072
+  election_id: 4000
+  title: "Oklahoma 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ok/vipFeed-40-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
