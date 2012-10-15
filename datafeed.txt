@@ -568,3 +568,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/ok/vipFeed-40-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Ohio General Election
+data {
+  nid: 3073
+  election_id: 4000
+  title: "Ohio 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
