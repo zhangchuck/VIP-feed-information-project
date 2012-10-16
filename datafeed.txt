@@ -586,3 +586,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/dc/vipFeed-11-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## Connecticut General Election
+data {
+  nid: 3075
+  election_id: 4000
+  title: "Connecticut 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-09-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
