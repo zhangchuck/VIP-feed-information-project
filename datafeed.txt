@@ -577,3 +577,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## District of Columbia General Election
+data {
+  nid: 3074
+  election_id: 4000
+  title: "District of Columbia 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/dc/vipFeed-11-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
