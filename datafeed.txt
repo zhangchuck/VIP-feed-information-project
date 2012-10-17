@@ -605,3 +605,14 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## Los Angeles County General Election
+data {
+  nid: 3076
+  election_id: 4000
+  title: "Los Angeles County 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+
