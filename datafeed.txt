@@ -599,7 +599,7 @@ data {
 
 ## Virginia General Election
 data {
-  nid: 3075
+  nid: 3076
   election_id: 4000
   title: "Virginia 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-11-06.zip"
@@ -608,11 +608,19 @@ data {
 
 ## Los Angeles County General Election
 data {
-  nid: 3076
+  nid: 3077
   election_id: 4000
   title: "Los Angeles County 2012 General Election"
   feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
+## New Jersey General Election
+data {
+  nid: 3078
+  election_id: 4000
+  title: "New Jersey 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/nj/vipFeed-34-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
 
