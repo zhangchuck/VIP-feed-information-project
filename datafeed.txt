@@ -624,3 +624,20 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## New Hampshire General Election (Unofficial)
+data {
+  nid: -100
+  election_id: 4000
+  title: "New Hampshire 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/nh/vipFeed-33-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Maine General Election (Unofficial)
+data {
+  nid: -101
+  election_id: 4000
+  title: "Maine 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/me/vipFeed-23-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
