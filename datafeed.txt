@@ -641,3 +641,12 @@ data {
   feed_url: "http://data.votinginfoproject.org/feeds/me/vipFeed-23-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+## Wisconsin General Election
+data {
+  nid: 3079
+  election_id: 4000
+  title: "Wisconsin 2012 General Election"
+  feed_url: "http://data.votinginfoproject.org/feeds/wi/vipFeed-55-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
