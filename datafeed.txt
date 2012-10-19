@@ -642,6 +642,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Wyoming General Election (Unofficial)
+data {
+  nid: -102
+  election_id: 4000
+  title: "Wyoming 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Wisconsin General Election
 data {
   nid: 3079
