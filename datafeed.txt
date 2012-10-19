@@ -5,7 +5,7 @@ data {
   nid: 3001
   election_id: 2000
   title: "KS Test Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/ks/vipFeed-20.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ks/vipFeed-20.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -14,7 +14,7 @@ data {
   nid: 3003
   election_id: 2000
   title: "CT Test Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-9.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ct/vipFeed-9.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -23,7 +23,7 @@ data {
   nid: 3004
   election_id: 2000
   title: "WV Test Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/wv/vipFeed-54.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -32,7 +32,7 @@ data {
   nid: 3005
   election_id: 2000
   title: "AK Test Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -41,7 +41,7 @@ data {
   nid: 3006
   election_id: 2000
   title: "OH Test Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -50,7 +50,7 @@ data {
   nid: 3011
   election_id: 2000
   title: "MS Test Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -68,7 +68,7 @@ data {
   nid: 3016
   election_id: 2000
   title: "NE Test Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-31.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ne/vipFeed-31.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -77,7 +77,7 @@ data {
   nid: 3017
   election_id: 2000
   title: "DE Test Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/de/vipFeed-10.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -95,7 +95,7 @@ data {
   nid: 3019
   election_id: 2000
   title: "WI Test Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/wi/vipFeed-55.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -104,7 +104,7 @@ data {
   nid: 3022
   election_id: 2000
   title: "SC Primary Test"
-  feed_url: "http://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -124,7 +124,7 @@ data {
   nid: 3002
   election_id: 2002
   title: "2011-11-08 North Carolina Municipal Election Feed"
-  feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -142,7 +142,7 @@ data {
   nid: 3007
   election_id: 2005
   title: "2011-10-04 West Virginia Gubernatorial Special Election 2005"
-  feed_url: "http://data.votinginfoproject.org/feeds/wv/vipFeed-54.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -151,7 +151,7 @@ data {
   nid: 3008
   election_id: 2006
   title: "2011-11-08 OH General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -160,7 +160,7 @@ data {
   nid: 3009
   election_id: 2007
   title: "2011-11-08 CT Municipal Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-9.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ct/vipFeed-9.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -169,7 +169,7 @@ data {
   nid: 3012
   election_id: 2008
   title: "11-08-2011 PA Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -178,7 +178,7 @@ data {
   nid: 3013
   election_id: 2009
   title: "11-08-2011 MS Election Data"
-  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -196,7 +196,7 @@ data {
   nid: 3023
   election_id: 2101
   title: "South Carolina Primary"
-  feed_url: "http://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -214,7 +214,7 @@ data {
   nid: 3027
   election_id: 2111
   title: "Mississippi 2012 Primary"
-  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28-2012-03-13.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28-2012-03-13.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -232,7 +232,7 @@ data {
   nid: 3031
   election_id: 2114
   title: "Pennsylvania Primary 2012"
-  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-04-24.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-04-24.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -241,7 +241,7 @@ data {
   nid: 3032
   election_id: 2115
   title: "Rhode Island Primary 2012"
-  feed_url: "http://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-04-24.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-04-24.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -250,7 +250,7 @@ data {
   nid: 3033
   election_id: 2117
   title: "West Virginia Primary 2012"
-  feed_url: "http://data.votinginfoproject.org/feeds/wv/vipFeed-54-2012-05-08.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54-2012-05-08.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -277,7 +277,7 @@ data {
   nid: 3036
   election_id: 2120
   title: "LA County Primary 2012"
-  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-6037-2012-06-05.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6037-2012-06-05.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -286,7 +286,7 @@ data {
   nid: 3037
   election_id: 2121
   title: "Virginia 2012 State Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-06-12.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-06-12.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -295,7 +295,7 @@ data {
   nid: 3039
   election_id: 2123
   title: "Connecticut 2012 State Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-9-2012-08-14.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ct/vipFeed-9-2012-08-14.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -304,7 +304,7 @@ data {
   nid: 3041
   election_id: 2125
   title: "Alaska 2012 State Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-08-28.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-08-28.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -313,7 +313,7 @@ data {
   nid: 3040
   election_id: 2124
   title: "Rhode Island 2012 Primary Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-09-11.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-09-11.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -322,7 +322,7 @@ data {
   nid: 3042
   election_id: 2126
   title: "Delaware 2012 Primary Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -331,7 +331,7 @@ data {
   nid: 3043
   election_id: 2000
   title: "Pennsylvania 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -340,7 +340,7 @@ data {
   nid: 3044
   election_id: 4000
   title: "Pennsylvania 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -349,7 +349,7 @@ data {
   nid: 3045
   election_id: 2000
   title: "Minnesota 2012 Special Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-08-14.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-08-14.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -358,7 +358,7 @@ data {
   nid: 3046
   election_id: 2000
   title: "North Carolina 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -367,7 +367,7 @@ data {
   nid: 3047
   election_id: 4000
   title: "North Carolina 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2012-11-06.xml.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -376,7 +376,7 @@ data {
   nid: 3049
   election_id: 4000
   title: "Colorado 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/co/vipFeed-08-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/co/vipFeed-08-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -385,7 +385,7 @@ data {
   nid: 3050
   election_id: 4000
   title: "El Dorado County, CA 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-06017-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06017-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -403,7 +403,7 @@ data {
   nid: 3052
   election_id: 4000
   title: "Minnesota 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -412,7 +412,7 @@ data {
   nid: 3053
   election_id: 4000
   title: "Alaska 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -421,7 +421,7 @@ data {
   nid: 3054
   election_id: 4000
   title: "Kansas 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ks/vipFeed-20-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ks/vipFeed-20-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -430,7 +430,7 @@ data {
   nid: 3055
   election_id: 4000
   title: "Montana 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/mt/vipFeed-30-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/mt/vipFeed-30-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -439,7 +439,7 @@ data {
   nid: 3056
   election_id: 4000
   title: "Palm Beach 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/fl/vipFeed-12099-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12099-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -448,7 +448,7 @@ data {
   nid: 3057
   election_id: 4000
   title: "Nebraska 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ne/vipFeed-31-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ne/vipFeed-31-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -457,7 +457,7 @@ data {
   nid: 3058
   election_id: 4000
   title: "New Mexico 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/nm/vipFeed-35-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nm/vipFeed-35-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -466,7 +466,7 @@ data {
   nid: 3059
   election_id: 4000
   title: "Michigan 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/mi/vipFeed-26-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/mi/vipFeed-26-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -475,7 +475,7 @@ data {
   nid: 3060
   election_id: 4000
   title: "Lee County 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/fl/vipFeed-12071-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12071-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -484,7 +484,7 @@ data {
   nid: 3061
   election_id: 4000
   title: "Sarasota 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/fl/vipFeed-12115-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12115-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -493,7 +493,7 @@ data {
   nid: 3062
   election_id: 4000
   title: "Maricopa County 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/az/vipFeed-04013-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/az/vipFeed-04013-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
   
@@ -502,7 +502,7 @@ data {
   nid: 3063
   election_id: 4000
   title: "DuPage County 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/il/vipFeed-17043-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17043-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -511,7 +511,7 @@ data {
   nid: 3064
   election_id: 4000
   title: "Maryland 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/md/vipFeed-24-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/md/vipFeed-24-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -520,7 +520,7 @@ data {
   nid: 3065
   election_id: 4000
   title: "Kentucky 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ky/vipFeed-21-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ky/vipFeed-21-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -529,7 +529,7 @@ data {
   nid: 3068
   election_id: 4000
   title: "Delaware 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -538,7 +538,7 @@ data {
   nid: 3069
   election_id: 4000
   title: "City of Woburn, Massachusetts 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ma/vipFeed-2581035-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ma/vipFeed-2581035-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -547,7 +547,7 @@ data {
   nid: 3070
   election_id: 4000
   title: "San Diego County 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -556,7 +556,7 @@ data {
   nid: 3071
   election_id: 4000
   title: "Mississippi 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ms/vipFeed-28-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -565,7 +565,7 @@ data {
   nid: 3072
   election_id: 4000
   title: "Oklahoma 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ok/vipFeed-40-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -574,7 +574,7 @@ data {
   nid: 3073
   election_id: 4000
   title: "Ohio 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/oh/vipFeed-39-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -583,7 +583,7 @@ data {
   nid: 3074
   election_id: 4000
   title: "District of Columbia 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/dc/vipFeed-11-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/dc/vipFeed-11-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -593,7 +593,7 @@ data {
   nid: 3075
   election_id: 4000
   title: "Connecticut 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ct/vipFeed-09-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ct/vipFeed-09-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -602,7 +602,7 @@ data {
   nid: 3076
   election_id: 4000
   title: "Virginia 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -611,7 +611,7 @@ data {
   nid: 3077
   election_id: 4000
   title: "Los Angeles County 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -620,7 +620,7 @@ data {
   nid: 3078
   election_id: 4000
   title: "New Jersey 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/nj/vipFeed-34-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -629,7 +629,7 @@ data {
   nid: -100
   election_id: 4000
   title: "New Hampshire 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/nh/vipFeed-33-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nh/vipFeed-33-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -638,7 +638,7 @@ data {
   nid: -101
   election_id: 4000
   title: "Maine 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/me/vipFeed-23-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/me/vipFeed-23-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -647,6 +647,6 @@ data {
   nid: 3079
   election_id: 4000
   title: "Wisconsin 2012 General Election"
-  feed_url: "http://data.votinginfoproject.org/feeds/wi/vipFeed-55-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
