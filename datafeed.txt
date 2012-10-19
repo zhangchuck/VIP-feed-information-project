@@ -651,6 +651,114 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Arizona General Election (Unofficial)
+data {
+  nid: -103
+  election_id: 4000
+  title: "Arizona 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/az/vipFeed-04-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Alpine County, California General Election (Unofficial)
+data {
+  nid: -104
+  election_id: 4000
+  title: "Alpine County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06003-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Del Norte County, California General Election (Unofficial)
+data {
+  nid: -105
+  election_id: 4000
+  title: "Del Norte County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06015-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Merced County, California General Election (Unofficial)
+data {
+  nid: -106
+  election_id: 4000
+  title: "Merced County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06047-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Modoc County, California General Election (Unofficial)
+data {
+  nid: -107
+  election_id: 4000
+  title: "Modoc County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06049-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Sierra County, California General Election (Unofficial)
+data {
+  nid: -108
+  election_id: 4000
+  title: "Sierra County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06091-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Siskiyou County, California General Election (Unofficial)
+data {
+  nid: -109
+  election_id: 4000
+  title: "Siskiyou County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06093-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Sutter County, California General Election (Unofficial)
+data {
+  nid: -110
+  election_id: 4000
+  title: "Sutter County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06101-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Trinity County, California General Election (Unofficial)
+data {
+  nid: -111
+  election_id: 4000
+  title: "Trinity County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Louisiana General Election (Unofficial)
+data {
+  nid: -112
+  election_id: 4000
+  title: "Louisiana 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-21-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Massachusetts General Election (Unofficial)
+data {
+  nid: -113
+  election_id: 4000
+  title: "Massachusetts 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ma/vipFeed-22-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Tennessee General Election (Unofficial)
+data {
+  nid: -114
+  election_id: 4000
+  title: "Tennessee 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tn/vipFeed-47-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Wisconsin General Election
 data {
   nid: 3079
