@@ -434,12 +434,516 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## Palm Beach General Election (in Prod)
+## Palm Beach County, Florida General Election (in Prod)
 data {
   nid: 3056
   election_id: 4000
   title: "Palm Beach 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12099-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Lee County, Florida General Election
+data {
+  nid: 3060
+  election_id: 4000
+  title: "Lee County 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12071-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Sarasota County, Florida General Election
+data {
+  nid: 3061
+  election_id: 4000
+  title: "Sarasota 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12115-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Alachua County, Florida General Election
+data {
+  nid: 3081
+  election_id: 4000
+  title: "Alachua County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12001-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Baker County, Florida General Election
+data {
+  nid: 3082
+  election_id: 4000
+  title: "Baker County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12003-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Bay County, Florida General Election
+data {
+  nid: 3083
+  election_id: 4000
+  title: "Bay County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12005-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Bradford County, Florida General Election
+data {
+  nid: 3084
+  election_id: 4000
+  title: "Bradford County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12007-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Brevard County, Florida General Election
+data {
+  nid: 3085
+  election_id: 4000
+  title: "Brevard County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12009-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Broward County, Florida General Election
+data {
+  nid: 3086
+  election_id: 4000
+  title: "Broward County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12011-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Calhoun County, Florida General Election
+data {
+  nid: 3087
+  election_id: 4000
+  title: "Calhoun County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12013-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Charlotte County, Florida General Election
+data {
+  nid: 3088
+  election_id: 4000
+  title: "Charlotte County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12015-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Citrus County, Florida General Election
+data {
+  nid: 3089
+  election_id: 4000
+  title: "Citrus County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12017-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Clay County, Florida General Election
+data {
+  nid: 3090
+  election_id: 4000
+  title: "Clay County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12019-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Collier County, Florida General Election
+data {
+  nid: 3091
+  election_id: 4000
+  title: "Collier County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12021-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Columbia County, Florida General Election
+data {
+  nid: 3092
+  election_id: 4000
+  title: "Columbia County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12023-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Dixie County, Florida General Election
+data {
+  nid: 3093
+  election_id: 4000
+  title: "Dixie County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12029-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Duval County, Florida General Election
+data {
+  nid: 3094
+  election_id: 4000
+  title: "Duval County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12031-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Escambia County, Florida General Election
+data {
+  nid: 3095
+  election_id: 4000
+  title: "Escambia County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12033-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Flagler County, Florida General Election
+data {
+  nid: 3096
+  election_id: 4000
+  title: "Flagler County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12035-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Franklin County, Florida General Election
+data {
+  nid: 3097
+  election_id: 4000
+  title: "Franklin County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12037-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Gadsden County, Florida General Election
+data {
+  nid: 3098
+  election_id: 4000
+  title: "Gadsden County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12039-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Gilchrist County, Florida General Election
+data {
+  nid: 3099
+  election_id: 4000
+  title: "Gilchrist County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12041-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Glades County, Florida General Election
+data {
+  nid: 3100
+  election_id: 4000
+  title: "Glades County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12043-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Gulf County, Florida General Election
+data {
+  nid: 3101
+  election_id: 4000
+  title: "Gulf County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12045-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Hamilton County, Florida General Election
+data {
+  nid: 3102
+  election_id: 4000
+  title: "Hamilton County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12047-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Hardee County, Florida General Election
+data {
+  nid: 3103
+  election_id: 4000
+  title: "Hardee County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12049-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Hendry County, Florida General Election
+data {
+  nid: 3104
+  election_id: 4000
+  title: "Hendry County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12051-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Hernando County, Florida General Election
+data {
+  nid: 3105
+  election_id: 4000
+  title: "Hernando County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12053-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Highlands County, Florida General Election
+data {
+  nid: 3106
+  election_id: 4000
+  title: "Highlands County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12055-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Hillsborough County, Florida General Election
+data {
+  nid: 3107
+  election_id: 4000
+  title: "Hillsborough County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12057-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Holmes County, Florida General Election
+data {
+  nid: 3108
+  election_id: 4000
+  title: "Holmes County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12059-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Jackson County, Florida General Election
+data {
+  nid: 3109
+  election_id: 4000
+  title: "Jackson County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12063-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Jefferson County, Florida General Election
+data {
+  nid: 3110
+  election_id: 4000
+  title: "Jefferson County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12065-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Lafayette County, Florida General Election
+data {
+  nid: 3111
+  election_id: 4000
+  title: "Lafayette County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12067-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Lake County, Florida General Election
+data {
+  nid: 3112
+  election_id: 4000
+  title: "Lake County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12069-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Leon County, Florida General Election
+data {
+  nid: 3113
+  election_id: 4000
+  title: "Leon County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12073-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Levy County, Florida General Election
+data {
+  nid: 3114
+  election_id: 4000
+  title: "Levy County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12075-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Liberty County, Florida General Election
+data {
+  nid: 3115
+  election_id: 4000
+  title: "Liberty County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12077-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Madison County, Florida General Election
+data {
+  nid: 3116
+  election_id: 4000
+  title: "Madison County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12079-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Manatee County, Florida General Election
+data {
+  nid: 3117
+  election_id: 4000
+  title: "Manatee County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12081-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Marion County, Florida General Election
+data {
+  nid: 3118
+  election_id: 4000
+  title: "Marion County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12083-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Martin County, Florida General Election
+data {
+  nid: 3119
+  election_id: 4000
+  title: "Martin County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12085-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Monroe County, Florida General Election
+data {
+  nid: 3120
+  election_id: 4000
+  title: "Monroe County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12087-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Nassau County, Florida General Election
+data {
+  nid: 3121
+  election_id: 4000
+  title: "Nassau County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12089-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Okaloosa County, Florida General Election
+data {
+  nid: 3122
+  election_id: 4000
+  title: "Okaloosa County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12091-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Okeechobee County, Florida General Election
+data {
+  nid: 3123
+  election_id: 4000
+  title: "Okeechobee County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12093-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Osceola County, Florida General Election
+data {
+  nid: 3124
+  election_id: 4000
+  title: "Osceola County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12097-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Pasco County, Florida General Election
+data {
+  nid: 3125
+  election_id: 4000
+  title: "Pasco County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12101-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Pinellas County, Florida General Election
+data {
+  nid: 3126
+  election_id: 4000
+  title: "Pinellas County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12103-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Putnam County, Florida General Election
+data {
+  nid: 3127
+  election_id: 4000
+  title: "Putnam County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12107-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Sumter County, Florida General Election
+data {
+  nid: 3128
+  election_id: 4000
+  title: "Sumter County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12119-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Suwannee County, Florida General Election
+data {
+  nid: 3129
+  election_id: 4000
+  title: "Suwannee County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12121-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Taylor County, Florida General Election
+data {
+  nid: 3130
+  election_id: 4000
+  title: "Taylor County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12123-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Union County, Florida General Election
+data {
+  nid: 3131
+  election_id: 4000
+  title: "Union County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12125-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Wakulla County, Florida General Election
+data {
+  nid: 3132
+  election_id: 4000
+  title: "Wakulla County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12129-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Walton County, Florida General Election
+data {
+  nid: 3133
+  election_id: 4000
+  title: "Walton County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12131-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Washington County, Florida General Election
+data {
+  nid: 3134
+  election_id: 4000
+  title: "Washington County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-12133-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -470,23 +974,6 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-## Lee County General Election
-data {
-  nid: 3060
-  election_id: 4000
-  title: "Lee County 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12071-2012-11-06.zip"
-  user: "jared@votinginfoproject.org"
-}
-
-## Sarasota County General Election
-data {
-  nid: 3061
-  election_id: 4000
-  title: "Sarasota 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12115-2012-11-06.zip"
-  user: "jared@votinginfoproject.org"
-}
 
 ## Maricopa County General Election
 data {
@@ -727,7 +1214,7 @@ data {
 data {
   nid: -111
   election_id: 4000
-  title: "Trinity County, California 2012 General Election"
+  title: "Trinity C/ounty, California 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
@@ -737,7 +1224,7 @@ data {
   nid: -112
   election_id: 4000
   title: "Louisiana 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-21-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -746,7 +1233,7 @@ data {
   nid: -113
   election_id: 4000
   title: "Massachusetts 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ma/vipFeed-22-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ma/vipFeed-25-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -756,6 +1243,51 @@ data {
   election_id: 4000
   title: "Tennessee 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/tn/vipFeed-47-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Dade County, Florida General Election (Unofficial)
+data {
+  nid: -115
+  election_id: 4000
+  title: "Dade County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12025-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Orange County, Florida General Election (Unofficial)
+data {
+  nid: -116
+  election_id: 4000
+  title: "Orange County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12095-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Polk County, Florida General Election (Unofficial)
+data {
+  nid: -117
+  election_id: 4000
+  title: "Polk County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12105-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Seminole County, Florida General Election (Unofficial)
+data {
+  nid: -118
+  election_id: 4000
+  title: "Seminole County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12117-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Volusia County, Florida General Election (Unofficial)
+data {
+  nid: -119
+  election_id: 4000
+  title: "Volusia County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12127-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -776,3 +1308,13 @@ data {
   feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
+
+## Hawaii General Election
+data {
+  nid: 3135
+  election_id: 4000
+  title: "Hawaii 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/hi/vipFeed-15-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
