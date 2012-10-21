@@ -1336,6 +1336,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## New York City, New York General Election (Unofficial)
+data {
+  nid: -120
+  election_id: 4000
+  title: "New York City, New York 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-3651000-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Wisconsin General Election
 data {
   nid: 3079
@@ -1362,4 +1371,3 @@ data {
   feed_url: "https://data.votinginfoproject.org/feeds/hi/vipFeed-15-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
-
