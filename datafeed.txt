@@ -947,6 +947,51 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## De Soto County, Florida General Election
+data {
+  nid: 3136
+  election_id: 4000
+  title: "De Soto County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12027-2012-11-06.xml.gz"
+  user: "jared@votinginfoproject.org"
+}
+
+## Indian River County, Florida General Election
+data {
+  nid: 3137
+  election_id: 4000
+  title: "Indian River County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12061-2012-11-06.xml.gz"
+  user: "jared@votinginfoproject.org"
+}
+
+## Saint Johns County, Florida General Election
+data {
+  nid: 3138
+  election_id: 4000
+  title: "Saint Johns County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12109-2012-11-06.xml.gz"
+  user: "jared@votinginfoproject.org"
+}
+
+## Saint Lucie County, Florida General Election
+data {
+  nid: 3139
+  election_id: 4000
+  title: "Saint Lucie County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12111-2012-11-06.xml.gz"
+  user: "jared@votinginfoproject.org"
+}
+
+## Santa Rosa County, Florida General Election
+data {
+  nid: 3140
+  election_id: 4000
+  title: "Santa Rosa County, Florida 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12113-2012-11-06.xml.gz"
+  user: "jared@votinginfoproject.org"
+}
+
 ## Nebraska General Election (in Prod)
 data {
   nid: 3057
