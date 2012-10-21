@@ -1259,8 +1259,17 @@ data {
 data {
   nid: -111
   election_id: 4000
-  title: "Trinity C/ounty, California 2012 General Election"
+  title: "Trinity County, California 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## San Francisco County, California General Election (Unofficial)
+data {
+  nid: -121
+  election_id: 4000
+  title: "San Francisco, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06075-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -1369,5 +1378,41 @@ data {
   election_id: 4000
   title: "Hawaii 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/hi/vipFeed-15-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Humboldt County, California General Election
+data {
+  nid: 3141
+  election_id: 4000
+  title: "Humboldt County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06023-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Kern County, California General Election
+data {
+  nid: 3142
+  election_id: 4000
+  title: "Kern County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06029-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Santa Clara County, California General Election
+data {
+  nid: 3143
+  election_id: 4000
+  title: "Santa Clara County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06085-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Sonoma County, California General Election
+data {
+  nid: 3144
+  election_id: 4000
+  title: "Sonoma County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06097-2012-11-06.zip"
   user: "jared@votinginfoproject.org"
 }
