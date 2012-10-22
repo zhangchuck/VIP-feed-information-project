@@ -1642,3 +1642,12 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## Alabama General Election
+data {
+  nid: 3164
+  election_id: 4000
+  title: "Alabama 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/al/vipFeed-01-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
