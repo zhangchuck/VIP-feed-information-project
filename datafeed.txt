@@ -1259,8 +1259,26 @@ data {
 data {
   nid: -121
   election_id: 4000
-  title: "San Francisco, California 2012 General Election"
+  title: "San Francisco County, California 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06075-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Amador County, California General Election (Unofficial)
+data {
+  nid: -126
+  election_id: 4000
+  title: "Amador County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06005-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Glenn County, California General Election (Unofficial)
+data {
+  nid: -127
+  election_id: 4000
+  title: "Glenn County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06021-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -1585,6 +1603,15 @@ data {
   election_id: 4000
   title: "St Louis City, Missouri 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29510-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## St Louis County, Missouri General Election (Unofficial)
+data {
+  nid: -125
+  election_id: 4000
+  title: "St Louis County, Missouri 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29189-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
