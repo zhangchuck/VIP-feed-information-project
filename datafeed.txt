@@ -1354,6 +1354,33 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Boone County, Missouri General Election (Unofficial)
+data {
+  nid: -122
+  election_id: 4000
+  title: "Boone County, Missouri 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29019-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## St Charles County, Missouri General Election (Unofficial)
+data {
+  nid: -123
+  election_id: 4000
+  title: "St Charles County, Missouri 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29183-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## St Louis City, Missouri General Election (Unofficial)
+data {
+  nid: -124
+  election_id: 4000
+  title: "St Louis City, Missouri 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29510-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Wisconsin General Election
 data {
   nid: 3079
