@@ -1498,6 +1498,24 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## Alameda County, California General Election
+data {
+  nid: 3164
+  election_id: 4000
+  title: "Alameda County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06001-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## Stanislaus County, California General Election
+data {
+  nid: 3165
+  election_id: 4000
+  title: "Stanislaus County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06099-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -1642,12 +1660,14 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## Alabama General Election
+## Alabama General Election (Unofficial)
 data {
-  nid: 3164
+  nid: -128
   election_id: 4000
   title: "Alabama 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/al/vipFeed-01-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
+##highest: 3165
+##lowest: -128
