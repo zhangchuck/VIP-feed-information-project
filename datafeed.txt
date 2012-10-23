@@ -1724,13 +1724,13 @@ data {
 }
 
 ## Indiana General Election (Unofficial)
-##data {
-##  nid: -129
-##  election_id: 4000
-##  title: "Indiana 2012 General Election"
-##  feed_url: "https://data.votinginfoproject.org/feeds/in/vipFeed-18-2012-11-06.zip"
-##  user: "mike@votinginfoproject.org"
-##}
+data {
+  nid: -129
+  election_id: 4000
+  title: "Indiana 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/in/vipFeed-18-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
 ## Idaho General Election (Unofficial)
 data {
