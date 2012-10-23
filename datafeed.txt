@@ -1516,6 +1516,51 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## Lassen County, California General Election
+data {
+  nid: -131
+  election_id: 4000
+  title: "Lassen County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06035-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Lake County, California General Election
+data {
+  nid: -132
+  election_id: 4000
+  title: "Lake County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06033-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Madera County, California General Election
+data {
+  nid: -133
+  election_id: 4000
+  title: "Madera County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06039-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Napa County, California General Election
+data {
+  nid: -134
+  election_id: 4000
+  title: "Napa County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06055-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Monterey County, California General Election
+data {
+  nid: -135
+  election_id: 4000
+  title: "Monterey County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06053-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -1670,13 +1715,13 @@ data {
 }
 
 ## Indiana General Election (Unofficial)
-data {
-  nid: -129
-  election_id: 4000
-  title: "Indiana 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/in/vipFeed-18-2012-11-06.zip"
-  user: "mike@votinginfoproject.org"
-}
+##data {
+##  nid: -129
+##  election_id: 4000
+##  title: "Indiana 2012 General Election"
+##  feed_url: "https://data.votinginfoproject.org/feeds/in/vipFeed-18-2012-11-06.zip"
+##  user: "mike@votinginfoproject.org"
+##}
 
 ## Idaho General Election (Unofficial)
 data {
@@ -1687,6 +1732,5 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-
 ##highest: 3165
-##lowest: -130
+##lowest: -135
