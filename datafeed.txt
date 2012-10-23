@@ -1678,5 +1678,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Idaho General Election (Unofficial)
+data {
+  nid: -130
+  election_id: 4000
+  title: "Idaho 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/id/vipFeed-16-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+
 ##highest: 3165
-##lowest: -129
+##lowest: -130
