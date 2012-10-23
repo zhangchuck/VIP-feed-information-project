@@ -1705,6 +1705,15 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## Rhode Island General Election
+data {
+  nid: 3166
+  election_id: 4000
+  title: "Rhode Island 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
 ## Alabama General Election (Unofficial)
 data {
   nid: -128
@@ -1732,5 +1741,5 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3165
+##highest: 3166
 ##lowest: -135
