@@ -1570,6 +1570,24 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Placer County, California General Election
+data {
+  nid: 3167
+  election_id: 4000
+  title: "Placer County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06061-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## San Joaquin County, California General Election
+data {
+  nid: 3168
+  election_id: 4000
+  title: "San Joaquin County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06077-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -1750,5 +1768,5 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3166
+##highest: 3168
 ##lowest: -136
