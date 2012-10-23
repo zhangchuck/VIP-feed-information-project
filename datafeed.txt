@@ -1561,6 +1561,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Tuolumne County, California General Election
+data {
+  nid: -136
+  election_id: 4000
+  title: "Tuolumne County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06109-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -1742,4 +1751,4 @@ data {
 }
 
 ##highest: 3166
-##lowest: -135
+##lowest: -136
