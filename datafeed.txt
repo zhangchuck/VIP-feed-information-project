@@ -2166,5 +2166,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3168
+## Illinois General Election
+data {
+  nid: 3169
+  election_id: 4000
+  title: "Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3169
 ##lowest: -180
