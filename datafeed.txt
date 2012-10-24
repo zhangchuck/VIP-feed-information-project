@@ -1588,6 +1588,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## San Bernardino County, California General Election
+data {
+  nid: -137
+  election_id: 4000
+  title: "San Bernardino County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -1768,5 +1777,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Georgia General Election (Unofficial)
+data {
+  nid: -138
+  election_id: 4000
+  title: "Georgia 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ga/vipFeed-13-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3168
-##lowest: -136
+##lowest: -138
