@@ -2175,5 +2175,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3169
+## North Dakota General Election
+data {
+  nid: 3170
+  election_id: 4000
+  title: "North Dakota 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/nd/vipFeed-38-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3170
 ##lowest: -180
