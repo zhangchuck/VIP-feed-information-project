@@ -1977,5 +1977,194 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Adams County, Illinois General Election (Unofficial)
+data {
+  nid: -160
+  election_id: 4000
+  title: "Adams County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17001-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Boone County, Illinois General Election (Unofficial)
+data {
+  nid: -161
+  election_id: 4000
+  title: "Boone County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17007-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Brown County, Illinois General Election (Unofficial)
+data {
+  nid: -162
+  election_id: 4000
+  title: "Brown County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17009-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Christian County, Illinois General Election (Unofficial)
+data {
+  nid: -163
+  election_id: 4000
+  title: "Christian County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17021-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Douglas County, Illinois General Election (Unofficial)
+data {
+  nid: -164
+  election_id: 4000
+  title: "Douglas County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17041-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Ford County, Illinois General Election (Unofficial)
+data {
+  nid: -165
+  election_id: 4000
+  title: "Ford County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17053-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Franklin County, Illinois General Election (Unofficial)
+data {
+  nid: -166
+  election_id: 4000
+  title: "Franklin County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17055-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Henderson County, Illinois General Election (Unofficial)
+data {
+  nid: -167
+  election_id: 4000
+  title: "Henderson County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17071-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Jo Daviess County, Illinois General Election (Unofficial)
+data {
+  nid: -168
+  election_id: 4000
+  title: "Jo Daviess County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17085-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Kankakee County, Illinois General Election (Unofficial)
+data {
+  nid: -169
+  election_id: 4000
+  title: "Kankakee County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17091-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Lee County, Illinois General Election (Unofficial)
+data {
+  nid: -170
+  election_id: 4000
+  title: "Lee County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17103-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Madison County, Illinois General Election (Unofficial)
+data {
+  nid: -171
+  election_id: 4000
+  title: "Madison County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17119-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Mason County, Illinois General Election (Unofficial)
+data {
+  nid: -172
+  election_id: 4000
+  title: "Mason County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17125-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Piatt County, Illinois General Election (Unofficial)
+data {
+  nid: -173
+  election_id: 4000
+  title: "Piatt County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17147-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Pike County, Illinois General Election (Unofficial)
+data {
+  nid: -174
+  election_id: 4000
+  title: "Pike County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17149-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Putnam County, Illinois General Election (Unofficial)
+data {
+  nid: -175
+  election_id: 4000
+  title: "Putnam County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17155-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Schuyler County, Illinois General Election (Unofficial)
+data {
+  nid: -176
+  election_id: 4000
+  title: "Schuyler County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17169-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Shelby County, Illinois General Election (Unofficial)
+data {
+  nid: -177
+  election_id: 4000
+  title: "Shelby County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17173-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Stephenson County, Illinois General Election (Unofficial)
+data {
+  nid: -178
+  election_id: 4000
+  title: "Stephenson County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17177-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Tazewell County, Illinois General Election (Unofficial)
+data {
+  nid: -179
+  election_id: 4000
+  title: "Tazwell County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17179-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Clark County, Illinois General Election (Unofficial)
+data {
+  nid: -180
+  election_id: 4000
+  title: "Clark County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17023-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3168
-##lowest: -159
+##lowest: -180
