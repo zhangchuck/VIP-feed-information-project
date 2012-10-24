@@ -1786,5 +1786,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Iowa General Election (Unofficial)
+data {
+  nid: -139
+  election_id: 4000
+  title: "Iowa 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3168
-##lowest: -138
+##lowest: -139
