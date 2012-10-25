@@ -2352,7 +2352,7 @@ data {
   election_id: 4000
   title: "South Carolina 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-11-06.zip"
-  user: "jared@votinginfoproject.org"
+  user: "tiana@votinginfoproject.org"
 }
 
 ##highest: 3171
