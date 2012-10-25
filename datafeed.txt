@@ -2364,5 +2364,14 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-##highest: 3172
+## Utah General Election
+data {
+  nid: 3173
+  election_id: 4000
+  title: "Utah 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3173
 ##lowest: -198
