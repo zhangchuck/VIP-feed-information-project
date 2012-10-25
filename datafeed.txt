@@ -2355,5 +2355,14 @@ data {
   user: "tiana@votinginfoproject.org"
 }
 
-##highest: 3171
+## West Virginia General Election
+data {
+  nid: 3172
+  election_id: 4000
+  title: "West Virginia 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3172
 ##lowest: -198
