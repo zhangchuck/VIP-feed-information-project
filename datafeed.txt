@@ -1892,7 +1892,7 @@ data {
   nid: -150
   election_id: 4000
   title: "McDonough County, Illinois 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-170109-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17109-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -2184,5 +2184,14 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## Arkansas General Election
+data {
+  nid: -181
+  election_id: 4000
+  title: "Arkansas 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ar/vipFeed-05-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3170
-##lowest: -180
+##lowest: -181
