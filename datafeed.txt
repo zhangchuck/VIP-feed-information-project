@@ -2175,6 +2175,150 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Bureau County, Illinois General Election (Unofficial)
+data {
+  nid: -183
+  election_id: 4000
+  title: "Bureau County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17011-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Carroll County, Illinois General Election (Unofficial)
+data {
+  nid: -184
+  election_id: 4000
+  title: "Carroll County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17015-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Clay County, Illinois General Election (Unofficial)
+data {
+  nid: -185
+  election_id: 4000
+  title: "Clay County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17025-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Clinton County, Illinois General Election (Unofficial)
+data {
+  nid: -186
+  election_id: 4000
+  title: "Clinton County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17027-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Edwards County, Illinois General Election (Unofficial)
+data {
+  nid: -187
+  election_id: 4000
+  title: "Edwards County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17047-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Fulton County, Illinois General Election (Unofficial)
+data {
+  nid: -188
+  election_id: 4000
+  title: "Fulton County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17057-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Greene County, Illinois General Election (Unofficial)
+data {
+  nid: -189
+  election_id: 4000
+  title: "Greene County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17061-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Hancock County, Illinois General Election (Unofficial)
+data {
+  nid: -190
+  election_id: 4000
+  title: "Hancock County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17067-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Jackson County, Illinois General Election (Unofficial)
+data {
+  nid: -191
+  election_id: 4000
+  title: "Jackson County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17077-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Kendall County, Illinois General Election (Unofficial)
+data {
+  nid: -192
+  election_id: 4000
+  title: "Kendall County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17093-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Macon County, Illinois General Election (Unofficial)
+data {
+  nid: -193
+  election_id: 4000
+  title: "Macon County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17115-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Macoupin County, Illinois General Election (Unofficial)
+data {
+  nid: -194
+  election_id: 4000
+  title: "Macoupin County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17117-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Richland County, Illinois General Election (Unofficial)
+data {
+  nid: -195
+  election_id: 4000
+  title: "Richland County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17159-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Vermilion County, Illinois General Election (Unofficial)
+data {
+  nid: -196
+  election_id: 4000
+  title: "Vermilion County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17183-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Wabash County, Illinois General Election (Unofficial)
+data {
+  nid: -197
+  election_id: 4000
+  title: "Wabash County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17185-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Washington County, Illinois General Election (Unofficial)
+data {
+  nid: -198
+  election_id: 4000
+  title: "Washington County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17189-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## North Dakota General Election
 data {
   nid: 3170
@@ -2203,4 +2347,4 @@ data {
 }
 
 ##highest: 3170
-##lowest: -182
+##lowest: -198
