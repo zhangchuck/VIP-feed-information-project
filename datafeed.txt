@@ -2373,5 +2373,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Vermont General Election
+data {
+  nid: 3174
+  election_id: 4000
+  title: "Vermont 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/vt/vipFeed-50-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3173
 ##lowest: -198
