@@ -2438,7 +2438,7 @@ data {
 
 ## Morgan County, Illinois General Eelction (Unofficial)
 data {
-  nid: -215
+  nid: -214
   election_id: 4000
   title: "Morgan County, Illinois 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17137-2012-11-06.zip"
@@ -2447,7 +2447,7 @@ data {
 
 ## Perry County, Illinois General Eelction (Unofficial)
 data {
-  nid: -216
+  nid: -215
   election_id: 4000
   title: "Perry County, Illinois 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17145-2012-11-06.zip"
@@ -2456,7 +2456,7 @@ data {
 
 ## Randolph County, Illinois General Eelction (Unofficial)
 data {
-  nid: -214
+  nid: -216
   election_id: 4000
   title: "Randolph County, Illinois 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17157-2012-11-06.zip"
@@ -2465,7 +2465,7 @@ data {
 
 ## Sangamon County, Illinois General Eelction (Unofficial)
 data {
-  nid: -215
+  nid: -217
   election_id: 4000
   title: "Sangamon County, Illinois 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17167-2012-11-06.zip"
@@ -2474,7 +2474,7 @@ data {
 
 ## Union County, Illinois General Eelction (Unofficial)
 data {
-  nid: -216
+  nid: -218
   election_id: 4000
   title: "Union County, Illinois 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17181-2012-11-06.zip"
@@ -2483,7 +2483,7 @@ data {
 
 ## Williamson County, Illinois General Eelction (Unofficial)
 data {
-  nid: -217
+  nid: -219
   election_id: 4000
   title: "Williamson County, Illinois 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17199-2012-11-06.zip"
@@ -2547,7 +2547,7 @@ data {
 ## Vermont General Election
 data {
   nid: -199
-  election_id: 4000 
+  election_id: 4000
   title: "Vermont 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/vt/vipFeed-50-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2556,7 +2556,7 @@ data {
 ## Travis County, Texas General Election
 data {
   nid: -204
-  election_id: 4000 
+  election_id: 4000
   title: "Travis County, Texas  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48453-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2565,11 +2565,11 @@ data {
 ## Bexar County, Texas General Election
 data {
   nid: 3174
-  election_id: 4000 
+  election_id: 4000
   title: "Bexar County, Texas  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48029-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
 ##highest: 3174
-##lowest: -217
+##lowest: -219
