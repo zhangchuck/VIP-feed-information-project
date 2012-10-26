@@ -2562,5 +2562,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3173
+## Bexar County, Texas General Election
+data {
+  nid: 3174
+  election_id: 4000 
+  title: "Bexar County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48029-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3174
 ##lowest: -217
