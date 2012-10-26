@@ -2436,6 +2436,60 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Morgan County, Illinois General Eelction (Unofficial)
+data {
+  nid: -215
+  election_id: 4000
+  title: "Morgan County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17137-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Perry County, Illinois General Eelction (Unofficial)
+data {
+  nid: -216
+  election_id: 4000
+  title: "Perry County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17145-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Randolph County, Illinois General Eelction (Unofficial)
+data {
+  nid: -214
+  election_id: 4000
+  title: "Randolph County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17157-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Sangamon County, Illinois General Eelction (Unofficial)
+data {
+  nid: -215
+  election_id: 4000
+  title: "Sangamon County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17167-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Union County, Illinois General Eelction (Unofficial)
+data {
+  nid: -216
+  election_id: 4000
+  title: "Union County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17181-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Williamson County, Illinois General Eelction (Unofficial)
+data {
+  nid: -217
+  election_id: 4000
+  title: "Williamson County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17199-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## North Dakota General Election
 data {
   nid: 3170
@@ -2509,4 +2563,4 @@ data {
 }
 
 ##highest: 3173
-##lowest: -213
+##lowest: -217
