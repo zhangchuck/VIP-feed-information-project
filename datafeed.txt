@@ -2571,5 +2571,14 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3174
+## South Dakota General Election
+data {
+  nid: 3175
+  election_id: 4000
+  title: "South Dakota 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/sd/vipFeed-46-2012-11-06.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3175
 ##lowest: -219
