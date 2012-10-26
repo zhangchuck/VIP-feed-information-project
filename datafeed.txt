@@ -2355,7 +2355,86 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Coles County, Illinois General Eelction (Unofficial)
+data {
+  nid: -205
+  election_id: 4000
+  title: "Coles County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17029-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
+## Edgar County, Illinois General Eelction (Unofficial)
+data {
+  nid: -206
+  election_id: 4000
+  title: "Edgar County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17045-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Jasper County, Illinois General Eelction (Unofficial)
+data {
+  nid: -207
+  election_id: 4000
+  title: "Jasper County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17079-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Livingston County, Illinois General Eelction (Unofficial)
+data {
+  nid: -208
+  election_id: 4000
+  title: "Livingston County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17105-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Marshall County, Illinois General Eelction (Unofficial)
+data {
+  nid: -209
+  election_id: 4000
+  title: "Marshall County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17123-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Warren County, Illinois General Eelction (Unofficial)
+data {
+  nid: -210
+  election_id: 4000
+  title: "Warren County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17187-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Wayne County, Illinois General Eelction (Unofficial)
+data {
+  nid: -211
+  election_id: 4000
+  title: "Wayne County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17191-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## White County, Illinois General Eelction (Unofficial)
+data {
+  nid: -212
+  election_id: 4000
+  title: "White County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17193-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Winnebago County, Illinois General Eelction (Unofficial)
+data {
+  nid: -213
+  election_id: 4000
+  title: "Winnebago County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17201-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
 ## North Dakota General Election
 data {
@@ -2430,4 +2509,4 @@ data {
 }
 
 ##highest: 3173
-##lowest: -199
+##lowest: -213
