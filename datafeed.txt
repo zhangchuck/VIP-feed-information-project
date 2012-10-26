@@ -1615,6 +1615,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Mariposa County, California General Election
+data {
+  nid: -223
+  election_id: 4000
+  title: "Mariposa County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06043-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Yolo County, California General Election
 data {
   nid: -203
@@ -1623,6 +1632,8 @@ data {
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
+
+
 
 ## Louisiana General Election (Unofficial)
 data {
@@ -2490,6 +2501,33 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Aurora City, Illinois General Eelction (Unofficial)
+data {
+  nid: -220
+  election_id: 4000
+  title: "Aurora City, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-1703012-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Johnson County, Illinois General Eelction (Unofficial)
+data {
+  nid: -221
+  election_id: 4000
+  title: "Johnson County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17087-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Iroquois County, Illinois General Eelction (Unofficial)
+data {
+  nid: -222
+  election_id: 4000
+  title: "Iroquois County, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17075-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## North Dakota General Election
 data {
   nid: 3170
@@ -2562,6 +2600,61 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Dallas County, Texas General Election
+data {
+  nid: -224
+  election_id: 4000
+  title: "Dallas County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48113-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Collin County, Texas General Election
+data {
+  nid: -225
+  election_id: 4000
+  title: "Collin County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48085-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+
+## El Paso County, Texas General Election
+data {
+  nid: -226
+  election_id: 4000
+  title: "El Paso County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48141-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Harris County, Texas General Election
+data {
+  nid: -227
+  election_id: 4000
+  title: "Harris County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48201-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Hidalgo County, Texas General Election
+data {
+  nid: -228
+  election_id: 4000
+  title: "Hidalgo County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48215-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Tarrant County, Texas General Election
+data {
+  nid: -229
+  election_id: 4000
+  title: "Tarrant County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48439-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Bexar County, Texas General Election
 data {
   nid: 3174
@@ -2581,4 +2674,4 @@ data {
 }
 
 ##highest: 3175
-##lowest: -219
+##lowest: -229
