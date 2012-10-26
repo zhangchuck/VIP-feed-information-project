@@ -1597,6 +1597,33 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Medocino County, California General Election
+data {
+  nid: -201
+  election_id: 4000
+  title: "Mendocino County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06045-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## San Luis Obispo County, California General Election
+data {
+  nid: -202
+  election_id: 4000
+  title: "San Luis Obispo County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06079-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Yolo County, California General Election
+data {
+  nid: -203
+  election_id: 4000
+  title: "Yolo County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -2319,6 +2346,17 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## City of Danville, Illinois General Eelction (Unofficial)
+data {
+  nid: -200
+  election_id: 4000
+  title: "City of Danville, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-1718563-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+
+
 ## North Dakota General Election
 data {
   nid: 3170
@@ -2379,6 +2417,15 @@ data {
   election_id: 4000 
   title: "Vermont 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/vt/vipFeed-50-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Travis County, Texas General Election
+data {
+  nid: -204
+  election_id: 4000 
+  title: "Travis County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48453-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
