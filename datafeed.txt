@@ -2664,6 +2664,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Fort Bend County, Texas General Election
+data {
+  nid: -230
+  election_id: 4000
+  title: "Fort Bend County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48157-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## South Dakota General Election
 data {
   nid: 3175
@@ -2673,5 +2682,59 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## Adams County, Pennsylvania General Election
+data {
+  nid: -231
+  election_id: 2000
+  title: "Adams County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42001-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Monroe County, Pennsylvania General Election
+data {
+  nid: -232
+  election_id: 2000
+  title: "Monroe County, Pennsylvania  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42089-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Comanche County, Oklahoma General Election
+data {
+  nid: -233
+  election_id: 2000
+  title: "Comanche County, Oklahoma  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40031-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Carter County, Oklahoma General Election
+data {
+  nid: -234
+  election_id: 2000
+  title: "Carter County, Oklahoma  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40019-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Lamar County, Mississippi General Election
+data {
+  nid: -235
+  election_id: 2000
+  title: "Lamar County, Mississippi  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28073-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Jefferson County, Colorado General Election
+data {
+  nid: -236
+  election_id: 2000
+  title: "Jefferson County, Colorado  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/co/vipFeed-08059-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3175
-##lowest: -229
+##lowest: -236
