@@ -2727,14 +2727,16 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+# Do not reuse dataset -236
+
 ## Jefferson County, Colorado General Election
 data {
-  nid: -236
-  election_id: 2000
+  nid: -237
+  election_id: 4000
   title: "Jefferson County, Colorado  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/co/vipFeed-08059-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
 ##highest: 3175
-##lowest: -236
+##lowest: -237
