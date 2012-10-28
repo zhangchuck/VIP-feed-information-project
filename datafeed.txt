@@ -1633,7 +1633,23 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Solano County, California General Election
+data {
+  nid: -239
+  election_id: 4000
+  title: "Solano County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06095-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
+## Mono County, California General Election
+data {
+  nid: -240
+  election_id: 4000
+  title: "Mono County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06051-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
 ## Louisiana General Election (Unofficial)
 data {
@@ -2670,6 +2686,60 @@ data {
   election_id: 4000
   title: "Fort Bend County, Texas  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48157-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Cameron County, Texas General Election
+data {
+  nid: -241
+  election_id: 4000
+  title: "Cameron County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48061-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Galveston County, Texas General Election
+data {
+  nid: -242
+  election_id: 4000
+  title: "Galveston County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48167-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Jefferson County, Texas General Election
+data {
+  nid: -243
+  election_id: 4000
+  title: "Jefferson County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48245-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Montgomery County, Texas General Election
+data {
+  nid: -244
+  election_id: 4000
+  title: "Montgomery County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48339-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Nueces County, Texas General Election
+data {
+  nid: -245
+  election_id: 4000
+  title: "Nueces County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48355-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Williamson County, Texas General Election
+data {
+  nid: -246
+  election_id: 4000
+  title: "Williamson County, Texas  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48491-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
