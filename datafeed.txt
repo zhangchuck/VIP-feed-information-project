@@ -2833,6 +2833,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Pearl River County, Mississippi General Election
+data {
+  nid: -251
+  election_id: 2000
+  title: "Pearl River County, Mississippi  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28109-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Jefferson County, Colorado General Election
 data {
   nid: -237
@@ -2861,5 +2870,5 @@ data {
 }
 
 ##highest: 3177
-##lowest: -250
+##lowest: -251
 # Do not reuse datasets -236, -199
