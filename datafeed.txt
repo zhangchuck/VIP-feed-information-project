@@ -1651,6 +1651,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Nevada County, California General Election
+data {
+  nid: -248
+  election_id: 4000
+  title: "Nevada County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06057-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -2767,6 +2776,15 @@ data {
   election_id: 2000
   title: "Monroe County, Pennsylvania  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42089-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Lycoming County, Pennsylvania General Election
+data {
+  nid: -247
+  election_id: 2000
+  title: "Lycoming County, Pennsylvania  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42081-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
