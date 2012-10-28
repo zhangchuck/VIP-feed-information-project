@@ -2806,6 +2806,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Rogers County, Oklahoma General Election
+data {
+  nid: -249
+  election_id: 2000
+  title: "Rogers County, Oklahoma  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40131-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Lamar County, Mississippi General Election
 data {
   nid: -235
@@ -2843,5 +2852,5 @@ data {
 }
 
 ##highest: 3177
-##lowest: -238
+##lowest: -249
 # Do not reuse datasets -236, -199
