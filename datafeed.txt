@@ -2584,7 +2584,7 @@ data {
 
 ## Vermont General Election
 data {
-  nid: -199
+  nid: 3176
   election_id: 4000
   title: "Vermont 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/vt/vipFeed-50-2012-11-06.zip"
@@ -2727,8 +2727,6 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-# Do not reuse dataset -236
-
 ## Jefferson County, Colorado General Election
 data {
   nid: -237
@@ -2747,5 +2745,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3175
+## New York General Election
+data {
+  nid: 3177
+  election_id: 4000
+  title: "New York  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3177
 ##lowest: -238
+# Do not reuse datasets -236, -199
