@@ -2788,6 +2788,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Westmoreland County, Pennsylvania General Election
+data {
+  nid: -250
+  election_id: 2000
+  title: "Westmoreland County, Pennsylvania  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42129-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Comanche County, Oklahoma General Election
 data {
   nid: -233
@@ -2852,5 +2861,5 @@ data {
 }
 
 ##highest: 3177
-##lowest: -249
+##lowest: -250
 # Do not reuse datasets -236, -199
