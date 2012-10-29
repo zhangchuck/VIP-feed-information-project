@@ -2799,8 +2799,8 @@ data {
 
 ## Comanche County, Oklahoma General Election
 data {
-  nid: -233
-  election_id: 2000
+  nid: -252
+  election_id: 4000
   title: "Comanche County, Oklahoma  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40031-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2808,8 +2808,8 @@ data {
 
 ## Carter County, Oklahoma General Election
 data {
-  nid: -234
-  election_id: 2000
+  nid: -253
+  election_id: 4000
   title: "Carter County, Oklahoma  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40019-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2817,8 +2817,8 @@ data {
 
 ## Rogers County, Oklahoma General Election
 data {
-  nid: -249
-  election_id: 2000
+  nid: -254
+  election_id: 4000
   title: "Rogers County, Oklahoma  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ok/vipFeed-40131-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2870,5 +2870,5 @@ data {
 }
 
 ##highest: 3177
-##lowest: -251
-# Do not reuse datasets -236, -199
+##lowest: -254
+# Do not reuse datasets -236, -199, -233, -234, -249
