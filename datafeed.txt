@@ -2869,6 +2869,16 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Matanuska-Susitna Borough, Alaska General Election
+data {
+  nid: -255
+  election_id: 2000
+  title: "Matanuska-Susitna Borough, Alaska  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02170-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+
 ##highest: 3177
-##lowest: -254
+##lowest: -255
 # Do not reuse datasets -236, -199, -233, -234, -249
