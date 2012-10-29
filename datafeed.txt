@@ -2878,7 +2878,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Wisconsin Early Vote (Unofficial)
+data {
+  nid: -256
+  election_id: 4000
+  title: "Wisconsin Early Vote, 2012 General Election"
+  feed_url: "https://ballotinfo.org/evip/EV_WI.zip"
+  user: "mike@votinginfoproject.org"
+}
 
 ##highest: 3177
-##lowest: -255
+##lowest: -256
 # Do not reuse datasets -236, -199, -233, -234, -249
