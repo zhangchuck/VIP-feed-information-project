@@ -2553,6 +2553,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## City of Peoria, Illinois General Eelction
+data {
+  nid: 3178
+  election_id: 4000
+  title: "City of Peoria, Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-1759000-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## North Dakota General Election
 data {
   nid: 3170
@@ -2887,6 +2896,6 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3177
+##highest: 3178
 ##lowest: -256
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
