@@ -2896,6 +2896,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3178
+## Iowa 2012 General Election
+data {
+  nid: 3179
+  election_id: 2000
+  title: "Iowa 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19x-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3179
 ##lowest: -256
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
