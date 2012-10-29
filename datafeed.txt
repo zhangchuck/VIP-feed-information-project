@@ -2765,15 +2765,15 @@ data {
 data {
   nid: -231
   election_id: 2000
-  title: "Adams County, Texas  2012 General Election"
+  title: "Adams County, Pennsylvania  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42001-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
 ## Monroe County, Pennsylvania General Election
 data {
-  nid: -232
-  election_id: 2000
+  nid: -257
+  election_id: 4000
   title: "Monroe County, Pennsylvania  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42089-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2781,8 +2781,8 @@ data {
 
 ## Lycoming County, Pennsylvania General Election
 data {
-  nid: -247
-  election_id: 2000
+  nid: -258
+  election_id: 4000
   title: "Lycoming County, Pennsylvania  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42081-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2790,8 +2790,8 @@ data {
 
 ## Westmoreland County, Pennsylvania General Election
 data {
-  nid: -250
-  election_id: 2000
+  nid: -259
+  election_id: 4000
   title: "Westmoreland County, Pennsylvania  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42129-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2853,8 +2853,8 @@ data {
 
 ## Douglas County, Nebraska General Election
 data {
-  nid: -238
-  election_id: 2000
+  nid: -260
+  election_id: 4000
   title: "Douglas County, Nebraska  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ne/vipFeed-31055-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2889,4 +2889,4 @@ data {
 
 ##highest: 3177
 ##lowest: -256
-# Do not reuse datasets -236, -199, -233, -234, -249
+# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
