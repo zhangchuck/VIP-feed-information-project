@@ -2923,6 +2923,33 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Monroe County, Pennsylvania General Election
+data {
+  nid: -263
+  election_id: 2000
+  title: "Monroe County, Pennsylvania  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42089-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Lycoming County, Pennsylvania General Election
+data {
+  nid: -264
+  election_id: 2000
+  title: "Lycoming County, Pennsylvania  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42081-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Westmoreland County, Pennsylvania General Election
+data {
+  nid: -265
+  election_id: 2000
+  title: "Westmoreland County, Pennsylvania  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42129-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3179
-##lowest: -262
+##lowest: -265
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
