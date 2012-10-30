@@ -1777,6 +1777,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Kansas City, Missouri General Election (Unofficial)
+data {
+  nid: -261
+  election_id: 2000
+  title: "Kansas City, Missouri 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-2938000-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Wisconsin General Election
 data {
   nid: 3079
@@ -2906,5 +2915,5 @@ data {
 }
 
 ##highest: 3179
-##lowest: -256
+##lowest: -261
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
