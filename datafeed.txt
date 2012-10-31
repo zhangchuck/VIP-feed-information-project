@@ -2648,7 +2648,7 @@ data {
   nid: -204
   election_id: 4000
   title: "Travis County, Texas  2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48453-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48453-2012-11-06.zip.disabled"
   user: "mike@votinginfoproject.org"
 }
 
