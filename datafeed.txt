@@ -1660,6 +1660,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Santa Barbara County, California General Election
+data {
+  nid: -266
+  election_id: 4000
+  title: "Santa Barbara County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06083-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -2951,5 +2960,5 @@ data {
 }
 
 ##highest: 3179
-##lowest: -265
+##lowest: -266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
