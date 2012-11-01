@@ -1867,15 +1867,6 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-## Iowa General Election (Unofficial)
-data {
-  nid: -139
-  election_id: 4000
-  title: "Iowa 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-11-06.zip"
-  user: "mike@votinginfoproject.org"
-}
-
 ### Illinois Juridictions
 
 ## Bond County, Illinois General Election (Unofficial)
@@ -2648,7 +2639,7 @@ data {
   nid: -204
   election_id: 4000
   title: "Travis County, Texas  2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48453-2012-11-06.zip.disabled"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48453-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -2928,7 +2919,7 @@ data {
   nid: 3179
   election_id: 2000
   title: "Iowa 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19x-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
@@ -2961,4 +2952,4 @@ data {
 
 ##highest: 3179
 ##lowest: -266
-# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250
+# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, -139
