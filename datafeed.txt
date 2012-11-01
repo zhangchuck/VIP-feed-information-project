@@ -2950,6 +2950,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Oregon General Election
+data {
+  nid: -267
+  election_id: 4000
+  title: "Oregon 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/or/vipFeed-41-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ##highest: 3179
-##lowest: -266
+##lowest: -267
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, -139
