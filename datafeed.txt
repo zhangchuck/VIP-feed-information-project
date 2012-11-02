@@ -1669,6 +1669,15 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## Imperial County, California General Election
+data {
+  nid: -268
+  election_id: 4000
+  title: "Imperial County, California 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06025-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
+
 ## Louisiana General Election (Unofficial)
 data {
   nid: -112
@@ -2968,5 +2977,5 @@ data {
 }
 
 ##highest: 3180
-##lowest: -267
+##lowest: -268
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, -139, 3080
