@@ -2887,13 +2887,13 @@ data {
 }
 
 ## Douglas County, Nebraska General Election
-#data {
-#  nid: -260
-#  election_id: 4000
-#  title: "Douglas County, Nebraska  2012 General Election"
-#  feed_url: "https://data.votinginfoproject.org/feeds/ne/vipFeed-31055-2012-11-06.zip"
-#  user: "mike@votinginfoproject.org"
-#}
+data {
+  nid: -260
+  election_id: 4000
+  title: "Douglas County, Nebraska  2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ne/vipFeed-31055-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
 ## New York General Election
 data {
@@ -2969,4 +2969,4 @@ data {
 
 ##highest: 3180
 ##lowest: -267
-# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, -139, 3080, -260
+# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, -139, 3080
