@@ -27,15 +27,6 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-# Alaska
-data {
-  nid: 3005
-  election_id: 2000
-  title: "AK Test Election Data"
-  feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 # Ohio
 data {
   nid: 3006
@@ -45,30 +36,12 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-# Mississippi
-data {
-  nid: 3011
-  election_id: 2000
-  title: "MS Test Election Data"
-  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 # Virginia
 data {
   nid: 3015
   election_id: 2000
   title: "2011-11-08 VA General Election"
   feed_url: "http://www2.sbe.virginia.gov/GRDocs/VIP/vipFeed-51-2011-11-08.xml.zip"
-  user: "jared@votinginfoproject.org"
-}
-
-# Nebraska
-data {
-  nid: 3016
-  election_id: 2000
-  title: "NE Test Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ne/vipFeed-31.zip"
   user: "jared@votinginfoproject.org"
 }
 
@@ -96,15 +69,6 @@ data {
   election_id: 2000
   title: "WI Test Election"
   feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55.zip"
-  user: "jared@votinginfoproject.org"
-}
-
-# South Carolina Primary
-data {
-  nid: 3022
-  election_id: 2000
-  title: "SC Primary Test"
-  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-01-21.zip"
   user: "jared@votinginfoproject.org"
 }
 
