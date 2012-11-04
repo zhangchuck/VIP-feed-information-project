@@ -281,15 +281,6 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## Pennsylvania General (in Test)
-data {
-  nid: 3043
-  election_id: 2000
-  title: "Pennsylvania 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2012-11-06.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 ## Pennsylvania General (in Prod)
 data {
   nid: 3044
