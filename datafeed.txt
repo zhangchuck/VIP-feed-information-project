@@ -1626,8 +1626,8 @@ data {
 
 ## Imperial County, California General Election
 data {
-  nid: -268
-  election_id: 2000
+  nid: -272
+  election_id: 4000
   title: "Imperial County, California 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06025-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2834,8 +2834,8 @@ data {
 
 ## Lamar County, Mississippi General Election
 data {
-  nid: -235
-  election_id: 2000
+  nid: -274
+  election_id: 4000
   title: "Lamar County, Mississippi  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28073-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2843,8 +2843,8 @@ data {
 
 ## Pearl River County, Mississippi General Election
 data {
-  nid: -251
-  election_id: 2000
+  nid: -273
+  election_id: 4000
   title: "Pearl River County, Mississippi  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28109-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2879,8 +2879,8 @@ data {
 
 ## Matanuska-Susitna Borough, Alaska General Election
 data {
-  nid: -255
-  election_id: 2000
+  nid: -271
+  election_id: 4000
   title: "Matanuska-Susitna Borough, Alaska  2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02170-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2942,13 +2942,14 @@ data {
 
 ## Texas General Election
 data {
-  nid: -269
-  election_id: 2000
+  nid: -275
+  election_id: 4000
   title: "Texas 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
 }
 
 ##highest: 3180
-##lowest: -270
-# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, -139, 3080
+##lowest: -275
+# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
+# -139, 3080, -255, -268, -251, -235, -269
