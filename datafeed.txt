@@ -128,15 +128,6 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## Pennsylvania Municipal Election 2008
-data {
-  nid: 3012
-  election_id: 2008
-  title: "11-08-2011 PA Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42.zip"
-  user: "jared@votinginfoproject.org"
-}
-
 ## Mississippi General Election 2009
 data {
   nid: 3013
@@ -2229,13 +2220,13 @@ data {
 }
 
 ## Illinois General Election
-data {
-  nid: 3169
-  election_id: 4000
-  title: "Illinois 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2012-11-06.zip"
-  user: "mike@votinginfoproject.org"
-}
+#data {
+#  nid: 3169
+#  election_id: 4000
+#  title: "Illinois 2012 General Election"
+#  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2012-11-06.zip"
+#  user: "mike@votinginfoproject.org"
+#}
 
 ## Bureau County, Illinois General Election (Unofficial)
 data {
