@@ -2220,13 +2220,13 @@ data {
 }
 
 ## Illinois General Election
-#data {
-#  nid: 3169
-#  election_id: 4000
-#  title: "Illinois 2012 General Election"
-#  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2012-11-06.zip"
-#  user: "mike@votinginfoproject.org"
-#}
+data {
+  nid: 3169
+  election_id: 4000
+  title: "Illinois 2012 General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2012-11-06.zip"
+  user: "mike@votinginfoproject.org"
+}
 
 ## Bureau County, Illinois General Election (Unofficial)
 data {
