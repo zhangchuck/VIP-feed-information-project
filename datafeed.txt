@@ -2942,8 +2942,8 @@ data {
 
 ## Texas General Election
 data {
-  nid: -275
-  election_id: 4000
+  nid: -269
+  election_id: 2000
   title: "Texas 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
