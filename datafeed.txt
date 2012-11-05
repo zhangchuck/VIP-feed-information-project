@@ -2508,13 +2508,13 @@ data {
 }
 
 ## Aurora City, Illinois General Eelction (Unofficial)
-data {
-  nid: -220
-  election_id: 4000
-  title: "Aurora City, Illinois 2012 General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-1703012-2012-11-06.zip"
-  user: "mike@votinginfoproject.org"
-}
+#data {
+#  nid: -220
+#  election_id: 4000
+#  title: "Aurora City, Illinois 2012 General Election"
+#  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-1703012-2012-11-06.zip"
+#  user: "mike@votinginfoproject.org"
+#}
 
 ## Johnson County, Illinois General Eelction (Unofficial)
 data {
