@@ -1626,8 +1626,8 @@ data {
 
 ## Kings County, California General Election
 data {
-  nid: -270
-  election_id: 2000
+  nid: -277
+  election_id: 4000
   title: "Kings County, California 2012 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06031-2012-11-06.zip"
   user: "mike@votinginfoproject.org"
@@ -2941,6 +2941,6 @@ data {
 }
 
 ##highest: 3180
-##lowest: -276
+##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
-# -139, 3080, -255, -268, -251, -235, -269
+# -139, 3080, -255, -268, -251, -235, -269, -270
