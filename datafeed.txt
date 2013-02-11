@@ -2949,7 +2949,25 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3180
+## LA City Primary Election
+data {
+  nid: 3183
+  election_id: 4001
+  title: "LA City 2013 Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-03-05.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## LA County Combined Election (San Marino/South Pasedena/SD-32 Primary)
+data {
+  nid: 3184
+  election_id: 4001
+  title: "LA County 2013 Combined Election (San Marino/South Pasedena/SD-32 Primary)"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-03-12.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3184
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
