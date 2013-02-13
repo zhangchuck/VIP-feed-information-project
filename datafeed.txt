@@ -2961,7 +2961,7 @@ data {
 ## LA County Combined Election (San Marino/South Pasedena/SD-32 Primary)
 data {
   nid: 3184
-  election_id: 4001
+  election_id: 4002
   title: "LA County 2013 Combined Election (San Marino/South Pasedena/SD-32 Primary)"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-03-12.zip"
   user: "mike@votinginfoproject.org"
