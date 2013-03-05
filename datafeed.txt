@@ -2968,7 +2968,7 @@ data {
 }
 
 ## South Carolina HD-01 Primary
-data{
+data {
   nid: 3185
   election_id: 4003
   title: "South Carolina HD-01 Primary Election"
