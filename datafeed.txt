@@ -2972,7 +2972,7 @@ data {
   nid: 3185
   election_id: 4003
   title: "South Carolina HD-01 Primary Election"
-  feed_url: ""https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2013-03-19.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2013-03-19.zip"
   user: "mike@votinginfoproject.org"
 }
 
