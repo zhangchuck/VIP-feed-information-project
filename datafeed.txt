@@ -2994,8 +2994,25 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
+## CA Special Election SD-32
+data {
+  nid: 3188
+  election_id: 4004
+  title: "CA Special Election SD-32"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-05-14.zip"
+  user: "mike@votinginfoproject.org"
+}
 
-##highest: 3187
+## LA City Election
+data {
+  nid: 3189
+  election_id: 4005
+  title: "LA City 2013 Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-05-21.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3189
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
