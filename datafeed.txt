@@ -3012,7 +3012,16 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3189
+## South Carolina HD-01
+data {
+  nid: 3190
+  election_id: 4006
+  title: "South Carolina HD-01"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2013-05-07.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3190
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
