@@ -3030,7 +3030,16 @@ data {
   user: "mike@votinginfoproject.org"
 }
 
-##highest: 3191
+## Virginia Primary
+data {
+  nid: 3192
+  election_id: 4008
+  title: "Virginia Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-06-11.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+##highest: 3192
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
