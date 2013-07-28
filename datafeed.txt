@@ -3048,7 +3048,16 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-##highest: 3193
+## NYC Mayoral Primary
+data {
+  nid: 3194
+  election_id: 4010
+  title: "NYC 2013 Mayoral Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-09-10.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3194
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
