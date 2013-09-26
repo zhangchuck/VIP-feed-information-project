@@ -3075,7 +3075,16 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-##highest: 3196
+## NJ Special General Election for U.S. Senate
+data {
+  nid: 3197
+  election_id: 4012
+  title: "NJ 2013 Special General Election for U.S. Senate"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2013-10-16.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3197
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
