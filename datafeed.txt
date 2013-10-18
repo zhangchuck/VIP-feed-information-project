@@ -3084,6 +3084,15 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## NY General
+data {
+  nid: 3198
+  election_id: 4013
+  title: "NY 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
 ##highest: 3197
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
