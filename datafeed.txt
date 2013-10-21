@@ -3048,11 +3048,11 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## NYC Mayoral Primary
+## NYC Municipal Primary
 data {
   nid: 3194
   election_id: 4010
-  title: "NYC 2013 Mayoral Primary"
+  title: "NYC 2013 Municipal Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-09-10.zip"
   user: "jared@votinginfoproject.org"
 }
