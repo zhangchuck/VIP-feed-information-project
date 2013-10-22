@@ -3093,7 +3093,25 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-##highest: 3197
+## NJ General
+data {
+  nid: 3199
+  election_id: 4014
+  title: "NJ 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## VA General
+data {
+  nid: 3200
+  election_id: 4015
+  title: "VA 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3200
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
