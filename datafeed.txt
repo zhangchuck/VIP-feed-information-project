@@ -3111,7 +3111,16 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-##highest: 3200
+## MN Municipal General
+data {
+  nid: 3201
+  election_id: 4016
+  title: "MN 2013 Municipal General"
+  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+##highest: 3201
 ##lowest: -277
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250, 
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
