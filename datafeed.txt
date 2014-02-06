@@ -72,6 +72,15 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
+## South Carolina
+data {
+  nid: 3020
+  election_id: 2000
+  title: "SC Test Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-11-06.zip"
+  user: "tiana@votinginfoproject.org"
+}
+
 # Montana Primary
 data {
   nid: 3038
