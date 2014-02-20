@@ -1,16 +1,181 @@
 ## Datafeed for test election 2000
 
-## MN Municipal General - Sample
-##data {
-##  nid: 3201
-##  election_id: 4016
-##  title: "MN 2013 Municipal General"
-##  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2013-11-05.zip"
-##  user: "jared@votinginfoproject.org"
-##}
+## South Carolina
+data {
+  nid: 3020
+  election_id: 2000
+  title: "SC Test Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-11-06.zip"
+  user: "tiana@votinginfoproject.org"
+}
+
+## END Datafeed for test election 2000
+
+
+## LA City Primary Election
+data {
+  nid: 3183
+  election_id: 4001
+  title: "LA City 2013 Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-03-05.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## CA Special Elections (SD-32/SD-40)
+data {
+  nid: 3184
+  election_id: 4002
+  title: "CA Special Elections (SD-32/SD-40)"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-03-12.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## CA Special Elections (SD-32/SD-40)
+data {
+  nid: 3186
+  election_id: 4002
+  title: "CA Special Elections (SD-32/SD-40)"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2013-03-12.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## CA Special Elections (SD-32/SD-40)
+data {
+  nid: 3187
+  election_id: 4002
+  title: "CA Special Elections (SD-32/SD-40)"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2013-03-12.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## South Carolina HD-01 Primary
+data {
+  nid: 3185
+  election_id: 4003
+  title: "South Carolina HD-01 Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2013-03-19.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## CA Special Election SD-32
+data {
+  nid: 3188
+  election_id: 4004
+  title: "CA Special Election SD-32"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-05-14.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## LA City Election
+data {
+  nid: 3189
+  election_id: 4005
+  title: "LA City 2013 Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2013-05-21.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## South Carolina HD-01
+data {
+  nid: 3190
+  election_id: 4006
+  title: "South Carolina HD-01"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2013-05-07.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## New Jersey Primary
+data {
+  nid: 3191
+  election_id: 4007
+  title: "New Jersey Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2013-06-04.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## Virginia Primary
+data {
+  nid: 3192
+  election_id: 4008
+  title: "Virginia Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-06-11.zip"
+  user: "mike@votinginfoproject.org"
+}
+
+## NYC Municipal Primary
+data {
+  nid: 3194
+  election_id: 4010
+  title: "NYC 2013 Municipal Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-09-10.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## NYC Mayoral Primary Test
+data {
+  nid: 3195
+  election_id: 2000
+  title: "NYC 2013 Mayoral Primary Test"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-09-10.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## NYC Municipal Runoff
+data {
+  nid: 3196
+  election_id: 4011
+  title: "NYC 2013 Municipal Runoff"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-10-01.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## NJ Special General Election for U.S. Senate
+data {
+  nid: 3197
+  election_id: 4012
+  title: "NJ 2013 Special General Election for U.S. Senate"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2013-10-16.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## NY General
+data {
+  nid: 3198
+  election_id: 4013
+  title: "NY 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## NJ General
+data {
+  nid: 3199
+  election_id: 4014
+  title: "NJ 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## VA General
+data {
+  nid: 3200
+  election_id: 4015
+  title: "VA 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
+
+## MN Municipal General
+data {
+  nid: 3201
+  election_id: 4016
+  title: "MN 2013 Municipal General"
+  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2013-11-05.zip"
+  user: "jared@votinginfoproject.org"
+}
 
 ##highest nid: 3201
 ##lowest nid: -277
 ##highest election_id: 4016
-# Do not reuse datasets (nid) -236, -199, -233, -234, -238, -249, -232, -247, -250,
+# Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
