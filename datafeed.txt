@@ -174,8 +174,17 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-##highest nid: 3201
+## DC Primary
+data {
+  nid: 3202
+  election_id: 4017
+  title: "DC 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/dc/vipFeed-11-2014-04-01.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3202
 ##lowest nid: -277
-##highest election_id: 4016
+##highest election_id: 4017
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
