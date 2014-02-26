@@ -9,6 +9,42 @@ data {
   user: "tiana@votinginfoproject.org"
 }
 
+## NV Primary
+data {
+  nid: 3205
+  election_id: 2000
+  title: "NV 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-32-2014-06-10.zip"
+  user: "noma@turbovote.org"
+}
+
+## NC Primary
+data {
+  nid: 3206
+  election_id: 2000
+  title: "NC 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-05-06.zip"
+  user: "noma@turbovote.org"
+}
+
+## RI Primary
+data {
+  nid: 3203
+  election_id: 2000
+  title: "RI 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-02-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## DE Primary
+data {
+  nid: 3204
+  election_id: 2000
+  title: "DE 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -183,44 +219,9 @@ data {
   user: "noma@turbovote.org"
 }
 
-## RI Primary
-data {
-  nid: 3203
-  election_id: 4018
-  title: "RI 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-02-03.zip"
-  user: "noma@turbovote.org"
-}
-
-## DE Primary
-data {
-  nid: 3204
-  election_id: 4019
-  title: "DE 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
-  user: "noma@turbovote.org"
-}
-
-## NV Primary
-data {
-  nid: 3205
-  election_id: 4020
-  title: "NV 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-32-2014-06-10.zip"
-  user: "noma@turbovote.org"
-}
-
-## NC Primary
-data {
-  nid: 3206
-  election_id: 4021
-  title: "NC 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-05-06.zip"
-  user: "noma@turbovote.org"
-}
 
 ##highest nid: 3206
 ##lowest nid: -277
-##highest election_id: 4021
+##highest election_id: 4017
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
