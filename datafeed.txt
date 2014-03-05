@@ -6,6 +6,7 @@ data {
   election_id: 2000
   title: "SC Test Election"
   feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-11-06.zip"
+  is_test_election: true
   user: "tiana@votinginfoproject.org"
 }
 
@@ -15,6 +16,7 @@ data {
   election_id: 2000
   title: "NV 2014 Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-32-2014-06-10.zip"
+  is_test_election: true
   user: "noma@turbovote.org"
 }
 
@@ -24,6 +26,7 @@ data {
   election_id: 2000
   title: "NC 2014 Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-05-06.zip"
+  is_test_election: true
   user: "noma@turbovote.org"
 }
 
@@ -33,6 +36,7 @@ data {
   election_id: 2000
   title: "RI 2014 Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-02-03.zip"
+  is_test_election: true
   user: "noma@turbovote.org"
 }
 
@@ -42,6 +46,7 @@ data {
   election_id: 2000
   title: "DE 2014 Test Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
+  is_test_election: true
   user: "noma@turbovote.org"
 }
 
@@ -215,6 +220,7 @@ data {
   nid: 3202
   election_id: 4017
   title: "DC 2014 Primary"
+  division_id: "ocd-division/country:us/district:dc"
   feed_url: "https://data.votinginfoproject.org/feeds/dc/vipFeed-11-2014-04-01.zip"
   user: "noma@turbovote.org"
 }
