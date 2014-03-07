@@ -215,7 +215,7 @@ data {
   user: "jared@votinginfoproject.org"
 }
 
-## DC Primary
+## DC Primary Rev2
 data {
   nid: 3202
   election_id: 4017
