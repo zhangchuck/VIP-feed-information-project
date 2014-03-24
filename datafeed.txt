@@ -60,6 +60,26 @@ data {
   user: "noma@turbovote.org"
 }
 
+## MT Primary
+data {
+  nid: 3209
+  election_id: 2000
+  title: "MT 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/mt/vipFeed-30-2014-06-03.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## UT Primary
+data {
+  nid: 3210
+  election_id: 2000
+  title: "UT 2014 Test Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -245,7 +265,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3208
+##highest nid: 3210
 ##lowest nid: -277
 ##highest election_id: 4018
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
