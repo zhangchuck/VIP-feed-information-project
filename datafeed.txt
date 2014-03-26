@@ -50,32 +50,612 @@ data {
   user: "noma@turbovote.org"
 }
 
-## ND Primary
-data {
-  nid: 3208
-  election_id: 2000
-  title: "ND 2014 Test Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nd/vipFeed-38-2014-06-10.zip"
-  is_test_election: true
-  user: "noma@turbovote.org"
-}
-
-## MT Primary
-data {
-  nid: 3209
-  election_id: 2000
-  title: "MT 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/mt/vipFeed-30-2014-06-03.zip"
-  is_test_election: true
-  user: "noma@turbovote.org"
-}
-
 ## UT Primary
 data {
   nid: 3210
   election_id: 2000
   title: "UT 2014 Test Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## NYC General
+data {
+  nid: 3211
+  election_id: 2000
+  title: "NYC 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-11-05.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## VA General
+data {
+  nid: 3212
+  election_id: 2000
+  title: "VA 2013 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-11-05.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Alameda County General
+data {
+  nid: 3213
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06001-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Alpine County General
+data {
+  nid: 3214
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06003-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Amador County General
+data {
+  nid: 3215
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06005-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Butte County General
+data {
+  nid: 3216
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06007-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Calaveras County General
+data {
+  nid: 3217
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06009-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Colusa County General
+data {
+  nid: 3218
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06011-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Contra Costa County General
+data {
+  nid: 3219
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06013-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Del Norte County General
+data {
+  nid: 3220
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06015-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## El Dorado County General
+data {
+  nid: 3221
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06017-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Fresno County General
+data {
+  nid: 3222
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06019-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Glenn County General
+data {
+  nid: 3223
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06021-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Humboldt County General
+data {
+  nid: 3224
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06023-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Imperial County General
+data {
+  nid: 3225
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06025-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Inyo County General
+data {
+  nid: 3226
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06027-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Kern County General
+data {
+  nid: 3227
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06029-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Kings County General
+data {
+  nid: 3228
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06031-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Lake County General
+data {
+  nid: 3229
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06033-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Lassen County General
+data {
+  nid: 3230
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06035-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Los Angeles County General
+data {
+  nid: 3231
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Madera County General
+data {
+  nid: 3232
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06039-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Marin County General
+data {
+  nid: 3233
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06041-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Mariposa County General
+data {
+  nid: 3234
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06043-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Mendocino County General
+data {
+  nid: 3235
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06045-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Merced County General
+data {
+  nid: 3236
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06047-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Modoc County General
+data {
+  nid: 3237
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06049-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Mono County General
+data {
+  nid: 3238
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06051-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Monterey County General
+data {
+  nid: 3239
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06053-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Napa County General
+data {
+  nid: 3240
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06055-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Nevada County General
+data {
+  nid: 3241
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06057-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Orange County General
+data {
+  nid: 3242
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06059-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Placer County General
+data {
+  nid: 3243
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06061-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Plumas County General
+data {
+  nid: 3244
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06063-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Riverside County General
+data {
+  nid: 3245
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Sacramento County General
+data {
+  nid: 3246
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06067-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Benito County General
+data {
+  nid: 3247
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06069-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Bernadino County General
+data {
+  nid: 3248
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Diego County General
+data {
+  nid: 3249
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Francisco County General
+data {
+  nid: 3250
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06075-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Joaquin County General
+data {
+  nid: 3251
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06077-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Luis Obispo County General
+data {
+  nid: 3252
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06079-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## San Mateo County General
+data {
+  nid: 3253
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06081-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Santa Barbara County General
+data {
+  nid: 3254
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06083-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Santa Clara County General
+data {
+  nid: 3255
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06085-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Santa Cruz County General
+data {
+  nid: 3256
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06087-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Shasta County General
+data {
+  nid: 3257
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06089-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Sierra County General
+data {
+  nid: 3258
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06091-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Siskiyou County General
+data {
+  nid: 3259
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06093-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Solano County General
+data {
+  nid: 3260
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06095-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Sonoma County General
+data {
+  nid: 3261
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06097-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Stanislaus County General
+data {
+  nid: 3262
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06099-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Sutter County General
+data {
+  nid: 3263
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06101-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Tehama County General
+data {
+  nid: 3264
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06103-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Trinity County General
+data {
+  nid: 3265
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Tulare County General
+data {
+  nid: 3266
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06107-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Tuolumne County General
+data {
+  nid: 3267
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06109-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Ventura County General
+data {
+  nid: 3268
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06111-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Yolo County General
+data {
+  nid: 3269
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## Yuba County General
+data {
+  nid: 3270
+  election_id: 2000
+  title: "CA 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06115-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -265,8 +845,28 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3210
+## ND Primary
+data {
+  nid: 3208
+  election_id: 4019
+  title: "ND 2014 Test Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nd/vipFeed-38-2014-06-10.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+## MT Primary
+data {
+  nid: 3209
+  election_id: 4020
+  title: "MT 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/mt/vipFeed-30-2014-06-03.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3270
 ##lowest nid: -277
-##highest election_id: 4018
+##highest election_id: 4020
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
