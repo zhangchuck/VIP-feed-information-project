@@ -660,6 +660,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## MN General
+data {
+  nid: 3271
+  election_id: 2000
+  title: "MN 2012 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -850,6 +860,7 @@ data {
   nid: 3208
   election_id: 4019
   title: "ND 2014 Test Primary"
+  division_id: "ocd-division/country:us/district:nd"
   feed_url: "https://data.votinginfoproject.org/feeds/nd/vipFeed-38-2014-06-10.zip"
   is_test_election: true
   user: "noma@turbovote.org"
@@ -860,13 +871,25 @@ data {
   nid: 3209
   election_id: 4020
   title: "MT 2014 Primary"
+  division_id: "ocd-division/country:us/district:mt"
   feed_url: "https://data.votinginfoproject.org/feeds/mt/vipFeed-30-2014-06-03.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3270
+## NC Primary
+data {
+  nid: 3272
+  election_id: 4021
+  title: "NC 2014 Primary"
+  division_id: "ocd-division/country:us/district:nc"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-05-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3272
 ##lowest nid: -277
-##highest election_id: 4020
+##highest election_id: 4021
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
