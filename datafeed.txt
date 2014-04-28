@@ -925,8 +925,107 @@ data {
   user: "noma@turbovote.org"
 }
 
+## Calaveras Primary
+data {
+  nid: 3277
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06009-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Del Norte Primary
+data {
+  nid: 3278
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06015-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Fresno Primary
+data {
+  nid: 3279
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06019-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Imperial Primary
+data {
+  nid: 3280
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06025-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Kern Primary
+data {
+  nid: 3281
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06029-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Kings Primary
+data {
+  nid: 3282
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06031-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Madera Primary
+data {
+  nid: 3283
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06039-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Marin Primary
+data {
+  nid: 3284
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06041-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Mariposa Primary
+data {
+  nid: 3285
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06043-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Mendocino Primary
+data {
+  nid: 3286
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06045-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Monterey Primary
+data {
+  nid: 3287
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06053-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
 ##highest nid: 3276
 ##lowest nid: -277
-##highest election_id: 4025
+##highest election_id: 4026
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
