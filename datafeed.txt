@@ -1141,14 +1141,94 @@ data {
   user: "noma@turbovote.org"
 }
 
-
 ## San Diego Primary
 data{
   nid: 3301
   election_id: 4026
   title: "CA 2014 Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2014-06-03.zip"
-  user: "pkominers@turovote.org"
+  user: "pkominers@turbovote.org"
+}
+
+## Los Angeles Primary
+data{
+  nid: 3302
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Santa Barbara Primary
+data{
+  nid: 3303
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6083-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Inyo Primary
+data{
+  nid: 3304
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06027-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## San Benito Primary
+data{
+  nid: 3305
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06069-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Sutter Primary
+data{
+  nid: 3306
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06101-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Colusa Primary
+data{
+  nid: 3307
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06011-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Eldorado Primary
+data{
+  nid: 3308
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06017-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Merced Primary
+data{
+  nid: 3309
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06047-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Riverside Primary
+data{
+  nid: 3310
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2014-06-03.zip"
+  user: "noma@turbovote.org"
 }
 
 ## Nevada Primary
@@ -1160,7 +1240,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3301
+##highest nid: 3310
 ##lowest nid: -277
 ##highest election_id: 4027
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
