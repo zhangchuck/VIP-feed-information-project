@@ -662,7 +662,7 @@ data {
 
 ## MN General
 data {
-  nid: 3271
+  nid: 3312
   election_id: 2000
   title: "MN 2012 General"
   feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
@@ -1240,7 +1240,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3311
+##highest nid: 3312
 ##lowest nid: -277
 ##highest election_id: 4027
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
