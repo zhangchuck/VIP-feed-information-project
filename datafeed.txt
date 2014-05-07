@@ -1245,7 +1245,7 @@ data {
   nid: 3314
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06063-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06063-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1254,7 +1254,7 @@ data {
   nid: 3315
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06013-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06013-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1263,7 +1263,7 @@ data {
   nid: 3316
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06005-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06005-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1272,7 +1272,7 @@ data {
   nid: 3317
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06021-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06021-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1281,7 +1281,7 @@ data {
   nid: 3318
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06061-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06061-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1290,7 +1290,7 @@ data {
   nid: 3319
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06075-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06075-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1299,7 +1299,7 @@ data {
   nid: 3320
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06111-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06111-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1308,7 +1308,25 @@ data {
   nid: 3321
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-06071-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Orange Primary
+data {
+  nid: 3322
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06059-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Solano Primary
+data {
+  nid: 3323
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06095-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
@@ -1321,7 +1339,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3321
+##highest nid: 3323
 ##lowest nid: -277
 ##highest election_id: 4027
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
