@@ -1375,15 +1375,6 @@ data {
   user: "noma@turbovote.org"
 }
 
-## Yolo Primary
-data {
-  nid: 3329
-  election_id: 4027
-  title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2014-06-03.zip"
-  user: "noma@turbovote.org"
-}
-
 ## Lassen Primary
 data {
   nid: 3330
