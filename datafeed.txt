@@ -1393,6 +1393,24 @@ data {
   user: "pkominers@turbovote.org"
 }
 
+## Modoc Primary
+data {
+  nid: 3332
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06049-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
+## Trinity Primary
+data {
+  nid: 3333
+  election_id: 4026
+  title: "CA 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2014-06-03.zip"
+  user: "noma@turbovote.org"
+}
+
 ## Nevada Primary
 data {
   nid: 3301
@@ -1402,7 +1420,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3331
+##highest nid: 3333
 ##lowest nid: -277
 ##highest election_id: 4027
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
