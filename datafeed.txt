@@ -1420,7 +1420,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-## New Jersey Primary
+## NJ Primary
 data {
   nid: 3334
   election_id: 4028
