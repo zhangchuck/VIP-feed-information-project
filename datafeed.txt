@@ -1155,7 +1155,7 @@ data{
   nid: 3302
   election_id: 4026
   title: "CA 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2014-06-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6037-2014-06-03.zip"
   user: "noma@turbovote.org"
 }
 
