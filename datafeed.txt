@@ -1474,8 +1474,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3339
+## SC Primary
+data {
+  nid: 3340
+  election_id: 4030
+  title: "SC 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2014-06-10.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3340
 ##lowest nid: -277
-##highest election_id: 4029
+##highest election_id: 4030
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
