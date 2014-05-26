@@ -670,6 +670,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## MO Primary
+data {
+  nid: 3342
+  election_id: 2000
+  title: "MO 2012 Test Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2012-08-07.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -1492,7 +1502,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3341
+##highest nid: 3342
 ##lowest nid: -277
 ##highest election_id: 4031
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
