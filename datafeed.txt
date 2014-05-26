@@ -1502,8 +1502,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3342
+## UT Primary
+data {
+  nid: 3343
+  election_id: 4032
+  title: "UT 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2014-06-24.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3343
 ##lowest nid: -277
-##highest election_id: 4031
+##highest election_id: 4032
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
