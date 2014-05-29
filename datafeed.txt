@@ -1502,7 +1502,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-## UT Primary--Not Supported
+## UT Primary
 data {
   nid: 3343
   election_id: 4032
@@ -1511,7 +1511,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-## MS Primary--Not Supported
+## MS Primary
 data {
   nid: 3344
   election_id: 4033
