@@ -1520,8 +1520,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3344
+## MI Primary
+data {
+  nid: 3345
+  election_id: 4034
+  title: "MI 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/mi/vipFeed-26-2014-08-05.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3345
 ##lowest nid: -277
-##highest election_id: 4033
+##highest election_id: 4034
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
