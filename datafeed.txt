@@ -1538,19 +1538,10 @@ data {
   user: "noma@turbovote.org"
 }
 
-## NJ Runoff
-data {
-  nid: 3347
-  election_id: 4036
-  title: "NJ 2014 Municipal Runoff"
-  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2014-06-10.zip"
-  user: "noma@turbovote.org"
-}
-
 ## HI Primary
 data {
   nid: 3348
-  election_id: 4037
+  election_id: 4036
   title: "HI 2014 Primary"
   feed_url: "https://data.votinginfoproject.org/feeds/hi/vipFeed-15-2014-08-09.zip"
   user: "noma@turbovote.org"
@@ -1558,6 +1549,6 @@ data {
 
 ##highest nid: 3348
 ##lowest nid: -277
-##highest election_id: 4037
+##highest election_id: 4036
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
