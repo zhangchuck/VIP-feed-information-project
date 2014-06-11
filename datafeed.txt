@@ -1566,8 +1566,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3349
+## NC 2nd Primary
+data {
+  nid: 3350
+  election_id: 4038
+  title: "NC 2014 2nd Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-07-15.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3350
 ##lowest nid: -277
-##highest election_id: 4037
+##highest election_id: 4038
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
