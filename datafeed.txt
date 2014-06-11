@@ -680,6 +680,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## WI Spring Election
+data {
+  nid: 3019
+  election_id: 2000
+  title: "WI 2014 Test Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-04-01.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -1547,14 +1557,6 @@ data {
   user: "noma@turbovote.org"
 }
 
-## WI Spring Election
-data {
-  nid: 3349
-  election_id: 4037
-  title: "WI 2014 Spring Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-04-01.zip"
-  user: "noma@turbovote.org"
-}
 
 ##highest nid: 3349
 ##lowest nid: -277
