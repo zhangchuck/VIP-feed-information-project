@@ -1557,6 +1557,14 @@ data {
   user: "noma@turbovote.org"
 }
 
+## AK Primary
+data {
+  nid: 3349
+  election_id: 4037
+  title: "AK 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ak/vipFeed-02-2014-08-14.zip"
+  user: "noma@turbovote.org"
+}
 
 ##highest nid: 3349
 ##lowest nid: -277
