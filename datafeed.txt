@@ -690,6 +690,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## IA General
+data {
+  nid: 3351
+  election_id: 2000
+  title: "IA 2012 Test Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-11-06.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -1575,7 +1585,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3350
+##highest nid: 3351
 ##lowest nid: -277
 ##highest election_id: 4038
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
