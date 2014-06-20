@@ -1594,8 +1594,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3352
+## CT Primary
+data {
+  nid: 3353
+  election_id: 4040
+  title: "CT 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/ct/vipFeed-09-2014-08-12.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3353
 ##lowest nid: -277
-##highest election_id: 4039
+##highest election_id: 4040
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
