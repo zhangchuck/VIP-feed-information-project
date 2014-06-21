@@ -700,6 +700,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## PA Primary
+data {
+  nid: 3354
+  election_id: 2000
+  title: "PA 2014 Test Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2014-05-20.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -1603,7 +1613,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3353
+##highest nid: 3354
 ##lowest nid: -277
 ##highest election_id: 4040
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
