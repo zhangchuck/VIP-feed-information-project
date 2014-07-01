@@ -1631,8 +1631,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3356
+## DC Ward 8 Special
+data {
+  nid: 3357
+  election_id: 4043
+  title: "2014 DC Ward 8 Special Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/dc/vipFeed-11-2014-07-15.zip"
+  user: "noma@turbovote.org"
+}
+
+##highest nid: 3357
 ##lowest nid: -277
-##highest election_id: 4042
+##highest election_id: 4043
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
