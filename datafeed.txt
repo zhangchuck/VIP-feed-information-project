@@ -710,6 +710,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## NM Primary
+data {
+  nid: 3359
+  election_id: 2000
+  title: "NM 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nm/vipFeed-35-2014-06-03.zip"
+  is_test_election: true
+  user: "noma@turbovote.org"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -1649,7 +1659,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3358
+##highest nid: 3359
 ##lowest nid: -277
 ##highest election_id: 4044
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
