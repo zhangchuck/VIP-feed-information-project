@@ -1659,6 +1659,15 @@ data {
   user: "noma@turbovote.org"
 }
 
+## Boone Primary
+data {
+  nid: 3361
+  election_id: 4044
+  title: "Boone County 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29019-2014-08-05.zip"
+  user: "noma@turbovote.org"
+}
+
 ## VA Special Election
 data {
   nid: 3360
@@ -1668,7 +1677,7 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3360
+##highest nid: 3361
 ##lowest nid: -277
 ##highest election_id: 4045
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
