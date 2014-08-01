@@ -1677,8 +1677,17 @@ data {
   user: "noma@turbovote.org"
 }
 
-##highest nid: 3361
+## WI Primary
+data{
+  nid: 3362
+  election_id: 4046
+  title: "WI 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-08-12.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3362
 ##lowest nid: -277
-##highest election_id: 4045
+##highest election_id: 4046
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181
