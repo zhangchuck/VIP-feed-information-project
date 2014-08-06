@@ -1700,7 +1700,7 @@ data{
   nid: 3364
   election_id: 4048
   title: "RI 2014 Primary"
-  feed_url: "https://metis.votinginfoproject.org/feeds/44/RI_VIP_FEED_2014-07-29.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-09-09.zip"
   user: "pkominers@democracy.works"
 }
 
