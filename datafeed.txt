@@ -2082,6 +2082,42 @@ data {
   user: "noma@turbovote.org"
 }
 
+## FL-Citrus County Primary (Not Supported)
+data {
+  nid: 3414
+  election_id: 4042
+  title: "Citrus County 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12017-2014-08-26.zip"
+  user: "noma@turbovote.org"
+}
+
+## FL-Duval County Primary (Not Supported)
+data {
+  nid: 3415
+  election_id: 4042
+  title: "Duval County 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12031-2014-08-26.zip"
+  user: "noma@turbovote.org"
+}
+
+## FL-Franklin County Primary (Not Supported)
+data {
+  nid: 3416
+  election_id: 4042
+  title: "Franklin County 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12037-2014-08-26.zip"
+  user: "noma@turbovote.org"
+}
+
+## FL-Monroe County Primary (Not Supported)
+data {
+  nid: 3417
+  election_id: 4042
+  title: "Monroe County 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12087-2014-08-26.zip"
+  user: "noma@turbovote.org"
+}
+
 ## DC Ward 8 Special
 data {
   nid: 3357
@@ -2145,7 +2181,7 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3413
+##highest nid: 3417
 ##lowest nid: -277
 ##highest election_id: 4048
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
