@@ -2159,7 +2159,7 @@ data{
   nid: 3362
   election_id: 4046
   title: "WI 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-08-12.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-08-12.xml.zip"
   user: "pkominers@democracy.works"
 }
 
