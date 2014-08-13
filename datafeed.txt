@@ -35,7 +35,7 @@ data {
   nid: 3203
   election_id: 2000
   title: "RI 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-02-03.zip"
+  feed_url: "https://metis.votinginfoproject.org/feeds/44/vipFeed-44-2014-09-09.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
