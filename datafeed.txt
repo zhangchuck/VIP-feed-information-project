@@ -2181,7 +2181,16 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3417
+## FL-Miami-Dade County Primary
+data {
+  nid: 3418
+  election_id: 4042
+  title: "Miami-Dade County 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12086-2014-08-26.zip"
+  user: "troy@democracy.works"
+}
+
+##highest nid: 3418
 ##lowest nid: -277
 ##highest election_id: 4048
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
