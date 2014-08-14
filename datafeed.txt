@@ -2087,7 +2087,7 @@ data {
   nid: 3414
   election_id: 4042
   title: "Citrus County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12017-2014-08-26.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12017-2014-08-26.xml.gz"
   user: "noma@turbovote.org"
 }
 
@@ -2096,7 +2096,7 @@ data {
   nid: 3415
   election_id: 4042
   title: "Duval County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12031-2014-08-26.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12031-2014-08-26.xml.gz"
   user: "noma@turbovote.org"
 }
 
@@ -2105,7 +2105,7 @@ data {
   nid: 3416
   election_id: 4042
   title: "Franklin County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12037-2014-08-26.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12037-2014-08-26.xml.gz"
   user: "noma@turbovote.org"
 }
 
@@ -2114,7 +2114,7 @@ data {
   nid: 3417
   election_id: 4042
   title: "Monroe County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12087-2014-08-26.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12087-2014-08-26.xml.gz"
   user: "noma@turbovote.org"
 }
 
@@ -2123,7 +2123,7 @@ data {
   nid: 3357
   election_id: 4043
   title: "2014 DC Ward 8 Special Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/dc/vipFeed-11-2014-07-15.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/dc/vipFeed-11-2014-07-15"
   user: "noma@turbovote.org"
 }
 
