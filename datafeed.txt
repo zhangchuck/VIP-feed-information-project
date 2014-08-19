@@ -2087,7 +2087,7 @@ data {
   nid: 3414
   election_id: 4042
   title: "Citrus County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12017-2014-08-26.xml.gz"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12017-2014-08-26.zip"
   user: "noma@turbovote.org"
 }
 
@@ -2096,7 +2096,7 @@ data {
   nid: 3415
   election_id: 4042
   title: "Duval County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12031-2014-08-26.xml.gz"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12031-2014-08-26.zip"
   user: "noma@turbovote.org"
 }
 
@@ -2105,7 +2105,7 @@ data {
   nid: 3416
   election_id: 4042
   title: "Franklin County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12037-2014-08-26.xml.gz"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12037-2014-08-26.zip"
   user: "noma@turbovote.org"
 }
 
@@ -2114,7 +2114,7 @@ data {
   nid: 3417
   election_id: 4042
   title: "Monroe County 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12087-2014-08-26.xml.gz"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12087-2014-08-26.zip"
   user: "noma@turbovote.org"
 }
 
