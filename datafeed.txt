@@ -720,6 +720,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+## IL Test General
+data {
+  nid: 3421
+  election_id: 2000
+  title: "IL 2014 Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2014-11-04.zip"
+  is_test_election: true
+  user: "noma@democracy.works"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -2208,7 +2218,7 @@ data{
   user: "noma@democracy.works"
 }
 
-##highest nid: 3420
+##highest nid: 3421
 ##lowest nid: -277
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
