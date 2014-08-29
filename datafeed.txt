@@ -2218,8 +2218,17 @@ data{
   user: "noma@democracy.works"
 }
 
-##highest nid: 3421
+# ND General
+data{
+  nid: 3422
+  election_id: 4100
+  title: "ND 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/nd/vipFeed-38-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3422
 ##lowest nid: -277
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
-# -139, 3080, -255, -268, -251, -235, -269, -270, 3181
+# -139, 3080, -255, -268, -251, -235, -269, -270, 3181, 4100
