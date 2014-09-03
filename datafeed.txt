@@ -730,6 +730,16 @@ data {
   user: "noma@democracy.works"
 }
 
+## Orange County, FL Primary
+data {
+  nid: 3426
+  election_id: 2000
+  title: "Orange County Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12095-2014-08-26.zip"
+  is_test_election: true
+  user: "noma@democracy.works"
+}
+
 ## END Datafeed for test election 2000
 
 
@@ -2254,7 +2264,7 @@ data{
   user: "noma@democracy.works"
 }
 
-##highest nid: 3425
+##highest nid: 3426
 ##lowest nid: -277
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
