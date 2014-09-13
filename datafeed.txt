@@ -670,12 +670,12 @@ data {
   user: "noma@turbovote.org"
 }
 
-## MO Primary
+## MO Primary Data
 data {
   nid: 3342
   election_id: 2000
-  title: "MO 2012 Test Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2012-08-07.zip"
+  title: "MO 2014 Test Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2014-08-05.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
