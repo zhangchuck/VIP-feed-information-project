@@ -1274,7 +1274,7 @@ data{
   user: "noma@turbovote.org"
 }
 
-## Eldorado Primary
+## Eldorado Primaryu
 data{
   nid: 3308
   election_id: 4026
@@ -2398,8 +2398,17 @@ data{
   feed_url: "https://data.votinginfoproject.org/feeds/wa/vipFeed-53-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }  
+
+# UT general
+data{
+  nid: 3442
+  election_id: 4100
+  title: "UT 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}  
   
-##highest nid: 3441
+##highest nid: 3442
 ##lowest nid: -277
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
