@@ -2416,8 +2416,17 @@ data{
   feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2014-11-04.zip"
   user: "nthayer@democracy.works"
 }
+
+# RI general
+data{
+  nid: 3444
+  election_id: 4100
+  title: "RI 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-11-04.zip"
+  user: "nthayer@democracy.works"
+}
   
-##highest nid: 3443
+##highest nid: 3444
 ##lowest nid: -277
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
