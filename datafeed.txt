@@ -1273,7 +1273,16 @@ data{
   user: "jeff@democracy.works"
 }
 
-##highest nid: 3449
+# Union County, FL general
+data{
+  nid: 3450
+  election_id: 4100
+  title: "Union County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12125-2014-11-04.zip"
+  user: "wreid@democracy.works"
+}
+
+##highest nid: 3450
 ##lowest nid: -308
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
