@@ -994,8 +994,36 @@ data{
   user: "noma@democracy.works"
 }
 
+# Bedford County, TN general
+data{
+  nid: -280
+  election_id: 4100
+  title: "Bedford County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47003-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Benton County, TN general
+data{
+  nid: -281
+  election_id: 4100
+  title: "Benton County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47005-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Bledsoe County, TN general
+data{
+  nid: -282
+  election_id: 4100
+  title: "Bledsoe County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47007-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 ##highest nid: 3447
-##lowest nid: -279
+##lowest nid: -282
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181, 4100
