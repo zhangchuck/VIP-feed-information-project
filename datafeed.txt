@@ -1021,9 +1021,53 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Blount County, TN general
+data{
+  nid: -283
+  election_id: 4100
+  title: "Blount County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47009-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Bradley County, TN general
+data{
+  nid: -284
+  election_id: 4100
+  title: "Bradley County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47011-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Campbell County, TN general
+data{
+  nid: -285
+  election_id: 4100
+  title: "Campbell County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47013-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Cannon County, TN general
+data{
+  nid: -286
+  election_id: 4100
+  title: "Cannon County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47015-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Carroll County, TN general
+data{
+  nid: -287
+  election_id: 4100
+  title: "Carroll County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47017-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
 
 ##highest nid: 3447
-##lowest nid: -282
+##lowest nid: -287
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181, 4100
