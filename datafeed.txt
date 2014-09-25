@@ -1120,8 +1120,161 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Clay County, TN general
+data{
+  nid: -292
+  election_id: 4100
+  title: "Clay County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47027-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Cocke County, TN general
+data{
+  nid: -293
+  election_id: 4100
+  title: "Cocke County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47029-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Coffee County, TN general
+data{
+  nid: -294
+  election_id: 4100
+  title: "Coffee County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47031-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Crockett County, TN general
+data{
+  nid: -295
+  election_id: 4100
+  title: "Crockett County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47033-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Cumberland County, TN general
+data{
+  nid: -296
+  election_id: 4100
+  title: "Cumberland County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47035-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Davidson County, TN general
+data{
+  nid: -297
+  election_id: 4100
+  title: "Davidson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47037-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Decatur County, TN general
+data{
+  nid: -298
+  election_id: 4100
+  title: "Decatur County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47039-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Dekalb County, TN general
+data{
+  nid: -299
+  election_id: 4100
+  title: "Dekalb County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47041-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Dickson County, TN general
+data{
+  nid: -300
+  election_id: 4100
+  title: "Dickson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47043-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Dyer County, TN general
+data{
+  nid: -301
+  election_id: 4100
+  title: "Dyer County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47045-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Fayette County, TN general
+data{
+  nid: -302
+  election_id: 4100
+  title: "Fayette County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47047-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Fentress County, TN general
+data{
+  nid: -303
+  election_id: 4100
+  title: "Fentress County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47049-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Franklin County, TN general
+data{
+  nid: -304
+  election_id: 4100
+  title: "Franklin County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47051-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Gibson County, TN general
+data{
+  nid: -305
+  election_id: 4100
+  title: "Gibson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47053-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Giles County, TN general
+data{
+  nid: -306
+  election_id: 4100
+  title: "Giles County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47055-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Grainger County, TN general
+data{
+  nid: -307
+  election_id: 4100
+  title: "Grainger County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47057-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Greene County, TN general
+data{
+  nid: -308
+  election_id: 4100
+  title: "Greene County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47059-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3449
-##lowest nid: -291
+##lowest nid: -308
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181, 4100
