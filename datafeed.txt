@@ -966,8 +966,17 @@ data{
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2014-11-04.zip"
   user: "noma@democracy.works"
 }
-  
-##highest nid: 3445
+
+# PA general
+data{
+  nid: 3446
+  election_id: 4100
+  title: "PA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2014-11-04.zip"
+  user: "nthayer@democracy.works"
+}
+
+##highest nid: 3446
 ##lowest nid: -278
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
