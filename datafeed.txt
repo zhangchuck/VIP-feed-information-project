@@ -1300,8 +1300,18 @@ data{
   user: "troy@democracy.works"
 }
 
+# North Carolina General
+data{
+  nid: 3452
+  election_id: 4100
+  title: "North Carolina 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-11-04.zip"
+  user: "jen@democracy.works"
+}
 
-##highest nid: 3451
+
+
+##highest nid: 3452
 ##lowest nid: -309
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
