@@ -1282,8 +1282,17 @@ data{
   user: "wreid@democracy.works"
 }
 
+# NH General Election 2014, Single Polling Place Localities
+data{
+  nid: -309
+  election_id: 4100
+  title: "NH General Election 2014 (Single Polling Place Localities)"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/NH/vipFeed-33-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3450
-##lowest nid: -308
+##lowest nid: -309
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3181, 4100
