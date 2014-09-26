@@ -742,6 +742,16 @@ data {
 
 ## END Datafeed for test election 2000
 
+ 	
+# NY Primary 	
+data{ 	
+  nid: 3363 	
+  election_id: 4047 	
+  title: "NY 2014 Primary" 	
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2014-09-09.zip" 	
+  user: "troy@democracy.works" 	
+}
+
 # DE Primary
 data{
   nid: 3420
