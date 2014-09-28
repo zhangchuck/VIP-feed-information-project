@@ -1292,11 +1292,11 @@ data{
   user: "wreid@democracy.works"
 }
 
-# NH General Election 2014, Single Polling Place Localities
+# NH 2014 General, Single Polling Place Localities
 data{
   nid: -309
   election_id: 4100
-  title: "NH General Election 2014 (Single Polling Place Localities)"
+  title: "NH 2014 General (Single Polling Place Localities)"
   feed_url: "https://data.votinginfoproject.org/hand-collected/NH/vipFeed-33-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1308,6 +1308,15 @@ data{
   title: "Monroe County 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12087-2014-11-04.zip"
   user: "troy@democracy.works"
+}
+
+# CO General Election 2014
+data{
+  nid: 3452
+  election_id: 4100
+  title: "CO General 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/co/vipFeed-08-2014-11-04.zip"
+  user: "jeff@democracy.works"
 }
 
 
