@@ -1319,8 +1319,98 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Hamblen County, TN general
+data{
+  nid: -311
+  election_id: 4100
+  title: "Hamblen County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47063-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Hancock County, TN general
+data{
+  nid: -312
+  election_id: 4100
+  title: "Hancock County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47067-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Hardeman County, TN general
+data{
+  nid: -313
+  election_id: 4100
+  title: "Hardeman County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47069-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Hardin County, TN general
+data{
+  nid: -314
+  election_id: 4100
+  title: "Hardin County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47071-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Hawkins County, TN general
+data{
+  nid: -315
+  election_id: 4100
+  title: "Hawkins County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47073-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Henderson County, TN general
+data{
+  nid: -316
+  election_id: 4100
+  title: "Henderson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47077-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Henry County, TN general
+data{
+  nid: -317
+  election_id: 4100
+  title: "Henry County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47079-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Hickman County, TN general
+data{
+  nid: -318
+  election_id: 4100
+  title: "Hickman County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47081-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Houston County, TN general
+data{
+  nid: -319
+  election_id: 4100
+  title: "Houston County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47083-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Humphreys County, TN general
+data{
+  nid: -320
+  election_id: 4100
+  title: "Humphreys County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47085-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3451
-##lowest nid: -310
+##lowest nid: -320
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
