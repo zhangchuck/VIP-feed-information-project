@@ -1805,6 +1805,16 @@ data{
   user: "jeff@democracy.works"
 }
 
+## CT General
+data {
+  nid: 3452
+  election_id: 4100
+  title: "CT 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ct/vipFeed-09-2014-11-04.zip"
+  user: "noma@turbovote.org"
+}
+
+
 ##highest nid: 3451
 ##lowest nid: -364
 ##highest election_id: 4049
