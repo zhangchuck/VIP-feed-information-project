@@ -1409,8 +1409,125 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Jackson County, TN general
+data{
+  nid: -321
+  election_id: 4100
+  title: "Jackson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47087-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Jefferson County, TN general
+data{
+  nid: -322
+  election_id: 4100
+  title: "Jefferson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47089-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Johnson County, TN general
+data{
+  nid: -323
+  election_id: 4100
+  title: "Johnson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47091-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Knox County, TN general
+data{
+  nid: -324
+  election_id: 4100
+  title: "Knox County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47093-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lake County, TN general
+data{
+  nid: -325
+  election_id: 4100
+  title: "Lake County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47095-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lauderdale County, TN general
+data{
+  nid: -326
+  election_id: 4100
+  title: "Lauderdale County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47097-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lewis County, TN general
+data{
+  nid: -327
+  election_id: 4100
+  title: "Lewis County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47101-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lincoln County, TN general
+data{
+  nid: -328
+  election_id: 4100
+  title: "Lincoln County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47103-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Loudon County, TN general
+data{
+  nid: -329
+  election_id: 4100
+  title: "Loudon County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47105-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Macon County, TN general
+data{
+  nid: -330
+  election_id: 4100
+  title: "Macon County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47111-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Madison County, TN general
+data{
+  nid: -331
+  election_id: 4100
+  title: "Madison County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47113-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Marion County, TN general
+data{
+  nid: -332
+  election_id: 4100
+  title: "Marion County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47115-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Marshall County, TN general
+data{
+  nid: -333
+  election_id: 4100
+  title: "Marshall County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47117-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3451
-##lowest nid: -320
+##lowest nid: -333
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
