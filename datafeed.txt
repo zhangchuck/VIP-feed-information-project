@@ -1611,7 +1611,7 @@ data{
 data{
   nid: -343
   election_id: 4100
-  title: "Pickett  County 2014 General"
+  title: "Pickett County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47137-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1620,7 +1620,7 @@ data{
 data{
   nid: -344
   election_id: 4100
-  title: "Rhea  County 2014 General"
+  title: "Rhea County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47143-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1629,7 +1629,7 @@ data{
 data{
   nid: -345
   election_id: 4100
-  title: "Roane  County 2014 General"
+  title: "Roane County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47145-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1638,7 +1638,7 @@ data{
 data{
   nid: -346
   election_id: 4100
-  title: "Robertson  County 2014 General"
+  title: "Robertson County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47147-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1647,7 +1647,7 @@ data{
 data{
   nid: -347
   election_id: 4100
-  title: "Rutherford  County 2014 General"
+  title: "Rutherford County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47149-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1656,7 +1656,7 @@ data{
 data{
   nid: -348
   election_id: 4100
-  title: "Sequatchie  County 2014 General"
+  title: "Sequatchie County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47153-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
@@ -1665,8 +1665,35 @@ data{
 data{
   nid: -349
   election_id: 4100
-  title: "Sevier  County 2014 General"
+  title: "Sevier County 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47155-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Shelby County, TN general
+data{
+  nid: -350
+  election_id: 4100
+  title: "Shelby County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47157-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Smith County, TN general
+data{
+  nid: -351
+  election_id: 4100
+  title: "Smith County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47159-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Stewart County, TN general
+data{
+  nid: -352
+  election_id: 4100
+  title: "Stewart County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47161-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
 
