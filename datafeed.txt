@@ -1526,8 +1526,152 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Maury County, TN general
+data{
+  nid: -334
+  election_id: 4100
+  title: "Maury County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47119-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# McMinn County, TN general
+data{
+  nid: -335
+  election_id: 4100
+  title: "McMinn County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47107-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# McNairy County, TN general
+data{
+  nid: -336
+  election_id: 4100
+  title: "McNairy County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47109-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Meigs County, TN general
+data{
+  nid: -337
+  election_id: 4100
+  title: "Meigs County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47121-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Monroe County, TN general
+data{
+  nid: -338
+  election_id: 4100
+  title: "Monroe County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47123-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Montgomery County, TN general
+data{
+  nid: -339
+  election_id: 4100
+  title: "Montgomery County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47125-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Moore County, TN general
+data{
+  nid: -340
+  election_id: 4100
+  title: "Moore County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47127-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Morgan County, TN general
+data{
+  nid: -341
+  election_id: 4100
+  title: "Morgan County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47129-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Obion County, TN general
+data{
+  nid: -342
+  election_id: 4100
+  title: "Obion County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47131-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Pickett County, TN general
+data{
+  nid: -343
+  election_id: 4100
+  title: "Pickett  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47137-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Rhea County, TN general
+data{
+  nid: -344
+  election_id: 4100
+  title: "Rhea  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47143-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Roane County, TN general
+data{
+  nid: -345
+  election_id: 4100
+  title: "Roane  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47145-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Robertson County, TN general
+data{
+  nid: -346
+  election_id: 4100
+  title: "Robertson  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47147-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Rutherford County, TN general
+data{
+  nid: -347
+  election_id: 4100
+  title: "Rutherford  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47149-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Sequatchie County, TN general
+data{
+  nid: -348
+  election_id: 4100
+  title: "Sequatchie  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47153-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Sevier County, TN general
+data{
+  nid: -349
+  election_id: 4100
+  title: "Sevier  County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47155-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3451
-##lowest nid: -333
+##lowest nid: -349
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
