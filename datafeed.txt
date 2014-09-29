@@ -1697,8 +1697,116 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Sullivan County, TN general
+data{
+  nid: -353
+  election_id: 4100
+  title: "Sullivan County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47163-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Sumner County, TN general
+data{
+  nid: -354
+  election_id: 4100
+  title: "Sumner County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47165-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Tipton County, TN general
+data{
+  nid: -355
+  election_id: 4100
+  title: "Tipton County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47167-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Trousdale County, TN general
+data{
+  nid: -356
+  election_id: 4100
+  title: "Trousdale County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47169-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Unicoi County, TN general
+data{
+  nid: -357
+  election_id: 4100
+  title: "Unicoi County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47171-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Union County, TN general
+data{
+  nid: -358
+  election_id: 4100
+  title: "Union County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47173-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Van Buren County, TN general
+data{
+  nid: -359
+  election_id: 4100
+  title: "Van Buren County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47175-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Washington County, TN general
+data{
+  nid: -360
+  election_id: 4100
+  title: "Washington County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47179-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Wayne County, TN general
+data{
+  nid: -361
+  election_id: 4100
+  title: "Wayne County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47181-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Weakley County, TN general
+data{
+  nid: -362
+  election_id: 4100
+  title: "Weakley County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47183-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Williamson County, TN general
+data{
+  nid: -363
+  election_id: 4100
+  title: "Williamson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47187-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Wilson County, TN general
+data{
+  nid: -364
+  election_id: 4100
+  title: "Wilson County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47189-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3451
-##lowest nid: -349
+##lowest nid: -364
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
