@@ -1850,8 +1850,16 @@ data{
   user: "kathryn@democracy.works"
 }
 
+# Alpine County, California general
+data{
+  nid: 3456
+  election_id: 4100
+  title: "Alpine County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06003-2014-11-04.zip"
+  user: "nathan@democracy.works"
+}
 
-##highest nid: 3455
+##highest nid: 3456
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
