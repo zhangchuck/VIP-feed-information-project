@@ -1944,7 +1944,7 @@ data{
 data{
   nid: 3466
   election_id: 4100
-  title: "Contra Costa 2014 General"
+  title: "Kern County, CA 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06029-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
@@ -1953,7 +1953,7 @@ data{
 data{
   nid: 3467
   election_id: 4100
-  title: "Contra Costa 2014 General"
+  title: "Kings County, CA 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06031-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
