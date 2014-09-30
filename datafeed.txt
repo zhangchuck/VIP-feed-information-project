@@ -2030,6 +2030,14 @@ data{
   user: "pkominers@democracy.works"
 }
 
+# Mono Co, CA general
+data{
+  nid: 3476
+  election_id: 4100
+  title: "Mono Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06051-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
 
 ##highest nid: 3475
 ##lowest nid: -365
