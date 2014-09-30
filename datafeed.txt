@@ -1859,7 +1859,16 @@ data{
   user: "nathan@democracy.works"
 }
 
-##highest nid: 3456
+# Lake County, California general
+data{
+  nid: 3457
+  election_id: 4100
+  title: "Lake County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06033-2014-11-04.zip"
+  user: "nathan@democracy.works"
+}
+
+##highest nid: 3457
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
