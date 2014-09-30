@@ -1924,14 +1924,23 @@ data{
 
 # Fresno, CA general
 data{
-  nid: 34634
+  nid: 3464
   election_id: 4100
   title: "Fresno 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06019-2014-11-04.zip"
   user: "wreid@democracy.works"
 }
 
-##highest nid: 34634
+# Contra Costa Co, CA general
+data{
+  nid: 3465
+  election_id: 4100
+  title: "Contra Costa 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6013-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3465
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
