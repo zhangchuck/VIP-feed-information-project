@@ -2012,8 +2012,26 @@ data{
   user: "pkominers@democracy.works"
 }
 
+# Mendocino Co, CA general
+data{
+  nid: 3474
+  election_id: 4100
+  title: "Mendocino Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
 
-##highest nid: 3473
+# Sacramento Co, CA general
+data{
+  nid: 3475
+  election_id: 4100
+  title: "Sacramento Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06067-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+
+##highest nid: 3475
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
