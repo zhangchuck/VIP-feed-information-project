@@ -1976,7 +1976,44 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3469
+# San Joaquin Co, CA general
+data{
+  nid: 3470
+  election_id: 4100
+  title: "San Joaquin Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06077-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Mariposa Co, CA general
+data{
+  nid: 3471
+  election_id: 4100
+  title: "Mariposa Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06043-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Merced Co, CA general
+data{
+  nid: 3472
+  election_id: 4100
+  title: "Merced Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06047-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Riverside Co, CA general
+data{
+  nid: 3473
+  election_id: 4100
+  title: "Riverside Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+
+##highest nid: 3473
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
