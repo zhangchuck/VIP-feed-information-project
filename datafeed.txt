@@ -2047,7 +2047,17 @@ data{
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06060-2014-11-04.zip"
   user: "kathryn@democracy.works"
 }
-##highest nid: 3477
+
+# San Diego Co, CA general
+data{
+  nid: 3478
+  election_id: 4100
+  title: "San Diego Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+##highest nid: 3478
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
