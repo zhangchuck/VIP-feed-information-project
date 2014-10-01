@@ -1963,7 +1963,7 @@ data{
   nid: 3468
   election_id: 4100
   title: "Wyoming 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2014-11-04"
+  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
