@@ -2120,7 +2120,25 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3485
+# Tulare County, CA general
+data{
+  nid: 3486
+  election_id: 4100
+  title: "Tulare Co CA 2014 General"
+  feed_url: "https://metis.votinginfoproject.org/feeds/6107/vipFeed-06107-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Yuba County, CA General
+data{
+  nid: 3487
+  election_id: 4100
+  title: "Yuba Co CA 2014 General"
+  feed_url: "https://metis.votinginfoproject.org/feeds/6115/vipFeed-06115-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3486
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
