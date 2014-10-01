@@ -2206,11 +2206,39 @@ data{
   nid: 3493
   election_id: 4100
   title: "Butte County, CA 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/mt/vipFeed-6007-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6007-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3493
+# Madera Co, CA General
+data{
+  nid: 3494
+  election_id: 4100
+  title: "Madera County, CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06039-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Sumter Co, FL General
+data{
+  nid: 3495
+  election_id: 4100
+  title: "Sumter Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12119-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Indian River Co, FL General
+data{
+  nid: 3496
+  election_id: 4100
+  title: "Indian River Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12067-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+
+##highest nid: 3496
 ##lowest nid: -367
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
