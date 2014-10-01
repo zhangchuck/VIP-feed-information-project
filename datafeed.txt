@@ -2246,9 +2246,63 @@ data{
   user: "pkominers@democracy.works"
 }
 
+# Grundy County, TN general
+data{
+  nid: -368
+  election_id: 4100
+  title: "Grundy County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47061-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Overton County, TN general
+data{
+  nid: -369
+  election_id: 4100
+  title: "Overton County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47133-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Perry County, TN general
+data{
+  nid: -370
+  election_id: 4100
+  title: "Perry County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47135-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Putnam County, TN general
+data{
+  nid: -371
+  election_id: 4100
+  title: "Putnam County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47141-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Scott County, TN general
+data{
+  nid: -372
+  election_id: 4100
+  title: "Scott County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47151-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Warren County, TN general
+data{
+  nid: -373
+  election_id: 4100
+  title: "Warren County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47177-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 
 ##highest nid: 3497
-##lowest nid: -367
+##lowest nid: -373
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
