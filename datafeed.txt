@@ -2138,7 +2138,34 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3486
+# Stanislaus County, CA General
+data{
+  nid: 3488
+  election_id: 4100
+  title: "Stanislaus Co CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06099-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Shasta County, CA General
+data{
+  nid: 3489
+  election_id: 4100
+  title: "Shasta Co CA 2014 General"
+  feed_url: "https://metis.votinginfoproject.org/feeds/6089/vipFeed-06089-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Tuolumne County, CA General
+data{
+  nid: 3490
+  election_id: 4100
+  title: "Tuolumne Co CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06109-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3490
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
