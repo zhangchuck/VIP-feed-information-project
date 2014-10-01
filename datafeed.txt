@@ -2372,7 +2372,43 @@ data{
   user: "kathryn@democracy.works"
 }
 
-##highest nid: 3505
+# Martin Co, FL General
+data{
+  nid: 3506
+  election_id: 4100
+  title: "Martin Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12085-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Walton Co, FL General
+data{
+  nid: 3507
+  election_id: 4100
+  title: "Walton Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12131-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Putnam Co, FL General
+data{
+  nid: 3508
+  election_id: 4100
+  title: "Putnam Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12107-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Polk Co, FL General
+data{
+  nid: 3509
+  election_id: 4100
+  title: "Polk Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12105-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3509
 ##lowest nid: -373
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
