@@ -2084,6 +2084,15 @@ data{
   user: "pkominers@democracy.works"
 }
 
+# Santa Clara Co, CA general
+data{
+  nid: 3482
+  election_id: 4100
+  title: "Santa Clara Co CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06085-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
 ##highest nid: 3481
 ##lowest nid: -365
 ##highest election_id: 4049
