@@ -2300,17 +2300,70 @@ data{
   user: "jeff@democracy.works"
 }
 
-# Taylor River Co, FL General
+# Taylor Co, FL General
 data{
   nid: 3498
   election_id: 4100
-  title: "Taylor River Co, FL 2014 General"
+  title: "Taylor Co, FL 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12123-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
+# Pasco Co, FL General
+data{
+  nid: 3499
+  election_id: 4100
+  title: "Pasco Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12101-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
 
-##highest nid: 3498
+# Madison Co, FL General
+data{
+  nid: 3500
+  election_id: 4100
+  title: "Madison Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12079-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Marion Co, FL General
+data{
+  nid: 3501
+  election_id: 4100
+  title: "Marion Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12083-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Nassau Co, FL General
+data{
+  nid: 3502
+  election_id: 4100
+  title: "Nassau Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12089-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Liberty Co, FL General
+data{
+  nid: 3503
+  election_id: 4100
+  title: "Liberty Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12077-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# St John's Co, FL General
+data{
+  nid: 3504
+  election_id: 4100
+  title: "St John's Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12123-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3504
 ##lowest nid: -373
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
