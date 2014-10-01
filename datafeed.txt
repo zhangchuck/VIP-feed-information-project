@@ -2093,7 +2093,25 @@ data{
   user: "kathryn@democracy.works"
 }
 
-##highest nid: 3481
+# Santa Cruz Co, CA general
+data{
+  nid: 3483
+  election_id: 4100
+  title: "Santa Cruz Co CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06087-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+# Sonoma Co, CA general
+data{
+  nid: 3484
+  election_id: 4100
+  title: "Sonoma Co CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06097-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+##highest nid: 3484
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
