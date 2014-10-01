@@ -2066,7 +2066,25 @@ data{
   user: "kathryn@democracy.works"
 }
 
-##highest nid: 3479
+# San Mateo Co, CA general
+data{
+  nid: 3480
+  election_id: 4100
+  title: "San Mateo Co 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06081-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Orange Co, CA general
+data{
+  nid: 3481
+  election_id: 4100
+  title: "Orange Co CA 2014 General"
+  feed_url: "https://metis.votinginfoproject.org/feeds/6059/vipFeed-06059-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3481
 ##lowest nid: -365
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
