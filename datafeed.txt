@@ -2471,8 +2471,16 @@ data{
   user: "kathryn@democracy.works"
 }
 
+# Citrus Co, FL General
+data{
+  nid: 3517
+  election_id: 4100
+  title: "Citrus Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12017-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
 
-##highest nid: 3516
+##highest nid: 3517
 ##lowest nid: -373
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
