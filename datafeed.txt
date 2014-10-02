@@ -2534,7 +2534,106 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3523
+# Leon Co, FL General
+data{
+  nid: 3524
+  election_id: 4100
+  title: "Leon Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12073-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Jefferson Co, FL General
+data{
+  nid: 3525
+  election_id: 4100
+  title: "Jefferson Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12065-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Hillsborough Co, FL General
+data{
+  nid: 3526
+  election_id: 4100
+  title: "Hillsborough Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12057-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Highlands Co, FL General
+data{
+  nid: 3527
+  election_id: 4100
+  title: "Highlands Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12055-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Hendry Co, FL General
+data{
+  nid: 3528
+  election_id: 4100
+  title: "Hendry Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12051-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+#  Hernando Co, FL General
+data{
+  nid: 3529
+  election_id: 4100
+  title: "Hernando Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12053-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# DeSoto Co, FL General
+data{
+  nid: 3530
+  election_id: 4100
+  title: "DeSoto Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12027-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Levy Co, FL General
+data{
+  nid: 3531
+  election_id: 4100
+  title: "Levy Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12075-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Jackson Co, FL General
+data{
+  nid: 3532
+  election_id: 4100
+  title: "Jackson Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12063-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Holmes Co, FL General
+data{
+  nid: 3533
+  election_id: 4100
+  title: "Holmes Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12059-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Santa Barbara Co, CA General
+data{
+  nid: 3534
+  election_id: 4100
+  title: "Santa Barbara County, CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06083-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3534
 ##lowest nid: -373
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
