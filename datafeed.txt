@@ -2507,7 +2507,16 @@ data{
   user: "kathryn@democracy.works"
 }
 
-##highest nid: 3520
+# LA General
+data{
+  nid: 3521
+  election_id: 4100
+  title: "LA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3521
 ##lowest nid: -373
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
