@@ -2044,7 +2044,7 @@ data{
   nid: 3477
   election_id: 4100
   title: "Monterey Co 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06060-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06053-2014-11-04.zip"
   user: "kathryn@democracy.works"
 }
 
