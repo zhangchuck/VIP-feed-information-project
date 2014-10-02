@@ -2642,16 +2642,88 @@ data{
   user: "pkominers@democracy.works"
 }
 
+# Flagler Co, FL General
+data{
+  nid: 3537
+  election_id: 4100
+  title: "Flaglers Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12035-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Hamilton Co, FL General
+data{
+  nid: 3538
+  election_id: 4100
+  title: "Hamilton Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12047-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Hardee Co, FL General
+data{
+  nid: 3539
+  election_id: 4100
+  title: "Hardee Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12049-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Gulf Co, FL General
+data{
+  nid: 3540
+  election_id: 4100
+  title: "Gulf Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12045-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Franklin Co, FL General
+data{
+  nid: 3541
+  election_id: 4100
+  title: "Franklin Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12037-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Escambia Co, FL General
+data{
+  nid: 3542
+  election_id: 4100
+  title: "Escambia Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12033-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Gadsden Co, FL General
+data{
+  nid: 3543
+  election_id: 4100
+  title: "Gadsden Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12039-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+# Duval Co, FL General
+data{
+  nid: 3544
+  election_id: 4100
+  title: "Duval Co FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12031-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
 # Dixie Co, FL General
 data{
-  nid: 3536
+  nid: 3545
   election_id: 4100
-  title: "Holmes Co FL 2014 General"
+  title: "Dixie Co FL 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12029-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3536
+##highest nid: 3545
 ##lowest nid: -374
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
