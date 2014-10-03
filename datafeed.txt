@@ -2233,7 +2233,7 @@ data{
   nid: 3496
   election_id: 4100
   title: "Indian River Co, FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12067-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12061-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
@@ -2323,7 +2323,7 @@ data{
   nid: 3500
   election_id: 4100
   title: "Madison Co, FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12079-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12061-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
