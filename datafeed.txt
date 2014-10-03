@@ -2723,6 +2723,15 @@ data{
   user: "pkominers@democracy.works"
 }
 
+## NV General Election
+data {
+  nid: 3546
+  election_id: 4100
+  title: "NV 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-32-2014-11-04.zip"
+  user: "pkominers@turbovote.org"
+}
+
 ##highest nid: 3545
 ##lowest nid: -374
 ##highest election_id: 4049
