@@ -2840,8 +2840,17 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Russell County, AL general
+data{
+  nid: -387
+  election_id: 4100
+  title: "Russell County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01113-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3545
-##lowest nid: -386
+##lowest nid: -387
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
