@@ -2768,8 +2768,26 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Lee County, AL general
+data{
+  nid: -379
+  election_id: 4100
+  title: "Lee County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01081-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Limestone County, AL general
+data{
+  nid: -380
+  election_id: 4100
+  title: "Limestone County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01083-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3545
-##lowest nid: -378
+##lowest nid: -380
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
