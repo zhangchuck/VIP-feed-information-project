@@ -2867,8 +2867,26 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Tuscaloosa County, AL general
+data{
+  nid: -390
+  election_id: 4100
+  title: "Tuscaloosa County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01125-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Walker County, AL general
+data{
+  nid: -391
+  election_id: 4100
+  title: "Walker County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01127-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3545
-##lowest nid: -389
+##lowest nid: -391
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
