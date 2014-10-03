@@ -2759,8 +2759,17 @@ data{
   user: "jeff@democracy.works"
 }
 
+# Lauderdale County, AL general
+data{
+  nid: -378
+  election_id: 4100
+  title: "Lauderdale County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01077-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3545
-##lowest nid: -377
+##lowest nid: -378
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
