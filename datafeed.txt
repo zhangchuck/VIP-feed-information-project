@@ -2894,8 +2894,16 @@ data {
   user: "noma@turbovote.org"
 }
 
+# Modoc Co, CA General
+data{
+  nid: 3548
+  election_id: 4100
+  title: "Modoc County 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06049-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
 
-##highest nid: 3547
+##highest nid: 3548
 ##lowest nid: -391
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
