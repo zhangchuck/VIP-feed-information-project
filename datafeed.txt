@@ -2080,7 +2080,7 @@ data{
   nid: 3481
   election_id: 4100
   title: "Orange Co CA 2014 General"
-  feed_url: "https://metis.votinginfoproject.org/feeds/6059/vipFeed-06059-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06059-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
