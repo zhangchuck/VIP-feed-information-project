@@ -2930,8 +2930,17 @@ data{
   user: "pbaranay@democracy.works"
 }
 
+## VT General Election
+data {
+  nid: -395
+  election_id: 4100
+  title: "VT 2014 Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/vt/vipFeed-50-2014-11-04.zip"
+  user: "noma@turbovote.org"
+}
+
 ##highest nid: 3548
-##lowest nid: -394
+##lowest nid: -395
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
