@@ -3020,8 +3020,17 @@ data{
   user: "margie@democracy.works"
 }
 
+# Zavala County, TX General Election
+data{
+  nid: -400
+  election_id: 4100
+  title: "Zavala County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-48507-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
+
 ##highest nid: 3553
-##lowest nid: -399
+##lowest nid: -400
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
