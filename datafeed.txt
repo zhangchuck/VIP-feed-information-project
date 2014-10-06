@@ -2993,7 +2993,16 @@ data{
   user: "pkominers@democracy.works"
 }
 
-##highest nid: 3552
+# San Bernardino County, CA General Election
+data{
+  nid: 3553
+  election_id: 4100
+  title: "San Bernardino CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2014-11-04.zip"
+  user: "pkominers@democracy.works"
+}
+
+##highest nid: 3553
 ##lowest nid: -397
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
