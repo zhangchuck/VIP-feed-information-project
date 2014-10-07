@@ -3029,8 +3029,126 @@ data{
   user: "yonatan@democracy.works"
 }
 
+# Apache County, AZ General Election
+data{
+  nid: -401
+  election_id: 4100
+  title: "Apache County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04001-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Cochise County, AZ General Election
+data{
+  nid: -402
+  election_id: 4100
+  title: "Cochise County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04003-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Coconino County, AZ General Election
+data{
+  nid: -403
+  election_id: 4100
+  title: "Coconino County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04005-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Gila County, AZ General Election
+data{
+  nid: -404
+  election_id: 4100
+  title: "Gila County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04007-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Graham County, AZ General Election
+data{
+  nid: -405
+  election_id: 4100
+  title: "Graham County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04009-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Greenlee County, AZ General Election
+data{
+  nid: -406
+  election_id: 4100
+  title: "Greenlee County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04011-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# La Paz County, AZ General Election
+data{
+  nid: -407
+  election_id: 4100
+  title: "La Paz County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04012-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Mohave County, AZ General Election
+data{
+  nid: -408
+  election_id: 4100
+  title: "Mohave County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04015-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Pima County, AZ General Election
+data{
+  nid: -409
+  election_id: 4100
+  title: "Pima County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04019-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Pinal County, AZ General Election
+data{
+  nid: -410
+  election_id: 4100
+  title: "Pinal County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04021-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Santa Cruz County, AZ General Election
+data{
+  nid: -411
+  election_id: 4100
+  title: "Santa Cruz County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04023-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Yavapai County, AZ General Election
+data{
+  nid: -412
+  election_id: 4100
+  title: "Yavapai County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04025-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Yuma County, AZ General Election
+data{
+  nid: -413
+  election_id: 4100
+  title: "Yuma County AZ 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-04027-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 ##highest nid: 3553
-##lowest nid: -400
+##lowest nid: -413
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
