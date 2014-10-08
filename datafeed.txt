@@ -3281,8 +3281,17 @@ data{
   user: "nat@democracy.works"
 }
 
+# Adams County, IN General Election
+data{
+  nid: -426
+  election_id: 4100
+  title: "Adams County, IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18001-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 ##highest nid: 3556
-##lowest nid: -425
+##lowest nid: -426
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
