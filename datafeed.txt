@@ -3308,6 +3308,33 @@ data{
   user: "pkominers@democracy.works"
 }
 
+# White County, AR General Election 2014
+data{
+  nid: -427
+  election_id: 4100
+  title: "White Co AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05145-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Stone County, AR General Election 2014
+data{
+  nid: -428
+  election_id: 4100
+  title: "Stone Co AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05137-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Sharp County, AR General Election 2014
+data{
+  nid: -429
+  election_id: 4100
+  title: "Sharp Co AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05135-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 ##highest nid: 3558
 ##lowest nid: -426
 ##highest election_id: 4049
