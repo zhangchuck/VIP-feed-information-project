@@ -3025,7 +3025,7 @@ data{
   nid: -400
   election_id: 4100
   title: "Zavala County TX 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-48507-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48507-2014-11-04.zip"
   user: "yonatan@democracy.works"
 }
 
