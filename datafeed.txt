@@ -3389,7 +3389,16 @@ data{
   user: "kathryn@democracy.works"
 }
 
-##highest nid: 3563
+# New York City, NY General Election
+data{
+  nid: 3564
+  election_id: 4100
+  title: "NYC 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2014-11-04-nyc.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3564
 ##lowest nid: -430
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
