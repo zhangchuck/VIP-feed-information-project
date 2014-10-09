@@ -3362,6 +3362,16 @@ data{
   user: "kathryn@democracy.works"
 }
 
+# Osceola County, FL General Election
+data{
+  nid: 3561
+  election_id: 4100
+  title: "Osceola County FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12097-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+
 ##highest nid: 3560
 ##lowest nid: -430
 ##highest election_id: 4049
