@@ -3371,8 +3371,25 @@ data{
   user: "kathryn@democracy.works"
 }
 
+# Santa Rosa County, FL General Election
+data{
+  nid: 3562
+  election_id: 4100
+  title: "Santa Rosa County FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12113-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
 
-##highest nid: 3560
+# San Luis Obispo County, CA General Election
+data{
+  nid: 3563
+  election_id: 4100
+  title: "San Luis Obispo County CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-06079-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+##highest nid: 3563
 ##lowest nid: -430
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
