@@ -3443,8 +3443,62 @@ data{
   user: "nat@democracy.works"
 }
 
+# Atascosa County, TX General Election
+data {
+  nid: -436
+  election_id: 4100
+  title: "Atascosa County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48013-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Austin County, TX General Election
+data {
+  nid: -437
+  election_id: 4100
+  title: "Austin County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48015-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Bailey County, TX General Election
+data {
+  nid: -438
+  election_id: 4100
+  title: "Bailey County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48017-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Bandera County, TX General Election
+data {
+  nid: -439
+  election_id: 4100
+  title: "Bandera County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48019-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Bastrop County, TX General Election
+data {
+  nid: -440
+  election_id: 4100
+  title: "Bastrop County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48021-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Baylor County, TX General Election
+data {
+  nid: -441
+  election_id: 4100
+  title: "Baylor County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48023-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
 ##highest nid: 3564
-##lowest nid: -435
+##lowest nid: -441
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
