@@ -3187,7 +3187,7 @@ data{
   nid: -415
   election_id: 4100
   title: "Blackford County, IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/AZ/vipFeed-18009-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18009-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
