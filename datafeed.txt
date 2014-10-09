@@ -3515,7 +3515,16 @@ data {
   user: "margie@democracy.works"
 }
 
-##highest nid: 3564
+# California General Election
+data {
+  nid: 3565
+  election_id: 4100
+  title: "California 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/CA/vipFeed-06-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+##highest nid: 3565
 ##lowest nid: -443
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
