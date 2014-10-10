@@ -3651,8 +3651,18 @@ data{
   user: "gunnar@democracy.works"
 }
 
+# Wells County, IN General Election
+data{
+  nid: -458
+  election_id: 4100
+  title: "Wells County, IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-18179-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
+
+
 ##highest nid: 3565
-##lowest nid: -445
+##lowest nid: -458
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
