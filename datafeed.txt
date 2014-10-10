@@ -3678,9 +3678,25 @@ data{
   user: "yonatan@democracy.works"
 }
 
+# Bell County, TX General Election
+data {
+  nid: -461
+  election_id: 4100
+  title: "Bell County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48027-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
+# Bexar County, TX General Election
+data {
+  nid: -462
+  election_id: 4100
+  title: "Bexar County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48029-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 ##highest nid: 3565
-##lowest nid: -460
+##lowest nid: -462
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
