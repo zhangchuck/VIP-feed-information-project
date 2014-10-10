@@ -3660,6 +3660,24 @@ data{
   user: "yonatan@democracy.works"
 }
 
+# Whitley County, IN General Election
+data{
+  nid: -458
+  election_id: 4100
+  title: "Whitley County, IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18183-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
+
+# Warrick County, IN General Election
+data{
+  nid: -460
+  election_id: 4100
+  title: "Warrick County, IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18173-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
+
 
 ##highest nid: 3565
 ##lowest nid: -458
