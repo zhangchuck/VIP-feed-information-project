@@ -3524,19 +3524,7 @@ data {
   user: "kathryn@democracy.works"
 }
 
-<<<<<<< HEAD
-# West Virginia General Election
-data {
-  nid: 3566
-  election_id: 4100
-  title: "West Virginia 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/CA/vipFeed-54-2014-11-04.zip"
-  user: "kathryn@democracy.works"
-}
 
-##highest nid: 3566
-##lowest nid: -443
-=======
 # Allen County, IN General Election
 data{
   nid: -444
@@ -3554,6 +3542,7 @@ data{
   feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18019-2014-11-04.zip"
   user: "nat@democracy.works"
 }
+
 
 ##highest nid: 3565
 ##lowest nid: -445
