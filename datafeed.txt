@@ -3615,6 +3615,15 @@ data{
   user: "gunnar@democracy.works"
 }
 
+# Gwinnett County, GA General Election
+data{
+  nid: -454
+  election_id: 4100
+  title: "Gwinnett County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13135-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 ##highest nid: 3565
 ##lowest nid: -445
 ##highest election_id: 4049
