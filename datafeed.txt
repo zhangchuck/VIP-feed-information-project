@@ -3624,6 +3624,33 @@ data{
   user: "gunnar@democracy.works"
 }
 
+# Cobb County, GA General Election
+data{
+  nid: -455
+  election_id: 4100
+  title: "Cobb County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13067-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# De Kalb County, GA General Election
+data{
+  nid: -456
+  election_id: 4100
+  title: "De Kalb County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13089-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wilkinson County, GA General Election
+data{
+  nid: -457
+  election_id: 4100
+  title: "Wilkinson County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13319-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 ##highest nid: 3565
 ##lowest nid: -445
 ##highest election_id: 4049
