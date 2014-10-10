@@ -3543,6 +3543,77 @@ data{
   user: "nat@democracy.works"
 }
 
+# Henry County, GA General Election
+data{
+  nid: -446
+  election_id: 4100
+  title: "Henry County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13151-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Muscogee County, GA General Election
+data{
+  nid: -447
+  election_id: 4100
+  title: "Muscogee County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13215-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Richmond County, GA General Election
+data{
+  nid: -448
+  election_id: 4100
+  title: "Richmond County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13245-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# White County, GA General Election
+data{
+  nid: -449
+  election_id: 4100
+  title: "White County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13311-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Whitfield County, GA General Election
+data{
+  nid: -450
+  election_id: 4100
+  title: "Whitfield County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13313-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wilcox County, GA General Election
+data{
+  nid: -451
+  election_id: 4100
+  title: "Wilcox County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13315-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wilkes County, GA General Election
+data{
+  nid: -452
+  election_id: 4100
+  title: "Wilkes County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13317-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Worth County, GA General Election
+data{
+  nid: -453
+  election_id: 4100
+  title: "Worth County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13321-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
 
 ##highest nid: 3565
 ##lowest nid: -445
