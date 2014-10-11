@@ -3714,8 +3714,80 @@ data {
   user: "margie@democracy.works"
 }
 
+# Daviess County, IN General Election
+data {
+  nid: -465
+  election_id: 4100
+  title: "Daviess County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18027-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Dekalb County, IN General Election
+data {
+  nid: -466
+  election_id: 4100
+  title: "Dekalb County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18033-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Delaware County, IN General Election
+data {
+  nid: -467
+  election_id: 4100
+  title: "Delaware County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18035-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Dubois County, IN General Election
+data {
+  nid: -468
+  election_id: 4100
+  title: "Dubois County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18037-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Elkhart County, IN General Election
+data {
+  nid: -469
+  election_id: 4100
+  title: "Elkhart County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18039-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Franklin County, IN General Election
+data {
+  nid: -470
+  election_id: 4100
+  title: "Franklin County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18047-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Fulton County, IN General Election
+data {
+  nid: -471
+  election_id: 4100
+  title: "Fulton County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18049-2014-11-04.zip"
+  user: "nat@democracy.work
+}
+
+# Harrison County, IN General Election
+data {
+  nid: -472
+  election_id: 4100
+  title: "Harrison County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18061-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 ##highest nid: 3565
-##lowest nid: -464
+##lowest nid: -472
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
