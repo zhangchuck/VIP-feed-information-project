@@ -2503,7 +2503,7 @@ data{
   nid: 3520
   election_id: 4100
   title: "Columbia Co, FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12023-2014-11-04.xml.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12023-2014-11-04.zip"
   user: "kathryn@democracy.works"
 }
 
