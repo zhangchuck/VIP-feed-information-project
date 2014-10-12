@@ -3821,7 +3821,16 @@ data {
   user: "margie@democracy.works"
 }
 
-##highest nid: 3565
+# NY State General Election
+data {
+  nid: 3566
+  election_id: 4100
+  title: "NY State 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3566
 ##lowest nid: -476
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
