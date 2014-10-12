@@ -3893,8 +3893,17 @@ data{
   user: "gunnar@democracy.works"
 }
 
+# Massachusetts General Election
+data{
+  nid: -484
+  election_id: 4100
+  title: "MA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/MA/vipFeed-25-2014-11-04.zip"
+  user: "pkominer@sdemocracy.works"
+}
+
 ##highest nid: 3566
-##lowest nid: -483
+##lowest nid: -484
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
