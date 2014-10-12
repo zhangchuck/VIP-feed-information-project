@@ -3830,8 +3830,71 @@ data {
   user: "noma@democracy.works"
 }
 
+# Bibb County, GA General Election
+data{
+  nid: -477
+  election_id: 4100
+  title: "Bibb County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13021-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Carroll County, GA General Election
+data{
+  nid: -478
+  election_id: 4100
+  title: "Carroll County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13045-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Cherokee County, GA General Election
+data{
+  nid: -479
+  election_id: 4100
+  title: "Cherokee County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13057-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Clayton County, GA General Election
+data{
+  nid: -480
+  election_id: 4100
+  title: "Clayton County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13063-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Columbia County, GA General Election
+data{
+  nid: -481
+  election_id: 4100
+  title: "Columbia County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13073-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Coweta County, GA General Election
+data{
+  nid: -482
+  election_id: 4100
+  title: "Coweta County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13077-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Hall County, GA General Election
+data{
+  nid: -483
+  election_id: 4100
+  title: "Hall County, GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13139-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 ##highest nid: 3566
-##lowest nid: -476
+##lowest nid: -483
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
