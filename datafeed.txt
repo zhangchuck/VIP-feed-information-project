@@ -4033,17 +4033,99 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48061-2014-11-04.zip"
   user: "margie@democracy.works"
 }
-# Camp County, TX General Election
+
+# Barbour County, AL General Election
+data {
+  nid: 509
+  election_id: 4100
+  title: "Barbour County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01005-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+# Bibb County, AL General Election
 data {
   nid: -500
   election_id: 4100
-  title: "Camp County TX 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48063-2014-11-04.zip"
-  user: "margie@democracy.works"
+  title: "Bibb County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01007-2014-11-04.zip"
+  user: "jeff@democracy.works"
 }
 
+# Blount County, AL General Election
+data {
+  nid: -501
+  election_id: 4100
+  title: "Blount County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01009-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Butler County, AL General Election
+data {
+  nid: -502
+  election_id: 4100
+  title: "Butler County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01013-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Calhoun County, AL General Election
+data {
+  nid: -503
+  election_id: 4100
+  title: "Calhoun County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01015-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Chilton County, AL General Election
+data {
+  nid: -504
+  election_id: 4100
+  title: "Chilton County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01021-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Clay County, AL General Election
+data {
+  nid: -505
+  election_id: 4100
+  title: "Clay County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01027-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Colbert County, AL General Election
+data {
+  nid: -506
+  election_id: 4100
+  title: "Colbert County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01033-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Conecuh County, AL General Election
+data {
+  nid: -507
+  election_id: 4100
+  title: "Conecuh County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01035-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Coosa County, AL General Election
+data {
+  nid: -508
+  election_id: 4100
+  title: "Coosa County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01037-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 ##highest nid: 3566
-##lowest nid: -500
+##lowest nid: -509
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
