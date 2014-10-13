@@ -4036,7 +4036,7 @@ data {
 
 # Barbour County, AL General Election
 data {
-  nid: 509
+  nid: -509
   election_id: 4100
   title: "Barbour County AL 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01005-2014-11-04.zip"
