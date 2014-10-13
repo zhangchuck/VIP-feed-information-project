@@ -3945,6 +3945,7 @@ data {
   user: "margie@democracy.works"
 }
 
+# Caldwell County, TX General Election
 data {
   nid: -490
   election_id: 4100
@@ -3952,9 +3953,17 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48055-2014-11-04.zip"
   user: "margie@democracy.works"
 }
+# Calhoun County, TX General Election
+data {
+  nid: -491
+  election_id: 4100
+  title: "Calhoun County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48057-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
 ##highest nid: 3566
-##lowest nid: -490
+##lowest nid: -491
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
