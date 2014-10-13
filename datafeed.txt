@@ -4159,8 +4159,162 @@ data {
   user: "margie@democracy.works"
 }
 
+# Cullman County, AL General Election
+data {
+  nid: -514
+  election_id: 4100
+  title: "Cullman County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01043-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Dale County, AL General Election
+data {
+  nid: -515
+  election_id: 4100
+  title: "Dale County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01045-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Dekalb County, AL General Election
+data {
+  nid: -516
+  election_id: 4100
+  title: "Dekalb County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01049-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Elmore County, AL General Election
+data {
+  nid: -517
+  election_id: 4100
+  title: "Elmore County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01051-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Escambia County, AL General Election
+data {
+  nid: -518
+  election_id: 4100
+  title: "Escambia County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01053-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Geneva County, AL General Election
+data {
+  nid: -519
+  election_id: 4100
+  title: "Geneva County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01061-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Greene County, AL General Election
+data {
+  nid: -520
+  election_id: 4100
+  title: "Greene County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01063-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Henry County, AL General Election
+data {
+  nid: -521
+  election_id: 4100
+  title: "Henry County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01067-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Houston County, AL General Election
+data {
+  nid: -522
+  election_id: 4100
+  title: "Houston County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01069-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Jackson County, AL General Election
+data {
+  nid: -523
+  election_id: 4100
+  title: "Jackson County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01071-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lamar County, AL General Election
+data {
+  nid: -524
+  election_id: 4100
+  title: "Lamar County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01075-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Macon County, AL General Election
+data {
+  nid: -525
+  election_id: 4100
+  title: "Macon County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01087-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Marengo County, AL General Election
+data {
+  nid: -526
+  election_id: 4100
+  title: "Marengo County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01091-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Perry County, AL General Election
+data {
+  nid: -527
+  election_id: 4100
+  title: "Perry County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01105-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# St. Clair County, AL General Election
+data {
+  nid: -528
+  election_id: 4100
+  title: "St. Clair County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01115-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Talladega County, AL General Election
+data {
+  nid: -529
+  election_id: 4100
+  title: "Talladega County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01121-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Winston County, AL General Election
+data {
+  nid: -530
+  election_id: 4100
+  title: "Winston County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01133-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 ##highest nid: 3566
-##lowest nid: -513
+##lowest nid: -530
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
