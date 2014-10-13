@@ -4364,6 +4364,15 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Pike County, AL General Election
+data {
+  nid: -537
+  election_id: 4100
+  title: "Pike County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01109-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 
 ##highest nid: 3566
 ##lowest nid: -536
