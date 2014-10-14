@@ -4382,10 +4382,62 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Henry County, IN General Election
+data {
+  nid: -539
+  election_id: 4100
+  title: "Henry County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18065-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
 
+# Huntington County, IN General Election
+data {
+  nid: -540
+  election_id: 4100
+  title: "Huntington County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18069-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Jackson County, IN General Election
+data {
+  nid: -541
+  election_id: 4100
+  title: "Jackson County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18071-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Jasper County, IN General Election
+data {
+  nid: -542
+  election_id: 4100
+  title: "Jasper County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18073-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Jay County, IN General Election
+data {
+  nid: -543
+  election_id: 4100
+  title: "Jay County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18075-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Owen County, IN General Election
+data {
+  nid: -544
+  election_id: 4100
+  title: "Owen County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180119-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
 
 ##highest nid: 3566
-##lowest nid: -538
+##lowest nid: -544
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
