@@ -4707,6 +4707,14 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# White County, IN General Election
+data {
+  nid: -574
+  election_id: 4100
+  title: "White County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18181-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
 
 ##highest nid: 3566
 ##lowest nid: -574
