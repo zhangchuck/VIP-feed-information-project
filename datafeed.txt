@@ -4445,8 +4445,188 @@ data {
   user: "margie@democracy.works"
 }
 
+# Arkansas County, AR General Election
+data {
+  nid: -546
+  election_id: 4100
+  title: "Arkansas County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05001-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Ashley County, AR General Election
+data {
+  nid: -547
+  election_id: 4100
+  title: "Ashley County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05003-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Bradley County, AR General Election
+data {
+  nid: -548
+  election_id: 4100
+  title: "Bradley County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05011-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Carroll County, AR General Election
+data {
+  nid: -549
+  election_id: 4100
+  title: "Carroll County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05015-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Clark County, AR General Election
+data {
+  nid: -550
+  election_id: 4100
+  title: "Clark County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05019-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Clay County, AR General Election
+data {
+  nid: -551
+  election_id: 4100
+  title: "Clay County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05021-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Cleburne County, AR General Election
+data {
+  nid: -552
+  election_id: 4100
+  title: "Cleburne County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05023-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Conway County, AR General Election
+data {
+  nid: -553
+  election_id: 4100
+  title: "Conway County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05029-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Desha County, AR General Election
+data {
+  nid: -554
+  election_id: 4100
+  title: "Desha County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05041-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Drew County, AR General Election
+data {
+  nid: -555
+  election_id: 4100
+  title: "Drew County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05043-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Faulkner County, AR General Election
+data {
+  nid: -556
+  election_id: 4100
+  title: "Faulkner County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05045-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Franklin County, AR General Election
+data {
+  nid: -557
+  election_id: 4100
+  title: "Franklin County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05047-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Fulton County, AR General Election
+data {
+  nid: -558
+  election_id: 4100
+  title: "Fulton County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05049-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Garland County, AR General Election
+data {
+  nid: -559
+  election_id: 4100
+  title: "Garland County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05051-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Hot Spring County, AR General Election
+data {
+  nid: -560
+  election_id: 4100
+  title: "Hot Spring County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05059-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Pike County, AR General Election
+data {
+  nid: -561
+  election_id: 4100
+  title: "Pike County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05109-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Pope County, AR General Election
+data {
+  nid: -562
+  election_id: 4100
+  title: "Pope County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05115-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Pulaski County, AR General Election
+data {
+  nid: -563
+  election_id: 4100
+  title: "Pulaski County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05119-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Sharp County, AR General Election
+data {
+  nid: -564
+  election_id: 4100
+  title: "Sharp County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05135-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Stone County, AR General Election
+data {
+  nid: -565
+  election_id: 4100
+  title: "Stone County AR 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05137-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 ##highest nid: 3566
-##lowest nid: -545
+##lowest nid: -565
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
