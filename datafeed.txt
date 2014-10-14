@@ -4435,14 +4435,16 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180119-2014-11-04.zip"
   user: "nat@democracy.works"
 }
+
 # Coleman County, TX General Election
 data {
-  nid: -445
+  nid: -545
   election_id: 4100
   title: "Coleman County TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48083-2014-11-04.zip"
   user: "margie@democracy.works"
 }
+
 ##highest nid: 3566
 ##lowest nid: -545
 ##highest election_id: 4049
