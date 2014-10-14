@@ -4725,8 +4725,63 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Cochran County, TX General Election
+data {
+  nid: -577
+  election_id: 4100
+  title: "Cochran County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48079-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Colorado County, TX General Election
+data {
+  nid: -578
+  election_id: 4100
+  title: "Colorado County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48089-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Comal County, TX General Election
+data {
+  nid: -579
+  election_id: 4100
+  title: "Comal County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48091-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+
+# Concho County, TX General Election
+data {
+  nid: -580
+  election_id: 4100
+  title: "Concho County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48095-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Cooke County, TX General Election
+data {
+  nid: -581
+  election_id: 4100
+  title: "Cooke County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48097-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Coryell County, TX General Election
+data {
+  nid: -582
+  election_id: 4100
+  title: "Coryell County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48099-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
 ##highest nid: 3566
-##lowest nid: -576
+##lowest nid: -582
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
