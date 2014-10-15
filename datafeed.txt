@@ -4986,6 +4986,43 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Culberson County, TX General Election
+data {
+  nid: -605
+  election_id: 4100
+  title: "Culberson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48109-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Dewitt County, TX General Election
+data {
+  nid: -606
+  election_id: 4100
+  title: "Dewitt County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48123-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Dickens County, TX General Election
+data {
+  nid: -608
+  election_id: 4100
+  title: "Dickens County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48125-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Dimmit County, TX General Election
+data {
+  nid: -608
+  election_id: 4100
+  title: "Dimmit County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48127-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+
 ##highest nid: 3567
 ##lowest nid: -604
 ##highest election_id: 4049
