@@ -4914,7 +4914,15 @@ data {
   user: "pbaranay@democracy.works"
 }
 
-##highest nid: 3566
+# SD General Election
+data {
+  nid: 3567
+  election_id: 4100
+  title: "SD 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/sd/vipFeed-39-2014-11-04.zip"
+  user: "kathryn@turbovote.org"
+
+##highest nid: 3567
 ##lowest nid: -597
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
