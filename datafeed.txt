@@ -4806,8 +4806,54 @@ data {
   user: "noma@democracy.works"
 }
 
+
+# Cottle County, TX General Election
+data {
+  nid: -586
+  election_id: 4100
+  title: "Cottle County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48101-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Crane County, TX General Election
+data {
+  nid: -587
+  election_id: 4100
+  title: "Crane County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48103-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Crockett County, TX General Election
+data {
+  nid: -588
+  election_id: 4100
+  title: "Crockett County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48105-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Crosby County, TX General Election
+data {
+  nid: -589
+  election_id: 4100
+  title: "Crosby County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48107-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Dallam County, TX General Election
+data {
+  nid: -590
+  election_id: 4100
+  title: "Dallam County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48111-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
 ##highest nid: 3566
-##lowest nid: -585
+##lowest nid: -590
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
