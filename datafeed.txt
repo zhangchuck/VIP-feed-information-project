@@ -4932,8 +4932,62 @@ data {
   user: "yonatan@democracy.works"
 }  
 
+# Kosciusko County, IN General Election
+data {
+  nid: -599
+  election_id: 4100
+  title: "Kosciusko County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18085-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lawrence County, IN General Election
+data {
+  nid: -600
+  election_id: 4100
+  title: "Lawrence County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18093-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Marion County, IN General Election
+data {
+  nid: -601
+  election_id: 4100
+  title: "Marion County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18097-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Marshall County, IN General Election
+data {
+  nid: -602
+  election_id: 4100
+  title: "Marshall County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18099-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Newton County, IN General Election
+data {
+  nid: -603
+  election_id: 4100
+  title: "Newton County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18111-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Noble County, IN General Election
+data {
+  nid: -604
+  election_id: 4100
+  title: "Noble County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18113-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 ##highest nid: 3567
-##lowest nid: -598
+##lowest nid: -604
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
