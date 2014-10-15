@@ -5202,8 +5202,62 @@ data {
   user: "margie@democracy.works"
 }
 
+# Glascock County, GA General Election
+data {
+  nid: -629
+  election_id: 4100
+  title: "Glascock County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13125-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Hancock County, GA General Election
+data {
+  nid: -630
+  election_id: 4100
+  title: "Hancock County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13141-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Hart County, GA General Election
+data {
+  nid: -631
+  election_id: 4100
+  title: "Hart County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13147-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Irwin County, GA General Election
+data {
+  nid: -632
+  election_id: 4100
+  title: "Irwin County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13155-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Jefferson County, GA General Election
+data {
+  nid: -633
+  election_id: 4100
+  title: "Jefferson County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13163-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Jenkins County, GA General Election
+data {
+  nid: -634
+  election_id: 4100
+  title: "Jenkins County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13165-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 ##highest nid: 3567
-##lowest nid: -628
+##lowest nid: -634
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
