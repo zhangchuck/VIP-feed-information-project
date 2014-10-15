@@ -4806,7 +4806,6 @@ data {
   user: "noma@democracy.works"
 }
 
-
 # Cottle County, TX General Election
 data {
   nid: -586
@@ -4859,6 +4858,15 @@ data {
   title: "Deaf Smith County TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48117-2014-11-04.zip"
   user: "margie@democracy.works"
+}
+
+# Ripley County, IN General Election
+data {
+  nid: -592
+  election_id: 4100
+  title: "Ripley County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180137-2014-11-04.zip"
+  user: "nat@democracy.works"
 }
 
 ##highest nid: 3566
