@@ -4921,7 +4921,7 @@ data {
   title: "SD 2014 General"
   feed_url: "https://data.votinginfoproject.org/feeds/sd/vipFeed-39-2014-11-04.zip"
   user: "kathryn@turbovote.org"
-  
+}
 
 # Martin County, IN General Election
 data {
