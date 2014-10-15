@@ -5006,7 +5006,7 @@ data {
 
 # Dickens County, TX General Election
 data {
-  nid: -608
+  nid: -607
   election_id: 4100
   title: "Dickens County TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48125-2014-11-04.zip"
@@ -5022,9 +5022,162 @@ data {
   user: "margie@democracy.works"
 }
 
+# Appling County, GA General Election
+data {
+  nid: -609
+  election_id: 4100
+  title: "Appling County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13001-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Atkinson County, GA General Election
+data {
+  nid: -610
+  election_id: 4100
+  title: "Atkinson County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13003-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Bacon County, GA General Election
+data {
+  nid: -611
+  election_id: 4100
+  title: "Bacon County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13005-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Barrow County, GA General Election
+data {
+  nid: -612
+  election_id: 4100
+  title: "Barrow County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13013-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Brooks County, GA General Election
+data {
+  nid: -613
+  election_id: 4100
+  title: "Brooks County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13027-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Bryan County, GA General Election
+data {
+  nid: -614
+  election_id: 4100
+  title: "Bryan County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13029-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Bulloch County, GA General Election
+data {
+  nid: -615
+  election_id: 4100
+  title: "Bulloch County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13031-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Butts County, GA General Election
+data {
+  nid: -616
+  election_id: 4100
+  title: "Butts County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13035-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Camden County, GA General Election
+data {
+  nid: -617
+  election_id: 4100
+  title: "Camden County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13039-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Candler County, GA General Election
+data {
+  nid: -618
+  election_id: 4100
+  title: "Candler County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13043-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Catoosa County, GA General Election
+data {
+  nid: -619
+  election_id: 4100
+  title: "Catoosa County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13047-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Charlton County, GA General Election
+data {
+  nid: -620
+  election_id: 4100
+  title: "Charlton County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13049-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Chattooga County, GA General Election
+data {
+  nid: -621
+  election_id: 4100
+  title: "Chattooga County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13055-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Clarke County, GA General Election
+data {
+  nid: -622
+  election_id: 4100
+  title: "Clarke County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13059-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Clay County, GA General Election
+data {
+  nid: -623
+  election_id: 4100
+  title: "Clay County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13061-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Coffee County, GA General Election
+data {
+  nid: -624
+  election_id: 4100
+  title: "Coffee County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13069-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Colquitt County, GA General Election
+data {
+  nid: -625
+  election_id: 4100
+  title: "Colquitt County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13071-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 
 ##highest nid: 3567
-##lowest nid: -604
+##lowest nid: -608
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
