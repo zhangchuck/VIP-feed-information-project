@@ -5302,8 +5302,107 @@ data {
 #  user: "margie@democracy.works"
 #}
 
+# Jefferson County, IN General Election
+data {
+  nid: -640
+  election_id: 4100
+  title: "Jefferson County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18077-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Jennings County, IN General Election
+data {
+  nid: -641
+  election_id: 4100
+  title: "Jennings County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18079-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Rush County, IN General Election
+data {
+  nid: -642
+  election_id: 4100
+  title: "Rush County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18139-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Steuben County, IN General Election
+data {
+  nid: -643
+  election_id: 4100
+  title: "Steuben County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18151-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Tipton County, IN General Election
+data {
+  nid: -644
+  election_id: 4100
+  title: "Tipton County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18159-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Vermillion County, IN General Election
+data {
+  nid: -645
+  election_id: 4100
+  title: "Vermillion County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18165-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Vigo County, IN General Election
+data {
+  nid: -646
+  election_id: 4100
+  title: "Vigo County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18167-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Wabash County, IN General Election
+data {
+  nid: -647
+  election_id: 4100
+  title: "Wabash County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18169-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Warren County, IN General Election
+data {
+  nid: -648
+  election_id: 4100
+  title: "Warren County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18171-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Washington County, IN General Election
+data {
+  nid: -649
+  election_id: 4100
+  title: "Washington County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18175-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Wayne County, IN General Election
+data {
+  nid: -650
+  election_id: 4100
+  title: "Wayne County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18177-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 ##highest nid: 3567
-##lowest nid: -639
+##lowest nid: -650
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
