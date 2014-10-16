@@ -4432,7 +4432,7 @@ data {
   nid: -544
   election_id: 4100
   title: "Owen County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180119-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18119-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
@@ -4639,7 +4639,7 @@ data {
   nid: -567
   election_id: 4100
   title: "Howard County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180067-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18067-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
@@ -4657,7 +4657,7 @@ data {
   nid: -569
   election_id: 4100
   title: "Starke County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180149-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18149-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
@@ -4793,7 +4793,7 @@ data {
   nid: -584
   election_id: 4100
   title: "Fayette County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180041-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18041-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
@@ -4874,7 +4874,7 @@ data {
   nid: -593
   election_id: 4100
   title: "Spencer County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180147-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18147-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
