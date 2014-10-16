@@ -5670,8 +5670,28 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48171-2014-11-04.zip"
   user: "margie@democracy.works"
 }
+
+# Glasscock County, TX General Election
+data {
+  nid: -676
+  election_id: 4100
+  title: "Glasscock County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48173-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Gray County, TX General Election
+data {
+  nid: -677
+  election_id: 4100
+  title: "Gray County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48179-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+
 ##highest nid: 3572
-##lowest nid: -675
+##lowest nid: -677
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
