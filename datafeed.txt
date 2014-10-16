@@ -4919,7 +4919,7 @@ data {
   nid: 3567
   election_id: 4100
   title: "SD 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/sd/vipFeed-39-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/sd/vipFeed-46-2014-11-04.zip"
   user: "kathryn@turbovote.org"
 }
 
