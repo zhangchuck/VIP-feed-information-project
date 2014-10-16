@@ -4715,12 +4715,12 @@ data {
   user: "yonatan@democracy.works"
 }
 
-# Wells County, IN General Election
+# Lagrange County, IN General Election
 data {
   nid: -576
   election_id: 4100
-  title: "Wells County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18179-2014-11-04.zip"
+  title: "Lagrange County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18087-2014-11-04.zip"
   user: "yonatan@democracy.works"
 }
 
