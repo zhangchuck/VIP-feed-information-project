@@ -5555,8 +5555,26 @@ data {
   user: "noma@democracy.works"
 }
 
+# Monroe County, GA General Election
+data {
+  nid: -664
+  election_id: 4100
+  title: "Monroe County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13207-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Laurens County, GA General Election
+data {
+  nid: -665
+  election_id: 4100
+  title: "Laurens County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13175-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 ##highest nid: 3571
-##lowest nid: -663
+##lowest nid: -665
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
