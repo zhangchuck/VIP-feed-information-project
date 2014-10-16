@@ -5419,8 +5419,108 @@ data {
   user: "kathryn@democracy.works"
 }
 
+
+# Floyd County, GA General Election
+data {
+  nid: -651
+  election_id: 4100
+  title: "Floyd County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13115-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Lincoln County, GA General Election
+data {
+  nid: -652
+  election_id: 4100
+  title: "Lincoln County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13181-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Marion County, GA General Election
+data {
+  nid: -653
+  election_id: 4100
+  title: "Marion County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13197-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Mitchell County, GA General Election
+data {
+  nid: -654
+  election_id: 4100
+  title: "Mitchell County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13205-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Paulding County, GA General Election
+data {
+  nid: -655
+  election_id: 4100
+  title: "Paulding County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13223-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Polk County, GA General Election
+data {
+  nid: -656
+  election_id: 4100
+  title: "Polk County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13233-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Randolph County, GA General Election
+data {
+  nid: -657
+  election_id: 4100
+  title: "Randolph County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13243-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Stewart County, GA General Election
+data {
+  nid: -658
+  election_id: 4100
+  title: "Stewart County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13259-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Towns County, GA General Election
+data {
+  nid: -659
+  election_id: 4100
+  title: "Towns County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13281-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Twiggs County, GA General Election
+data {
+  nid: -660
+  election_id: 4100
+  title: "Twiggs County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13289-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Upson County, GA General Election
+data {
+  nid: -661
+  election_id: 4100
+  title: "Upson County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13293-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 ##highest nid: 3569
-##lowest nid: -650
+##lowest nid: -661
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
