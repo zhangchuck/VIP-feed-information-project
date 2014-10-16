@@ -5573,7 +5573,16 @@ data {
   user: "pbaranay@democracy.works"
 }
 
-##highest nid: 3571
+# KY General Election
+data {
+  nid: 3572
+  election_id: 4100
+  title: "KY General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ky/vipFeed-21-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3572
 ##lowest nid: -665
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
