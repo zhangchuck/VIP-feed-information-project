@@ -5599,9 +5599,79 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13019-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
+# Erath County, TX General Election
+data {
+  nid: -668
+  election_id: 4100
+  title: "Erath County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48143-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
+# Fannin County, TX General Election
+data {
+  nid: -669
+  election_id: 4100
+  title: "Fannin County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48147-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Fisher County, TX General Election
+data {
+  nid: -670
+  election_id: 4100
+  title: "Fisher County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48151-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Ector County, TX General Election
+data {
+  nid: -671
+  election_id: 4100
+  title: "Ector County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48135-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Fort Bend County, TX General Election
+data {
+  nid: -672
+  election_id: 4100
+  title: "Fort Bend County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48157-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Frio County, TX General Election
+data {
+  nid: -673
+  election_id: 4100
+  title: "Frio County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48163-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Galveston County, TX General Election
+data {
+  nid: -674
+  election_id: 4100
+  title: "Galveston County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48167-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Gillespie County, TX General Election
+data {
+  nid: -675
+  election_id: 4100
+  title: "Gillespie County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48171-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 ##highest nid: 3572
-##lowest nid: -667
+##lowest nid: -675
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
