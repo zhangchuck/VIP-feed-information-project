@@ -5976,8 +5976,34 @@ data{
   user: "kathryn@democracy.works"
 }
 
+# Hale County, TX General Election
+data {
+  nid: -708
+  election_id: 4100
+  title: "Hale County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48189-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hall County, TX General Election
+data {
+  nid: -709
+  election_id: 4100
+  title: "Hall County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48191-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Edwards County, TX General Election
+data {
+  nid: -710
+  election_id: 4100
+  title: "Edwards County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48137-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 ##highest nid: 3572
-##lowest nid: -707
+##lowest nid: -710
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
