@@ -2323,7 +2323,7 @@ data{
   nid: 3500
   election_id: 4100
   title: "Madison Co, FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12061-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12079-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
@@ -5956,6 +5956,24 @@ data {
   title: "Pike County IN 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18125-2014-11-04.zip"
   user: "nat@democracy.works"
+}
+
+# Suwannee Co, FL General
+data{
+  nid: 3573
+  election_id: 4100
+  title: "Suwannee Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12121-2014-11-04.zip"
+  user: "kathryn@democracy.works"
+}
+
+# Washington Co, FL General
+data{
+  nid: 3574
+  election_id: 4100
+  title: "Washington Co, FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12133-2014-11-04.zip"
+  user: "kathryn@democracy.works"
 }
 
 ##highest nid: 3572
