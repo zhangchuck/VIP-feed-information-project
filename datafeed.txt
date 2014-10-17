@@ -6048,9 +6048,17 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# FL General Election Statewide Ballot Data
+data {
+  nid: -716
+  election_id: 4100
+  title: "FL 2014 General Statewide Ballot Data"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-12-2014-11-04-statewide-ballot.zip"
+  user: "noma@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -715
+##lowest nid: -716
 
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
