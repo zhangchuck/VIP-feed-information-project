@@ -6039,12 +6039,12 @@ data {
   user: "pbaranay@democracy.works"
 }
 
-# Monroe County, IN General Election
+# Fountain County, IN General Election
 data {
   nid: -715
   election_id: 4100
-  title: "Monroe County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18105-2014-11-04.zip"
+  title: "Fountain County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18045-2014-11-04.zip"
   user: "yonatan@democracy.works"
 }
 
@@ -6083,6 +6083,8 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18115-2014-11-04.zip"
   user: "pbaranay@democracy.works"
 }
+
+
 
 ##highest nid: 3572
 ##lowest nid: -719
