@@ -5778,8 +5778,63 @@ data {
   user: "margie@democracy.works"
 }
 
+# Baker County, GA General Election
+data {
+  nid: -688
+  election_id: 4100
+  title: "Baker County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13007-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Banks County, GA General Election
+data {
+  nid: -689
+  election_id: 4100
+  title: "Banks County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13011-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Brantley County, GA General Election
+data {
+  nid: -690
+  election_id: 4100
+  title: "Brantley County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13025-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Burke County, GA General Election
+data {
+  nid: -691
+  election_id: 4100
+  title: "Burke County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13033-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Calhoun County, GA General Election
+data {
+  nid: -692
+  election_id: 4100
+  title: "Calhoun County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13037-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Clinch County, GA General Election
+data {
+  nid: -693
+  election_id: 4100
+  title: "Clinch County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13065-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 ##highest nid: 3572
-##lowest nid: -687
+##lowest nid: -693
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
