@@ -5743,8 +5743,43 @@ data {
   user: "nat@democracy.works"
 }
 
+# Grayson County, TX General Election
+data {
+  nid: -684
+  election_id: 4100
+  title: "Grayson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48181-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+# Gregg County, TX General Election
+data {
+  nid: -685
+  election_id: 4100
+  title: "Gregg County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48183-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Grimes County, TX General Election
+data {
+  nid: -686
+  election_id: 4100
+  title: "Grimes County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48185-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Guadalupe County, TX General Election
+data {
+  nid: -687
+  election_id: 4100
+  title: "Guadalupe County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48187-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
 ##highest nid: 3572
-##lowest nid: -683
+##lowest nid: -687
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
