@@ -6084,10 +6084,181 @@ data {
   user: "pbaranay@democracy.works"
 }
 
+# Habersham County, GA General Election
+data {
+  nid: -720
+  election_id: 4100
+  title: "Habersham County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13137-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Haralson County, GA General Election
+data {
+  nid: -721
+  election_id: 4100
+  title: "Haralson County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13143-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Harris County, GA General Election
+data {
+  nid: -722
+  election_id: 4100
+  title: "Harris County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13145-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Heard County, GA General Election
+data {
+  nid: -723
+  election_id: 4100
+  title: "Heard County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13149-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Houston County, GA General Election
+data {
+  nid: -724
+  election_id: 4100
+  title: "Houston County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13153-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Jackson County, GA General Election
+data {
+  nid: -725
+  election_id: 4100
+  title: "Jackson County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13157-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Jasper County, GA General Election
+data {
+  nid: -726
+  election_id: 4100
+  title: "Jasper County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13159-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Jeff Davis County, GA General Election
+data {
+  nid: -727
+  election_id: 4100
+  title: "Jeff Davis County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13161-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Jones County, GA General Election
+data {
+  nid: -728
+  election_id: 4100
+  title: "Jones County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13169-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lamar County, GA General Election
+data {
+  nid: -729
+  election_id: 4100
+  title: "Lamar County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13171-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lanier County, GA General Election
+data {
+  nid: -730
+  election_id: 4100
+  title: "Lanier County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13173-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lee County, GA General Election
+data {
+  nid: -731
+  election_id: 4100
+  title: "Lee County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13177-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Liberty County, GA General Election
+data {
+  nid: -732
+  election_id: 4100
+  title: "Liberty County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13179-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Long County, GA General Election
+data {
+  nid: -733
+  election_id: 4100
+  title: "Long County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13183-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Lowndes County, GA General Election
+data {
+  nid: -734
+  election_id: 4100
+  title: "Lowndes County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13185-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Madison County, GA General Election
+data {
+  nid: -735
+  election_id: 4100
+  title: "Madison County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13195-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Mcduffie County, GA General Election
+data {
+  nid: -736
+  election_id: 4100
+  title: "Mcduffie County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13189-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Mcintosh County, GA General Election
+data {
+  nid: -737
+  election_id: 4100
+  title: "Mcintosh County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13191-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Meriwether County, GA General Election
+data {
+  nid: -738
+  election_id: 4100
+  title: "Meriwether County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13199-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 
 
 ##highest nid: 3572
-##lowest nid: -719
+##lowest nid: -738
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
