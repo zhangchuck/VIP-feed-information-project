@@ -5922,10 +5922,37 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Chatham County, GA General Election
+data {
+  nid: -704
+  election_id: 4100
+  title: "Chatham County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13051-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Dougherty County, GA General Election
+data {
+  nid: -705
+  election_id: 4100
+  title: "Dougherty County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13095-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Douglas County, GA General Election
+data {
+  nid: -706
+  election_id: 4100
+  title: "Douglas County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13097-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 
 
 ##highest nid: 3572
-##lowest nid: -703
+##lowest nid: -706
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
