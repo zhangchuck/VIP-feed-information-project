@@ -5841,8 +5841,91 @@ data {
   user: "pbaranay@democracy.works"
 }
 
+# Cook County, GA General Election
+data {
+  nid: -695
+  election_id: 4100
+  title: "Cook County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13075-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Crisp County, GA General Election
+data {
+  nid: -696
+  election_id: 4100
+  title: "Crisp County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13081-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Dawson County, GA General Election
+data {
+  nid: -697
+  election_id: 4100
+  title: "Dawson County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13085-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Early County, GA General Election
+data {
+  nid: -698
+  election_id: 4100
+  title: "Early County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13099-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Effingham County, GA General Election
+data {
+  nid: -699
+  election_id: 4100
+  title: "Effingham County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13103-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Franklin County, GA General Election
+data {
+  nid: -700
+  election_id: 4100
+  title: "Franklin County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13119-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Gilmer County, GA General Election
+data {
+  nid: -701
+  election_id: 4100
+  title: "Gilmer County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13123-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Gordon County, GA General Election
+data {
+  nid: -702
+  election_id: 4100
+  title: "Gordon County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13129-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Grady County, GA General Election
+data {
+  nid: -703
+  election_id: 4100
+  title: "Grady County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13131-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
+
 ##highest nid: 3572
-##lowest nid: -694
+##lowest nid: -703
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
