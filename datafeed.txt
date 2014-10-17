@@ -5689,9 +5689,35 @@ data {
   user: "margie@democracy.works"
 }
 
+# Madison County, IN General Election
+data {
+  nid: -678
+  election_id: 4100
+  title: "Madison County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18095-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Putnam County, IN General Election
+data {
+  nid: -679
+  election_id: 4100
+  title: "Putnam County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18133-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# St. Joseph County, IN General Election
+data {
+  nid: -680
+  election_id: 4100
+  title: "St. Joseph County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18141-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -677
+##lowest nid: -680
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
