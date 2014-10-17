@@ -6256,9 +6256,17 @@ data {
 }
 
 
+# Talbot County, GA General Election
+data {
+  nid: -739
+  election_id: 4100
+  title: "Talbot County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13263-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -738
+##lowest nid: -739
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
