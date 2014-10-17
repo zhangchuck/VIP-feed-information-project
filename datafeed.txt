@@ -3326,13 +3326,13 @@ data {
   user: "pbaranay@democracy.works"
 }
 
-# Sharp County, AR General Election 2014
-data{
+# Lake County, IN General Election
+data {
   nid: -429
   election_id: 4100
-  title: "Sharp Co AR 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05135-2014-11-04.zip"
-  user: "gunnar@democracy.works"
+  title: "Lake County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18089-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
 }
 
 # Andrews County, TX General Election
