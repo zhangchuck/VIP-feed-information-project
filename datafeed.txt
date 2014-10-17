@@ -3317,13 +3317,13 @@ data{
   user: "gunnar@democracy.works"
 }
 
-# Stone County, AR General Election 2014
-data{
+# Parke County, IN General Election
+data {
   nid: -428
   election_id: 4100
-  title: "Stone Co AR 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/AR/vipFeed-05137-2014-11-04.zip"
-  user: "gunnar@democracy.works"
+  title: "Parke County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18121-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
 }
 
 # Sharp County, AR General Election 2014
