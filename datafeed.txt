@@ -5716,8 +5716,35 @@ data {
   user: "nat@democracy.works"
 }
 
+# Knox County, IN General Election
+data {
+  nid: -681
+  election_id: 4100
+  title: "Knox County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18083-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Montgomery County, IN General Election
+data {
+  nid: -682
+  election_id: 4100
+  title: "Montgomery County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18107-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Perry County, IN General Election
+data {
+  nid: -683
+  election_id: 4100
+  title: "Perry County IN 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18123-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 ##highest nid: 3572
-##lowest nid: -680
+##lowest nid: -683
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
