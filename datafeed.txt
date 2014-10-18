@@ -6284,9 +6284,134 @@ data {
 }
 
 
+# Peach County, GA General Election
+data {
+  nid: -742
+  election_id: 4100
+  title: "Peach County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13225-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Pickens County, GA General Election
+data {
+  nid: -743
+  election_id: 4100
+  title: "Pickens County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13227-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Pike County, GA General Election
+data {
+  nid: -744
+  election_id: 4100
+  title: "Pike County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13231-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Pulaski County, GA General Election
+data {
+  nid: -745
+  election_id: 4100
+  title: "Pulaski County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13235-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Putnam County, GA General Election
+data {
+  nid: -746
+  election_id: 4100
+  title: "Putnam County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13237-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Quitman County, GA General Election
+data {
+  nid: -747
+  election_id: 4100
+  title: "Quitman County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13239-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Rabun County, GA General Election
+data {
+  nid: -748
+  election_id: 4100
+  title: "Rabun County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13241-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Rockdale County, GA General Election
+data {
+  nid: -749
+  election_id: 4100
+  title: "Rockdale County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13247-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Schley County, GA General Election
+data {
+  nid: -750
+  election_id: 4100
+  title: "Schley County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13249-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Screven County, GA General Election
+data {
+  nid: -751
+  election_id: 4100
+  title: "Screven County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13251-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Spalding County, GA General Election
+data {
+  nid: -752
+  election_id: 4100
+  title: "Spalding County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13255-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Stephens County, GA General Election
+data {
+  nid: -753
+  election_id: 4100
+  title: "Stephens County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13257-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Stewart County, GA General Election
+data {
+  nid: -754
+  election_id: 4100
+  title: "Stewart County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13259-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Sumter County, GA General Election
+data {
+  nid: -755
+  election_id: 4100
+  title: "Sumter County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13261-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -741
+##lowest nid: -755
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
