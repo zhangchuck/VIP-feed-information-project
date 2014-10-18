@@ -6419,8 +6419,36 @@ data {
   user: "yonatan@democracy.works"
 }
 
+
+# Hidalgo County, TX General Election
+data {
+  nid: -757
+  election_id: 4100
+  title: "Hidalgo County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48215-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hill County, TX General Election
+data {
+  nid: -758
+  election_id: 4100
+  title: "Hill County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48217-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hood County, TX General Election
+data {
+  nid: -759
+  election_id: 4100
+  title: "Hood County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48221-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
 ##highest nid: 3572
-##lowest nid: -755
+##lowest nid: -759
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
