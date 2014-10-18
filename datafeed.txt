@@ -6456,9 +6456,217 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Fulton County, GA General Election
+data {
+  nid: -761
+  election_id: 4100
+  title: "Fulton County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13121-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Taliaferro County, GA General Election
+data {
+  nid: -762
+  election_id: 4100
+  title: "Taliaferro County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13265-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Tattnall County, GA General Election
+data {
+  nid: -763
+  election_id: 4100
+  title: "Tattnall County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13267-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Taylor County, GA General Election
+data {
+  nid: -764
+  election_id: 4100
+  title: "Taylor County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13269-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Telfair County, GA General Election
+data {
+  nid: -765
+  election_id: 4100
+  title: "Telfair County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13271-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Terrell County, GA General Election
+data {
+  nid: -766
+  election_id: 4100
+  title: "Terrell County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13273-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Thomas County, GA General Election
+data {
+  nid: -767
+  election_id: 4100
+  title: "Thomas County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13275-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Tift County, GA General Election
+data {
+  nid: -768
+  election_id: 4100
+  title: "Tift County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13277-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Toombs County, GA General Election
+data {
+  nid: -769
+  election_id: 4100
+  title: "Toombs County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13279-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Treutlen County, GA General Election
+data {
+  nid: -770
+  election_id: 4100
+  title: "Treutlen County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13283-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Troup County, GA General Election
+data {
+  nid: -771
+  election_id: 4100
+  title: "Troup County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13285-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Turner County, GA General Election
+data {
+  nid: -772
+  election_id: 4100
+  title: "Turner County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13287-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Union County, GA General Election
+data {
+  nid: -773
+  election_id: 4100
+  title: "Union County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13291-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Walker County, GA General Election
+data {
+  nid: -774
+  election_id: 4100
+  title: "Walker County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13295-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Walton County, GA General Election
+data {
+  nid: -775
+  election_id: 4100
+  title: "Walton County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13297-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Ware County, GA General Election
+data {
+  nid: -776
+  election_id: 4100
+  title: "Ware County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13299-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Warren County, GA General Election
+data {
+  nid: -777
+  election_id: 4100
+  title: "Warren County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13301-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Washington County, GA General Election
+data {
+  nid: -778
+  election_id: 4100
+  title: "Washington County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13303-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Wayne County, GA General Election
+data {
+  nid: -779
+  election_id: 4100
+  title: "Wayne County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13305-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Webster County, GA General Election
+data {
+  nid: -780
+  election_id: 4100
+  title: "Webster County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13307-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Wheeler County, GA General Election
+data {
+  nid: -781
+  election_id: 4100
+  title: "Wheeler County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13309-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -760
+##lowest nid: -781
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
