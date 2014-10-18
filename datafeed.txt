@@ -6410,6 +6410,15 @@ data {
   user: "pbaranay@democracy.works"
 }
 
+# Montgomery County, GA General Election
+data {
+  nid: -756
+  election_id: 4100
+  title: "Montgomery County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13209-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
+
 ##highest nid: 3572
 ##lowest nid: -755
 ##highest election_id: 4049
