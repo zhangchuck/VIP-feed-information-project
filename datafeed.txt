@@ -977,12 +977,12 @@ data{
   user: "noma@democracy.works"
 }
 
-# PA general
+# Pennsylvania general
 data{
   nid: 3446
   election_id: 4100
   title: "PA 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2014-11-04-deduped.zip"
   user: "nthayer@democracy.works"
 }
 
