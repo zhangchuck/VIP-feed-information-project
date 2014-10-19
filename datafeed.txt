@@ -6747,8 +6747,58 @@ data {
   user: "yonatan@democracy.works"
 }
 
+
+# Fayette County, GA General Election
+data {
+  nid: -791
+  election_id: 4100
+  title: "Fayette County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13113-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Forsyth County, GA General Election
+data {
+  nid: -792
+  election_id: 4100
+  title: "Forsyth County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13117-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Miller County, GA General Election
+data {
+  nid: -793
+  election_id: 4100
+  title: "Miller County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13201-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Pierce County, GA General Election
+data {
+  nid: -794
+  election_id: 4100
+  title: "Pierce County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13229-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Seminole County, GA General Election
+data {
+  nid: -795
+  election_id: 4100
+  title: "Seminole County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13253-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 ##highest nid: 3572
-##lowest nid: -790
+##lowest nid: -795
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
