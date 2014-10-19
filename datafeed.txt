@@ -6815,9 +6815,71 @@ data{
   user: "nat@democracy.works"
 }
 
+# Franklin County, TX General Election
+data {
+  nid: -798
+  election_id: 4100
+  title: "Franklin County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48159-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hunt County, TX General Election
+data {
+  nid: -799
+  election_id: 4100
+  title: "Hunt County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48231-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hutchinson County, TX General Election
+data {
+  nid: -800
+  election_id: 4100
+  title: "Hutchinson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48233-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Irion County, TX General Election
+data {
+  nid: -801
+  election_id: 4100
+  title: "Irion County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48235-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Jack County, TX General Election
+data {
+  nid: -802
+  election_id: 4100
+  title: "Jack County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48237-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Jackson County, TX General Election
+data {
+  nid: -803
+  election_id: 4100
+  title: "Jackson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48239-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Jasper County, TX General Election
+data {
+  nid: -804
+  election_id: 4100
+  title: "Jasper County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48241-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -797
+##lowest nid: -804
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
