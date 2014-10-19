@@ -6665,8 +6665,17 @@ data {
   user: "gunnar@democracy.works"
 }
 
+# Oconee County, GA General Election
+data {
+  nid: -782
+  election_id: 4100
+  title: "Oconee County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13219-2014-11-04.zip"
+  user: "yonatan@democracy.works"
+}
+
 ##highest nid: 3572
-##lowest nid: -781
+##lowest nid: -782
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
