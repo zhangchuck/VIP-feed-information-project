@@ -6880,7 +6880,7 @@ data {
 
 # Glynn County, GA General Election
 data {
-  nid: 805
+  nid: -805
   election_id: 4100
   title: "Glynn County GA 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13127-2014-11-04.zip"
