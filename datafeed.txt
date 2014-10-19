@@ -4865,7 +4865,7 @@ data {
   nid: -592
   election_id: 4100
   title: "Ripley County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180137-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18137-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
@@ -4928,7 +4928,7 @@ data {
   nid: -598
   election_id: 4100
   title: "Martin County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-180101-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18101-2014-11-04.zip"
   user: "yonatan@democracy.works"
 }  
 
