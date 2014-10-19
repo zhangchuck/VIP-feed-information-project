@@ -6923,8 +6923,47 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48249-2014-11-04.zip"
   user: "margie@democracy.works"
 }
+
+# Jefferson County, TX General Election
+data {
+  nid: -810
+  election_id: 4100
+  title: "Jefferson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48245-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Madison County, TX General Election
+data {
+  nid: -811
+  election_id: 4100
+  title: "Madison County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48313-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Mclennan County, TX General Election
+data {
+  nid: -812
+  election_id: 4100
+  title: "Mclennan County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48309-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Swisher County, TX General Election
+data {
+  nid: -813
+  election_id: 4100
+  title: "Swisher County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48437-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
+
 ##highest nid: 3572
-##lowest nid: -809
+##lowest nid: -813
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
