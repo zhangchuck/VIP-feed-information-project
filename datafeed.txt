@@ -4887,22 +4887,22 @@ data {
   user: "nat@democracy.works"
 }
 
-# Wells County, IN General Election
+# La Salle County, TX General Election
 data {
   nid: -595
   election_id: 4100
-  title: "Wells County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18179-2014-11-04.zip"
-  user: "nat@democracy.works"
+  title: "La Salle County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48283-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
 }
 
-# Whitley County, IN General Election
+# Lamar County, TX General Election
 data {
   nid: -596
   election_id: 4100
-  title: "Whitley County IN 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/IN/vipFeed-18183-2014-11-04.zip"
-  user: "nat@democracy.works"
+  title: "Lamar County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48277-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
 }
 
 # Crawford County, GA General Election
