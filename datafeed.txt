@@ -6960,10 +6960,98 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Lamb County, TX General Election
+data {
+  nid: -814
+  election_id: 4100
+  title: "Lamb County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48279-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
 
+# Lampasas County, TX General Election
+data {
+  nid: -815
+  election_id: 4100
+  title: "Lampasas County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48281-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Lavaca County, TX General Election
+data {
+  nid: -816
+  election_id: 4100
+  title: "Lavaca County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48285-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Lee County, TX General Election
+data {
+  nid: -817
+  election_id: 4100
+  title: "Lee County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48287-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Leon County, TX General Election
+data {
+  nid: -818
+  election_id: 4100
+  title: "Leon County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48289-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Liberty County, TX General Election
+data {
+  nid: -819
+  election_id: 4100
+  title: "Liberty County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48291-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Limestone County, TX General Election
+data {
+  nid: -820
+  election_id: 4100
+  title: "Limestone County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48293-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Lipscomb County, TX General Election
+data {
+  nid: -821
+  election_id: 4100
+  title: "Lipscomb County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48295-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Live Oak County, TX General Election
+data {
+  nid: -822
+  election_id: 4100
+  title: "Live Oak County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48297-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Llano County, TX General Election
+data {
+  nid: -823
+  election_id: 4100
+  title: "Llano County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48299-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
 
 ##highest nid: 3572
-##lowest nid: -813
+##lowest nid: -823
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
