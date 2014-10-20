@@ -7060,8 +7060,89 @@ data {
   user: "margie@democracy.works"
 }
 
+# Chattahoochee County, GA General Election
+data {
+  nid: -826
+  election_id: 4100
+  title: "Chattahoochee County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13053-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Decatur County, GA General Election
+data {
+  nid: -827
+  election_id: 4100
+  title: "Decatur County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13087-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Echols County, GA General Election
+data {
+  nid: -828
+  election_id: 4100
+  title: "Echols County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13101-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Emanuel County, GA General Election
+data {
+  nid: -829
+  election_id: 4100
+  title: "Emanuel County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13107-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Evans County, GA General Election
+data {
+  nid: -830
+  election_id: 4100
+  title: "Evans County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13109-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Fannin County, GA General Election
+data {
+  nid: -796
+  election_id: 4100
+  title: "Fannin County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13111-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Lumpkin County, GA General Election
+data {
+  nid: -754
+  election_id: 4100
+  title: "Lumpkin County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13187-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+# Murray County, GA General Election
+data {
+  nid: -650
+  election_id: 4100
+  title: "Murray County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13213-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
+
 ##highest nid: 3572
-##lowest nid: -825
+##lowest nid: -830
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
