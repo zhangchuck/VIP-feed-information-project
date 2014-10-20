@@ -7157,9 +7157,36 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Dallas County, AL General Election
+data {
+  nid: -833
+  election_id: 4100
+  title: "Dallas County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01047-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Etowah County, AL General Election
+data {
+  nid: -834
+  election_id: 4100
+  title: "Etowah County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01055-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Montgomery County, AL General Election
+data {
+  nid: -835
+  election_id: 4100
+  title: "Montgomery County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01101-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 
 ##highest nid: 3572
-##lowest nid: -832
+##lowest nid: -835
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
