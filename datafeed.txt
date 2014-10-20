@@ -7257,8 +7257,81 @@ data {
   user: "margie@democracy.works"
 }
 
+
+# Loving County, TX General Election
+data {
+  nid: -845
+  election_id: 4100
+  title: "Loving County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48301-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Lubbock County, TX General Election
+data {
+  nid: -846
+  election_id: 4100
+  title: "Lubbock County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48303-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Lynn County, TX General Election
+data {
+  nid: -847
+  election_id: 4100
+  title: "Lynn County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48305-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Martin County, TX General Election
+data {
+  nid: -848
+  election_id: 4100
+  title: "Martin County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48317-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Mason County, TX General Election
+data {
+  nid: -849
+  election_id: 4100
+  title: "Mason County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48319-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Matagorda County, TX General Election
+data {
+  nid: -850
+  election_id: 4100
+  title: "Matagorda County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48321-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Maverick County, TX General Election
+data {
+  nid: -851
+  election_id: 4100
+  title: "Maverick County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48323-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Mcmullen County, TX General Election
+data {
+  nid: -852
+  election_id: 4100
+  title: "Mcmullen County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48311-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 ##highest nid: 3572
-##lowest nid: -844
+##lowest nid: -852
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
