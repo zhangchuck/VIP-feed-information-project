@@ -6789,15 +6789,6 @@ data {
   user: "gunnar@democracy.works"
 }
 
-# Fulton County, GA General Election
-data {
-  nid: -796
-  election_id: 4100
-  title: "Fulton County GA 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13121-2014-11-04.zip"
-  user: "gunnar@democracy.works"
-}
-
 # Johnson County, IN General Election
 data{
   nid: -797
