@@ -7960,10 +7960,46 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Robertson County, TX General Election
+data {
+  nid: -922
+  election_id: 4100
+  title: "Robertson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48395-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Rockwall County, TX General Election
+data {
+  nid: -923
+  election_id: 4100
+  title: "Rockwall County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48397-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Runnels County, TX General Election
+data {
+  nid: -924
+  election_id: 4100
+  title: "Runnels County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48399-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Rusk County, TX General Election
+data {
+  nid: -925
+  election_id: 4100
+  title: "Rusk County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48401-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 
 
 ##highest nid: 3575
-##lowest nid: -921
+##lowest nid: -925
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
