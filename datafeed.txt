@@ -7626,9 +7626,53 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Baldwin County, GA General Election
+data {
+  nid: -885
+  election_id: 4100
+  title: "Baldwin County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13009-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Ward County, TX General Election
+data {
+  nid: -886
+  election_id: 4100
+  title: "Ward County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48475-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Washington County, TX General Election
+data {
+  nid: -887
+  election_id: 4100
+  title: "Washington County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48477-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Webb County, TX General Election
+data {
+  nid: -888
+  election_id: 4100
+  title: "Webb County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48479-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wheeler County, TX General Election
+data {
+  nid: -889
+  election_id: 4100
+  title: "Wheeler County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48483-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
 
 ##highest nid: 3575
-##lowest nid: -884
+##lowest nid: -889
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
