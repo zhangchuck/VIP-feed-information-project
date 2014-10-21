@@ -7465,8 +7465,89 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Walker County, TX General Election
+data {
+  nid: -868
+  election_id: 4100
+  title: "Walker County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48471-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Waller County, TX General Election
+data {
+  nid: -869
+  election_id: 4100
+  title: "Waller County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48473-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Kaufman County, TX General Election
+data {
+  nid: -870
+  election_id: 4100
+  title: "Kaufman County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48257-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Kendall County, TX General Election
+data {
+  nid: -871
+  election_id: 4100
+  title: "Kendall County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48259-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Kent County, TX General Election
+data {
+  nid: -872
+  election_id: 4100
+  title: "Kent County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48263-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Kerr County, TX General Election
+data {
+  nid: -873
+  election_id: 4100
+  title: "Kerr County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48265-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Kinney County, TX General Election
+data {
+  nid: -874
+  election_id: 4100
+  title: "Kinney County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48271-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Kleberg County, TX General Election
+data {
+  nid: -
+  election_id: 4100
+  title: "Kleberg County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48273-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# King County, TX General Election
+data {
+  nid: -875
+  election_id: 4100
+  title: "King County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48269-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 ##highest nid: 3575
-##lowest nid: -867
+##lowest nid: -875
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
