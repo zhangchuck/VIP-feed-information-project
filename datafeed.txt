@@ -6384,15 +6384,6 @@ data {
   user: "pbaranay@democracy.works"
 }
 
-# Stewart County, GA General Election
-data {
-  nid: -754
-  election_id: 4100
-  title: "Stewart County GA 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13259-2014-11-04.zip"
-  user: "pbaranay@democracy.works"
-}
-
 # Sumter County, GA General Election
 data {
   nid: -755
@@ -7332,14 +7323,141 @@ data {
 
 # New York candidates and contests for General 2014
 data {
-  nid: 3573
+  nid: 3575
   election_id: 4100
   title: "New York State candidates and contests"
   feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2014-11-04-contests.zip"
   user: "kathryn@democracy.works"
 }
-##highest nid: 3573
-##lowest nid: -853
+
+# Dade County, GA General Election
+data {
+  nid: -854
+  election_id: 4100
+  title: "Dade County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13083-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Dooly County, GA General Election
+data {
+  nid: -754
+  election_id: 4100
+  title: "Dooly County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13093-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Elbert County, GA General Election
+data {
+  nid: -855
+  election_id: 4100
+  title: "Elbert County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13105-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wichita County, TX General Election
+data {
+  nid: -856
+  election_id: 4100
+  title: "Wichita County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48485-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wilbarger County, TX General Election
+data {
+  nid: -857
+  election_id: 4100
+  title: "Wilbarger County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48487-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Willacy County, TX General Election
+data {
+  nid: -858
+  election_id: 4100
+  title: "Willacy County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48489-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Williamson County, TX General Election
+data {
+  nid: -859
+  election_id: 4100
+  title: "Williamson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48491-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wilson County, TX General Election
+data {
+  nid: -860
+  election_id: 4100
+  title: "Wilson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48493-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Winkler County, TX General Election
+data {
+  nid: -861
+  election_id: 4100
+  title: "Winkler County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48495-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wise County, TX General Election
+data {
+  nid: -862
+  election_id: 4100
+  title: "Wise County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48497-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Wood County, TX General Election
+data {
+  nid: -863
+  election_id: 4100
+  title: "Wood County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48499-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Yoakum County, TX General Election
+data {
+  nid: -864
+  election_id: 4100
+  title: "Yoakum County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48501-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Young County, TX General Election
+data {
+  nid: -865
+  election_id: 4100
+  title: "Young County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48503-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Zapata County, TX General Election
+data {
+  nid: -866
+  election_id: 4100
+  title: "Zapata County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48505-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+##highest nid: 3575
+##lowest nid: -866
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
