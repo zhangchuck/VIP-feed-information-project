@@ -7564,10 +7564,61 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Hardin County, TX General Election
+data {
+  nid: -878
+  election_id: 4100
+  title: "Hardin County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48199-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
+# Haskell County, TX General Election
+data {
+  nid: -879
+  election_id: 4100
+  title: "Haskell County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48207-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+# Hemphill County, TX General Election
+data {
+  nid: -880
+  election_id: 4100
+  title: "Hemphill County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48211-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Houston County, TX General Election
+data {
+  nid: -881
+  election_id: 4100
+  title: "Houston County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48225-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Kenedy County, TX General Election
+data {
+  nid: -882
+  election_id: 4100
+  title: "Kenedy County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48261-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Kimble County, TX General Election
+data {
+  nid: -883
+  election_id: 4100
+  title: "Kimble County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48267-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
 ##highest nid: 3575
-##lowest nid: -877
+##lowest nid: -883
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
