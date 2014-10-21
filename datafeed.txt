@@ -7330,7 +7330,15 @@ data {
   user: "pbaranay@democracy.works"
 }
 
-##highest nid: 3572
+# New York candidates and contests for General 2014
+data {
+  nid: 3573
+  election_id: 4100
+  title: "New York State candidates and contests"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2014-11-04-contests.zip"
+  user: "kathryn@democracy.works"
+}
+##highest nid: 3573
 ##lowest nid: -853
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
