@@ -8087,9 +8087,99 @@ data {
   user: "pbaranay@democracy.works"
 }
 
+# Polk County, TX General Election
+data {
+  nid: -936
+  election_id: 4100
+  title: "Polk County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48373-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Potter County, TX General Election
+data {
+  nid: -937
+  election_id: 4100
+  title: "Potter County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48375-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Presidio County, TX General Election
+data {
+  nid: -938
+  election_id: 4100
+  title: "Presidio County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48377-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Rains County, TX General Election
+data {
+  nid: -939
+  election_id: 4100
+  title: "Rains County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48379-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Randall County, TX General Election
+data {
+  nid: -940
+  election_id: 4100
+  title: "Randall County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48381-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Reagan County, TX General Election
+data {
+  nid: -941
+  election_id: 4100
+  title: "Reagan County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48383-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Real County, TX General Election
+data {
+  nid: -942
+  election_id: 4100
+  title: "Real County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48385-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Red River County, TX General Election
+data {
+  nid: -943
+  election_id: 4100
+  title: "Red River County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48387-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Reeves County, TX General Election
+data {
+  nid: -944
+  election_id: 4100
+  title: "Reeves County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48389-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+# Refugio County, TX General Election
+data {
+  nid: -945
+  election_id: 4100
+  title: "Refugio County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48391-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 
 ##highest nid: 3575
-##lowest nid: -930
+##lowest nid: -945
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
