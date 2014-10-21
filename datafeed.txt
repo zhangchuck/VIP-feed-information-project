@@ -7861,10 +7861,99 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Shackelford County, TX General Election
+data {
+  nid: -911
+  election_id: 4100
+  title: "Shackelford County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48417-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Shelby County, TX General Election
+data {
+  nid: -912
+  election_id: 4100
+  title: "Shelby County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48419-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Sherman County, TX General Election
+data {
+  nid: -913
+  election_id: 4100
+  title: "Sherman County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48421-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Smith County, TX General Election
+data {
+  nid: -914
+  election_id: 4100
+  title: "Smith County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48423-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Somervell County, TX General Election
+data {
+  nid: -915
+  election_id: 4100
+  title: "Somervell County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48425-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Starr County, TX General Election
+data {
+  nid: -916
+  election_id: 4100
+  title: "Starr County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48427-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Stephens County, TX General Election
+data {
+  nid: -917
+  election_id: 4100
+  title: "Stephens County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48429-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Sterling County, TX General Election
+data {
+  nid: -918
+  election_id: 4100
+  title: "Sterling County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48431-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Stonewall County, TX General Election
+data {
+  nid: -919
+  election_id: 4100
+  title: "Stonewall County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48433-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+# Sutton County, TX General Election
+data {
+  nid: -920
+  election_id: 4100
+  title: "Sutton County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48435-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
 
 
 ##highest nid: 3575
-##lowest nid: -910
+##lowest nid: -920
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
