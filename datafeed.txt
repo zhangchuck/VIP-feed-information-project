@@ -7743,8 +7743,117 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Mcculloch County, TX General Election
+data {
+  nid: -898
+  election_id: 4100
+  title: "Mcculloch County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48307-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Medina County, TX General Election
+data {
+  nid: -899
+  election_id: 4100
+  title: "Medina County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48325-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Menard County, TX General Election
+data {
+  nid: -900
+  election_id: 4100
+  title: "Menard County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48327-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Midland County, TX General Election
+data {
+  nid: -901
+  election_id: 4100
+  title: "Midland County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48329-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Milam County, TX General Election
+data {
+  nid: -902
+  election_id: 4100
+  title: "Milam County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48331-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Mills County, TX General Election
+data {
+  nid: -903
+  election_id: 4100
+  title: "Mills County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48333-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Mitchell County, TX General Election
+data {
+  nid: -904
+  election_id: 4100
+  title: "Mitchell County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48335-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Montgomery County, TX General Election
+data {
+  nid: -905
+  election_id: 4100
+  title: "Montgomery County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48339-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Moore County, TX General Election
+data {
+  nid: -906
+  election_id: 4100
+  title: "Moore County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48341-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Morris County, TX General Election
+data {
+  nid: -907
+  election_id: 4100
+  title: "Morris County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48343-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Motley County, TX General Election
+data {
+  nid: -908
+  election_id: 4100
+  title: "Motley County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48345-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+
+# Marion County, TX General Election
+data {
+  nid: -909
+  election_id: 4100
+  title: "Marion County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48315-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 ##highest nid: 3575
-##lowest nid: -897
+##lowest nid: -909
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
