@@ -7996,6 +7996,15 @@ data {
   user: "nat@democracy.works"
 }
 
+# Upton County, TX General Election
+data {
+  nid: -926
+  election_id: 4100
+  title: "Upton County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48461-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
 
 
 ##highest nid: 3575
