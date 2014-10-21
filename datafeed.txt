@@ -8042,6 +8042,51 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Nacogdoches County, TX General Election
+data {
+  nid: -931
+  election_id: 4100
+  title: "Nacogdoches County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48347-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Newton County, TX General Election
+data {
+  nid: -932
+  election_id: 4100
+  title: "Newton County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48351-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Nolan County, TX General Election
+data {
+  nid: -933
+  election_id: 4100
+  title: "Nolan County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48353-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Nueces County, TX General Election
+data {
+  nid: -934
+  election_id: 4100
+  title: "Nueces County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48355-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
+# Ochiltree County, TX General Election
+data {
+  nid: -935
+  election_id: 4100
+  title: "Ochiltree County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48357-2014-11-04.zip"
+  user: "pbaranay@democracy.works"
+}
+
 
 ##highest nid: 3575
 ##lowest nid: -930
