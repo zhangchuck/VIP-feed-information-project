@@ -7680,8 +7680,62 @@ data {
   user: "yonatan@democracy.works"
 }
 
+# Sabine County, TX General Election
+data {
+  nid: -891
+  election_id: 4100
+  title: "Sabine County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48403-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# San Augustine, TX General Election
+data {
+  nid: -892
+  election_id: 4100
+  title: "San Augustine County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48405-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# San Jacinto County, TX General Election
+data {
+  nid: -893
+  election_id: 4100
+  title: "San Jacinto County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48407-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# San Saba County, TX General Election
+data {
+  nid: -894
+  election_id: 4100
+  title: "San Saba County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48411-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Schleicher County, TX General Election
+data {
+  nid: -895
+  election_id: 4100
+  title: "Schleicher County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48413-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
+# Scurry County, TX General Election
+data {
+  nid: -896
+  election_id: 4100
+  title: "Scurry County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48415-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
+
 ##highest nid: 3575
-##lowest nid: -890
+##lowest nid: -896
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
