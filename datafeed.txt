@@ -8341,11 +8341,100 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Ellis County, TX General Election
+data {
+  nid: -964
+  election_id: 4100
+  title: "Ellis County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48139-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Fayette County, TX General Election
+data {
+  nid: -965
+  election_id: 4100
+  title: "Fayette County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48149-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
 
+
+# Hansford County, TX General Election
+data {
+  nid: -966
+  election_id: 4100
+  title: "Hansford County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48195-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hardeman County, TX General Election
+data {
+  nid: -967
+  election_id: 4100
+  title: "Hardeman County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48197-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Harrison County, TX General Election
+data {
+  nid: -968
+  election_id: 4100
+  title: "Harrison County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48203-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hartley County, TX General Election
+data {
+  nid: -969
+  election_id: 4100
+  title: "Hartley County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48205-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hays County, TX General Election
+data {
+  nid: -970
+  election_id: 4100
+  title: "Hays County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48209-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Henderson County, TX General Election
+data {
+  nid: -971
+  election_id: 4100
+  title: "Henderson County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48213-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Hockley County, TX General Election
+data {
+  nid: -972
+  election_id: 4100
+  title: "Hockley County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48219-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
+
+# Camp County, TX General Election
+data {
+  nid: -973
+  election_id: 4100
+  title: "Camp County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48063-2014-11-04.zip"
+  user: "margie@democracy.works"
+}
 
 ##highest nid: 3576
-##lowest nid: -963
+##lowest nid: -973
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
