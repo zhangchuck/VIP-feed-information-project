@@ -8332,6 +8332,16 @@ data {
   user: "jeff@democracy.works"
 }
 
+# Floyd County, TX General Election
+data {
+  nid: -962
+  election_id: 4100
+  title: "Floyd County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48153-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 
 
 ##highest nid: 3576
