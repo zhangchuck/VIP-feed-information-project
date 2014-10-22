@@ -8268,8 +8268,17 @@ data {
   user: "margie@democracy.works"
 }
 
+# King County, WA General Election
+data {
+  nid: -956
+  election_id: 4100
+  title: "King County WA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/wa/vipFeed-53033-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
+
 ##highest nid: 3575
-##lowest nid: -955
+##lowest nid: -956
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
