@@ -2903,29 +2903,29 @@ data{
   user: "noma@democracy.works"
 }
 
-# Pecos County, TX general
+# Pecos County, TX General
 data{
   nid: -392
   election_id: 4100
-  title: "Pecos County 2014 General"
+  title: "Pecos County, TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48371-2014-11-04.zip"
   user: "pbaranay@democracy.works"
 }
 
-# Brewster County, TX general
+# Brewster County, TX General
 data{
   nid: -393
   election_id: 4100
-  title: "Brewster County 2014 General"
+  title: "Brewster County, TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48043-2014-11-04.zip"
   user: "pbaranay@democracy.works"
 }
 
-# Comanche County, TX general
+# Comanche County, TX General
 data{
   nid: -394
   election_id: 4100
-  title: "Comanche County 2014 General"
+  title: "Comanche County, TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48093-2014-11-04.zip"
   user: "pbaranay@democracy.works"
 }
@@ -8322,19 +8322,9 @@ data {
   user: "margie@democracy.works"
 }
 
-# Taylor County, TX General Election
-data {
-  nid: -961
-  election_id: 4100
-  title: "Taylor County TX 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48441-2014-11-04.zip"
-  user: "jeff@democracy.works"
-}
-
-
 
 ##highest nid: 3576
-##lowest nid: -961
+##lowest nid: -960
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
