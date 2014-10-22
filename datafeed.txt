@@ -8476,9 +8476,19 @@ data {
   user: "gunnar@democracy.works"
 }
 
+# Autauga County, AL General Election
+data {
+  nid: -979
+  election_id: 4100
+  title: "Autauga County AL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/AL/vipFeed-01001-2014-11-04.zip"
+  user: "jeff@democracy.works"
+}
+
+
 
 ##highest nid: 3576
-##lowest nid: -978
+##lowest nid: -979
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
