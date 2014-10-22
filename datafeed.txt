@@ -8286,8 +8286,18 @@ data {
   user: "noma@democracy.works"
 }
 
+# Oldham County, TX General Election
+data {
+  nid: -957
+  election_id: 4100
+  title: "Oldham County TX 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48359-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
+
 ##highest nid: 3576
-##lowest nid: -956
+##lowest nid: -957
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
