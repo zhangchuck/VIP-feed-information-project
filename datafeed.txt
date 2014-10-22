@@ -8277,7 +8277,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 3575
+# KY General Election (address test)
+data {
+  nid: 3576
+  election_id: 4099
+  title: "KY General Election (testing ts addreses)"
+  feed_url: "https://data.votinginfoproject.org/feeds/ky/vipFeed-21-2014-11-04-ts.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3576
 ##lowest nid: -956
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
