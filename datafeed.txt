@@ -8490,7 +8490,7 @@ data {
   nid: -980
   election_id: 4100
   title: "Mississippi 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/MS/vipFeed-18-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/MS/vipFeed-28-2014-11-04.zip"
   user: "nat@democracy.works"
 }
 
