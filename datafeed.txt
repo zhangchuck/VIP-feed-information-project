@@ -8485,10 +8485,18 @@ data {
   user: "jeff@democracy.works"
 }
 
+# MS General Election, half of the counties, Oct 22 run
+data {
+  nid: -980
+  election_id: 4100
+  title: "Mississippi 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/MS/vipFeed-18-2014-11-04.zip"
+  user: "nat@democracy.works"
+}
 
 
 ##highest nid: 3576
-##lowest nid: -979
+##lowest nid: -980
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3452, 3181, 4100
