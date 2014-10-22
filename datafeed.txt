@@ -8252,7 +8252,7 @@ data {
 
 # Tom Green County, TX General Election
 data {
-  nid: -654
+  nid: -954
   election_id: 4100
   title: "Tom Green County TX 2014 General"
   feed_url: "https://data.votinginfoproject.org/hand-collected/TX/vipFeed-48451-2014-11-04.zip"
