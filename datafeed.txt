@@ -8296,12 +8296,12 @@ data {
   user: "gunnar@democracy.works"
 }
 
-# Baldwin County, GA General Election
+# Greene County, GA General Election
 data {
   nid: -958
   election_id: 4100
-  title: "Baldwin County GA 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13009-2014-11-04.zip"
+  title: "Greene County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13133-2014-11-04.zip"
   user: "gunnar@democracy.works"
 }
 
