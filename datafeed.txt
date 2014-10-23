@@ -1909,7 +1909,7 @@ data{
   nid: 3462
   election_id: 4100
   title: "El Dorado County 2014 General"
-  feed_url: "https://metis.votinginfoproject.org/feeds/0/el_dorado.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/el_dorado.zip"
   user: "pkominers@democracy.works"
 }
 
