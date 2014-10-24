@@ -2962,7 +2962,7 @@ data{
   nid: 3550
   election_id: 4100
   title: "Ohio 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39-2014-11-04-rollback.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
