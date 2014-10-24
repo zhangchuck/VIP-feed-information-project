@@ -8498,12 +8498,20 @@ data {
   nid: -982
   election_id: 4100
   title: "St Lucie County FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/TN/vipFeed-47111-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-47111-2014-11-04.zip"
   user: "margie@democracy.works"
 }
 
+# Orange County, FL General Election
+data {
+  nid: 3577
+  election_id: 4100
+  title: "Orange County FL 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/FL/VIP_ORA_20141104.zip"
+  user: "noma@democracy.works"
+}
 
-##highest nid: 3576
+##highest nid: 3577
 ##lowest nid: -982
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
