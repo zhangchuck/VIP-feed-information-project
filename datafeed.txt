@@ -8498,7 +8498,7 @@ data {
   nid: -982
   election_id: 4100
   title: "St Lucie County FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-47111-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-12111-2014-11-04.zip"
   user: "margie@democracy.works"
 }
 
