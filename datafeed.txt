@@ -775,7 +775,7 @@ data{
   nid: 3423
   election_id: 4100
   title: "WV 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54-2014-11-04-parsed.zip"
   user: "pkominers@democracy.works"
 }
 
