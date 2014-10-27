@@ -7088,7 +7088,7 @@ data {
   nid: -796
   election_id: 4100
   title: "Fannin County GA 2014 General"
-  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-12111-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13111-2014-11-04.zip"
   user: "gunnar@democracy.works"
 }
 
