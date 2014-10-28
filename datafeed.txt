@@ -8507,7 +8507,7 @@ data {
   nid: 3577
   election_id: 4100
   title: "Orange County FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12095-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-ORA-20141104.zip"
   user: "noma@democracy.works"
 }
 
