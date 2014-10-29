@@ -811,7 +811,7 @@ data{
   nid: 3428
   election_id: 4100
   title: "KS 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ks/vipFeed-20-2014-11-04-ballot.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ks/vipFeed-20-2014-11-04.zip"
   user: "noma@democracy.works"
 }
 
