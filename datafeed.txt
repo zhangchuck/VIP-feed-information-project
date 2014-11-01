@@ -8556,7 +8556,15 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 3578
+# Napa County, CA General Election
+data {
+  nid: 3579
+  election_id: 4100
+  title: "Napa County CA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06055-2014-11-04.zip"
+  user: "noma@democracy.works"
+}
+##highest nid: 3579
 ##lowest nid: -987
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
