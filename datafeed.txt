@@ -2017,7 +2017,7 @@ data{
   nid: 3474
   election_id: 4100
   title: "Mendocino Co 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06045-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
