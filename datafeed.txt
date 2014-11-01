@@ -2953,7 +2953,7 @@ data{
   nid: -396
   election_id: 4100
   title: "Palm Beach Co, FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12099-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-12099-2014-11-04.zip"
   user: "jeff@democracy.works"
 }
 
@@ -3007,7 +3007,7 @@ data{
   nid: -398
   election_id: 4100
   title: "Sarasota County FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12115-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-12115-2014-11-04.zip"
   user: "noma@democracy.works"
 }
 
@@ -5516,7 +5516,7 @@ data {
   nid: -663
   election_id: 4100
   title: "Lake County FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12069-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/FL/vipFeed-12069-2014-11-04.zip"
   user: "kathryn@democracy.works"
 }
 
