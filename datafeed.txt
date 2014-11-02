@@ -8592,7 +8592,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 3582
+NV Statewide Ballot Data
+data {
+  nid: 3583
+  election_id: 4100
+  title: "NV Statewide Ballot Data"
+  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-32-2014-11-04-ballot.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3583
 ##lowest nid: -987
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
