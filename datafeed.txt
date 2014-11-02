@@ -8583,7 +8583,7 @@ data {
   user: "noma@democracy.works"
 }
 
-VT General Election (address test)
+# VT General Election (address test)
 data {
   nid: 3582
   election_id: 4099
@@ -8592,7 +8592,7 @@ data {
   user: "noma@democracy.works"
 }
 
-NV Statewide Ballot Data
+# NV Statewide Ballot Data
 data {
   nid: 3583
   election_id: 4100
