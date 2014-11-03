@@ -2242,7 +2242,7 @@ data{
   nid: 3497
   election_id: 4100
   title: "Miami-Dade Co, FL 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12025-2014-11-04.xml.gz"
+  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12025-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
