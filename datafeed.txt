@@ -8601,8 +8601,17 @@ data {
   user: "noma@democracy.works"
 }
 
+# Macon County, GA General Election
+data {
+  nid: -988
+  election_id: 4100
+  title: "Macon County GA 2014 General"
+  feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13193-2014-11-04.zip"
+  user: "gunnar@democracy.works"
+}
+
 ##highest nid: 3583
-##lowest nid: -987
+##lowest nid: -988
 ##highest election_id: 4049
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
