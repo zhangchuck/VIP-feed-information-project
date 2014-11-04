@@ -2008,7 +2008,7 @@ data{
   nid: 3473
   election_id: 4100
   title: "Riverside Co 2014 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2014-11-04.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6065-2014-11-04.zip"
   user: "pkominers@democracy.works"
 }
 
