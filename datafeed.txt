@@ -8609,9 +8609,16 @@ data {
   feed_url: "https://data.votinginfoproject.org/hand-collected/GA/vipFeed-13193-2014-11-04.zip"
   user: "gunnar@democracy.works"
 }
-
-##highest nid: 3583
+# LA Runoff
+data {
+  nid: 3584
+  election_id: 4101
+  title: "LA 2014 Runoff"
+  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2014-12-06.zip"
+  user: "noma@democracy.works"
+}
+##highest nid: 3584
 ##lowest nid: -988
-##highest election_id: 4049
+##highest election_id: 4101
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
