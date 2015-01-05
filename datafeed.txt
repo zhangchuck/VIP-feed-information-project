@@ -740,6 +740,16 @@ data {
   user: "noma@democracy.works"
 }
 
+## DE Test General
+data {
+  nid: 3585
+  election_id: 2000
+  title: "DE 2014 Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2014-11-04_test.zip"
+  is_test_election: true
+  user: "noma@democracy.works"
+}
+
 ## END Datafeed for test election 2000
 
  	
@@ -8617,7 +8627,7 @@ data {
   feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2014-12-06.zip"
   user: "noma@democracy.works"
 }
-##highest nid: 3584
+##highest nid: 3585
 ##lowest nid: -988
 ##highest election_id: 4101
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
