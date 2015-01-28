@@ -8637,11 +8637,11 @@ data {
   user: "noma@democracy.works"
 }
 
-## VA Local Elections
+## VA Special Election
 data {
   nid: 3587
   election_id: 4103
-  title: "VA Local Elections"
+  title: "VA Special Election"
   feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-02-10.zip"
   user: "noma@democracy.works"
 }
