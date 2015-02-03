@@ -8646,8 +8646,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 3587
+## WI Spring Primary
+data {
+  nid: 3588
+  election_id: 4104
+  title: "WI Spring Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2015-02-17.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3588
 ##lowest nid: -988
-##highest election_id: 4103
+##highest election_id: 4104
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
