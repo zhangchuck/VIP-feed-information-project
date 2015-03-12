@@ -8682,7 +8682,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 3591
+## VA Test Primary
+data {
+  nid: 3592
+  election_id: 4102
+  title: "VA Test Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-03-24.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3592
 ##lowest nid: -988
 ##highest election_id: 4107
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
