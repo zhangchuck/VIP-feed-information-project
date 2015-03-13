@@ -8691,7 +8691,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 3592
+## NC Test General
+data {
+  nid: 3593
+  election_id: 4102
+  title: "NC Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2015-04-07.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 3593
 ##lowest nid: -988
 ##highest election_id: 4107
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
