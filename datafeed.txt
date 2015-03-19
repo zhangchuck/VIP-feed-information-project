@@ -8700,6 +8700,15 @@ data {
   user: "noma@democracy.works"
 }
 
+## MO Municipal General
+data {
+  nid: 3594
+  election_id: 4108
+  title: "MO Municipal General"
+  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2015-04-07.zip"
+  user: "noma@democracy.works"
+}
+
 ##highest nid: 3593
 ##lowest nid: -988
 ##highest election_id: 4107
