@@ -8750,7 +8750,7 @@ data{
   nid: 3999
   election_id: 4112
   title: "OH Municipal Election: Franklin County"
-  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39-2015-05-05.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39049-2015-05-05.zip"
   user: "noma@democracy.works"
 }
 
@@ -8765,15 +8765,24 @@ data{
 
 ## OH Municipal Election: Richland County
 data{
-  nid: 3999
-  election_id: 4114
+  nid: 4001
+  election_id: 4112
   title: "OH Municipal Election: Richland County"
   feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39139-2015-05-05.zip"
   user: "noma@democracy.works"
 }
 
-##highest nid: 4000
+## OH Municipal Election: Hamilton County
+data{
+  nid: 4002
+  election_id: 4112
+  title: "OH Municipal Election: Hamilton County"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39-2015-05-05.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4002
 ##lowest nid: -988
-##highest election_id: 4114
+##highest election_id: 4113
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
