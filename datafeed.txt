@@ -8781,11 +8781,11 @@ data{
   user: "noma@democracy.works"
 }
 
-## VA Vienna Municipal Election
+## Vienna Municipal Election
 data {
   nid: 4003
   election_id: 4114
-  title: "VA Vienna Municipal Election"
+  title: "Vienna Municipal Election"
   feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-05-05.zip"
   user: "noma@democracy.works"
 }
