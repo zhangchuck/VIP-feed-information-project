@@ -8799,8 +8799,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4004
+## WA Special Election
+data {
+  nid: 4005
+  election_id: 4116
+  title: "WA Special Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/wa/vipFeed-53-2015-04-28.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4005
 ##lowest nid: -988
-##highest election_id: 4115
+##highest election_id: 4116
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
