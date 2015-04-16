@@ -8790,8 +8790,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4003
+## RI State Rep. 33 Primary Election
+data {
+  nid: 4004
+  election_id: 4115
+  title: "RI State Rep. 33 Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-05-15.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4004
 ##lowest nid: -988
-##highest election_id: 4114
+##highest election_id: 4115
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
