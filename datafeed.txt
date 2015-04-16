@@ -8808,7 +8808,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4005
+## MN Test General
+data {
+  nid: 4006
+  election_id: 4102
+  title: "MN Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2015-11-03.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4006
 ##lowest nid: -988
 ##highest election_id: 4116
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
