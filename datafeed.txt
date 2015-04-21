@@ -8795,7 +8795,7 @@ data {
   nid: 4004
   election_id: 4115
   title: "RI State Rep. 33 Primary Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-05-15.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-05-05.zip"
   user: "noma@democracy.works"
 }
 
