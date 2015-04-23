@@ -8776,7 +8776,7 @@ data{
 data{
   nid: 4002
   election_id: 4112
-  title: "OH Municipal Election
+  title: "OH Municipal Election"
   feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39-2015-05-05.zip"
   user: "noma@democracy.works"
 }
