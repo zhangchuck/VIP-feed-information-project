@@ -8844,8 +8844,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4009
+## West Hollywood Special Municipal Election
+data {
+  nid: 4010
+  election_id: 4119
+  title: "West Hollywood Special Municipal Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2015-06-02.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4010
 ##lowest nid: -988
-##highest election_id: 4118
+##highest election_id: 4119
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
