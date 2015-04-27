@@ -8826,7 +8826,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4007
+## OH Municipal Election: Hamilton County
+data{
+  nid: 4008
+  election_id: 4112
+  title: "OH Municipal Election: Hamilton County"
+  feed_url: "https://data.votinginfoproject.org/feeds/oh/vipFeed-39061-2015-05-05.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4008
 ##lowest nid: -988
 ##highest election_id: 4117
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
