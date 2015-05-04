@@ -8862,8 +8862,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4011
+## WV Municipal Elections
+data {
+  nid: 4012
+  election_id: 4121
+  title: "WV Municipal Elections"
+  feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54-2015-05-16.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4012
 ##lowest nid: -988
-##highest election_id: 4120
+##highest election_id: 4121
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
