@@ -8862,11 +8862,11 @@ data {
   user: "noma@democracy.works"
 }
 
-## WV Municipal Elections
+## Charleston, WV Municipal Election
 data {
   nid: 4012
   election_id: 4121
-  title: "WV Municipal Elections"
+  title: "Charleston, WV Municipal Election"
   feed_url: "https://data.votinginfoproject.org/feeds/wv/vipFeed-54-2015-05-16.zip"
   user: "noma@democracy.works"
 }
