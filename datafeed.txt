@@ -8871,7 +8871,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4012
+## LA Test General
+data {
+  nid: 4013
+  election_id: 4102
+  title: "LA Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2015-05-26.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4013
 ##lowest nid: -988
 ##highest election_id: 4121
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
