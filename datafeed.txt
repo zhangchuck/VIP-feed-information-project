@@ -8691,15 +8691,6 @@ data {
   user: "noma@democracy.works"
 }
 
-## NC Test General
-data {
-  nid: 3593
-  election_id: 4102
-  title: "NC Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2015-04-07.zip"
-  user: "noma@democracy.works"
-}
-
 ## MO Municipal General
 data {
   nid: 3594
