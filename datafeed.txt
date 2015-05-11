@@ -8871,8 +8871,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4013
+## Philadelphia, PA Municipal Primary
+data {
+  nid: 4014
+  election_id: 4122
+  title: "Philadelphia, PA Municipal Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2015-05-19.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4014
 ##lowest nid: -988
-##highest election_id: 4121
+##highest election_id: 4122
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
