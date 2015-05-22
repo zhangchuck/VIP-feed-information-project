@@ -8916,8 +8916,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4018
+## Virginia Primary Election
+data {
+  nid: 4019
+  election_id: 4126
+  title: "Virginina Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-06-09.zip"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4019
 ##lowest nid: -988
-##highest election_id: 4125
+##highest election_id: 4126
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
