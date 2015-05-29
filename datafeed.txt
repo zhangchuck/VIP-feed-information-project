@@ -8925,7 +8925,16 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4019
+## WY Test General
+data {
+  nid: 4020
+  election_id: 4102
+  title: "WY Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2016-11-05.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4020
 ##lowest nid: -988
 ##highest election_id: 4126
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
