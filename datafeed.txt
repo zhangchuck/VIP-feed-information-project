@@ -8961,8 +8961,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4023
+## MS Primary Election
+data {
+  nid: 4024
+  election_id: 4130
+  title: "MS Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ms/vipFeed-28-2015-08-04.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4024
 ##lowest nid: -988
-##highest election_id: 4129
+##highest election_id: 4130
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
