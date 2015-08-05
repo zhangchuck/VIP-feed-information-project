@@ -9015,7 +9015,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4029
+## NJ Test Election
+data {
+  nid: 4030
+  election_id: 4102
+  title: "NJ Centralization Pilot"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2015-06-02-pilot.zip"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4030
 ##lowest nid: -988
 ##highest election_id: 4135
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
