@@ -9029,7 +9029,7 @@ data {
   nid: 4031
   election_id: 4136
   title: "AZ Municipal Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/az/vipFeed-34-2015-06-02-pilot.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/az/vipFeed-04-2015-08-25.zip"
   user: "noma@democracy.works"
 }
 
