@@ -9042,8 +9042,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4032
+## NC Primary Election
+data {
+  nid: 4033
+  election_id: 4137
+  title: "NC Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2015-09-15.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4033
 ##lowest nid: -988
-##highest election_id: 4136
+##highest election_id: 4137
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
