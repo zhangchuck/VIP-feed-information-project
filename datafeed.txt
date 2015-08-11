@@ -9033,7 +9033,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4031
+## WA Primary
+data {
+  nid: 4032
+  election_id: 4102
+  title: "WA Primary"
+  feed_url: "https://data.votinginfoproject.org/feeds/wa/vipFeed-53-2015-08-04.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4032
 ##lowest nid: -988
 ##highest election_id: 4136
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
