@@ -9091,6 +9091,7 @@ data {
 data {
   nid: 4038
   election_id: 4140
+  title:
   feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2015-09-10.zip"
   division_id: "ocd-division/country:us/state:ny"
   user: "noma@democracy.works"
@@ -9100,6 +9101,7 @@ data {
 data {
   nid: 4039
   election_id: 4141
+  title:
   feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2015-09-08.zip"
   division_id: "ocd-division/country:us/state:ia"
   user: "noma@democracy.works"
