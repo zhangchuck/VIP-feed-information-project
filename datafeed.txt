@@ -9092,7 +9092,7 @@ data {
   nid: 4038
   election_id: 4140
   feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2015-09-10.zip"
-  ocd_id: "ocd-division/country:us/state:ny"
+  division_id: "ocd-division/country:us/state:ny"
   user: "noma@democracy.works"
 }
 
