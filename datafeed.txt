@@ -9132,6 +9132,7 @@ data {
   election_id: 4144
   title: "Virginia General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:va"
   user: "noma@democracy.works"
 }
 
