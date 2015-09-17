@@ -9051,12 +9051,12 @@ data {
   user: "noma@democracy.works"
 }
 
-## Anderson, TX Test Election
+## TX Test Election
 data {
   nid: 4034
   election_id: 4102
-  title: "Anderson, TX Test"
-  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48001-2015-11-03.zip"
+  title: "TX Test"
+  feed_url: "https://data.votinginfoproject.org/feeds/tx/vipFeed-48-2015-11-03.zip"
   user: "noma@democracy.works"
 }
 
