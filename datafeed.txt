@@ -9136,7 +9136,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4042
+## Los Angeles Election
+data {
+  nid: 4043
+  election_id: 4143
+  title: "Los Angeles Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2015-11-03.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4043
 ##lowest nid: -988
 ##highest election_id: 4162
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
