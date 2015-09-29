@@ -9145,7 +9145,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4043
+## Colorado Coordinated Election
+data {
+  nid: 4044
+  election_id: 4147
+  title: "Colorado Coordinated Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/co/vipFeed-08-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:co"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4044
 ##lowest nid: -988
 ##highest election_id: 4162
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
