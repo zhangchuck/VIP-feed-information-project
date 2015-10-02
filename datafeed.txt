@@ -9117,11 +9117,11 @@ data {
   user: "noma@democracy.works"
 }
 
-## Los Angeles Election
+## California Election
 data {
   nid: 4041
   election_id: 4143
-  title: "Los Angeles Election"
+  title: "California Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2015-11-03-Calabasas.zip"
   user: "noma@democracy.works"
 }
@@ -9136,11 +9136,11 @@ data {
   user: "noma@democracy.works"
 }
 
-## Los Angeles Election
+## California Election
 data {
   nid: 4043
   election_id: 4143
-  title: "Los Angeles Election"
+  title: "California Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2015-11-03.zip"
   user: "noma@democracy.works"
 }
@@ -9160,7 +9160,7 @@ data {
   nid: 4045
   election_id: 4157
   title: "NC Municipal General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2015-11-03.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-2015-11-03.zip"
   division_id: "ocd-division/country:us/state:nc"
   user: "noma@democracy.works"
 }
