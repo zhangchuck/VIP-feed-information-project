@@ -9175,7 +9175,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4046
+## Louisiana Gubernatorial Primary Election
+data {
+  nid: 4047
+  election_id: 4145
+  title: "Louisiana Gubernatorial Primary Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2015-10-24.zip"
+  division_id: "ocd-division/country:us/state:la"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4047
 ##lowest nid: -988
 ##highest election_id: 4162
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
