@@ -9180,7 +9180,7 @@ data {
   nid: 4047
   election_id: 4145
   title: "Louisiana Gubernatorial Primary Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/la/vipFeed-22-2015-10-24.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2015-10-24.zip"
   division_id: "ocd-division/country:us/state:la"
   user: "noma@democracy.works"
 }
