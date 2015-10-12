@@ -9205,7 +9205,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4049
+## Alabama Test Election
+data {
+  nid: 4050
+  election_id: 4102
+  title: "Alabama Test Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2014-11-04.zip"
+  division_id: "ocd-division/country:us/state:al"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4050
 ##lowest nid: -988
 ##highest election_id: 4163
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
