@@ -9195,7 +9195,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4048
+## New York General Election
+data {
+  nid: 4049
+  election_id: 4159
+  title: "New York General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4049
 ##lowest nid: -988
 ##highest election_id: 4163
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
