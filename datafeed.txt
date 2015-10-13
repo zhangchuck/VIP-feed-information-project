@@ -9225,7 +9225,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4051
+## Mississippi General Election
+data {
+  nid: 4052
+  election_id: 4156
+  title: "Mississippi General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-28-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:ms"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4052
 ##lowest nid: -988
 ##highest election_id: 4163
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
