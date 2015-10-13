@@ -9235,7 +9235,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4052
+## New Jersey General Assembly Election
+data {
+  nid: 4053
+  election_id: 4158
+  title: "New Jersey General Assembly Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4053
 ##lowest nid: -988
 ##highest election_id: 4163
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
