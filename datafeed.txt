@@ -9190,7 +9190,7 @@ data {
   nid: 4048
   election_id: 4163
   title: "Washington General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/wa/vipFeed-53-2015-11-03.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2015-11-03.zip"
   division_id: "ocd-division/country:us/state:wa"
   user: "noma@democracy.works"
 }
