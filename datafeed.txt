@@ -9150,7 +9150,7 @@ data {
   nid: 4044
   election_id: 4147
   title: "Colorado Coordinated Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/co/vipFeed-08-2015-11-03.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-08-2015-11-03.zip"
   division_id: "ocd-division/country:us/state:co"
   user: "noma@democracy.works"
 }
