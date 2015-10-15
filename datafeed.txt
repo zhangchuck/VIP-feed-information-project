@@ -9264,7 +9264,27 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4055
+## Connecticut General Election
+data {
+  nid: 4056
+  election_id: 4148
+  title: "Connecticut General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-09-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:ct"
+  user: "noma@democracy.works"
+}
+
+## Salt Lake City Municipal Election
+data {
+  nid: 4057
+  election_id: 4161
+  title: "Salt Lake City Municipal Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:ut/place:salt_lake_city"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4057
 ##lowest nid: -988
 ##highest election_id: 4165
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
