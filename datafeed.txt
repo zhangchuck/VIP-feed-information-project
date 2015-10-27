@@ -9294,7 +9294,27 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4058
+## Phoenix Municipal Runoff Election
+data {
+  nid: 4059
+  election_id: 4146
+  title: "Phoenix Municipal Runoff Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/az/vipFeed-04-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:az/place:phoenix"
+  user: "noma@democracy.works"
+}
+
+## Idaho General Election
+data {
+  nid: 4060
+  election_id: 4150
+  title: "Idaho General Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/id/vipFeed-16-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:id"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4060
 ##lowest nid: -988
 ##highest election_id: 4165
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
