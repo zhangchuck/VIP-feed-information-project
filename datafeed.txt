@@ -9314,8 +9314,28 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4060
+## Rhode Island Referendum Election
+data {
+  nid: 4061
+  election_id: 4166
+  title: "Rhode Island Referendum Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-11-10-richmond.zip"
+  division_id: "ocd-division/country:us/state:ri/place:richmond"
+  user: "noma@democracy.works"
+}
+
+## Rhode Island Referendum Election
+data {
+  nid: 4062
+  election_id: 4166
+  title: "Rhode Island Referendum Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-11-10-westerly.zip"
+  division_id: "ocd-division/country:us/state:ri/place:westerly"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4062
 ##lowest nid: -988
-##highest election_id: 4165
+##highest election_id: 4166
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
