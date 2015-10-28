@@ -9240,7 +9240,7 @@ data {
   nid: 4053
   election_id: 4158
   title: "New Jersey General Assembly Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2015-11-03.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2015-11-03.zip"
   division_id: "ocd-division/country:us/state:nj"
   user: "noma@democracy.works"
 }
