@@ -9334,7 +9334,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4062
+## California Election
+data {
+  nid: 4063
+  election_id: 4143
+  title: "Californai Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06-2015-11-03-centralizer.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4063
 ##lowest nid: -988
 ##highest election_id: 4166
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
