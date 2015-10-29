@@ -9338,13 +9338,23 @@ data {
 data {
   nid: 4063
   election_id: 4143
-  title: "Californai Election"
+  title: "California Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06-2015-11-03-centralizer.zip"
   division_id: "ocd-division/country:us/state:ca"
   user: "maria@democracy.works"
 }
 
-##highest nid: 4063
+## Indiana Municipal General Election
+data {
+  nid: 4064
+  election_id: 4151
+  title: "Indiana Municipal General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:in"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4064
 ##lowest nid: -988
 ##highest election_id: 4166
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
