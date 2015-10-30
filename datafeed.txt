@@ -9170,7 +9170,7 @@ data {
   nid: 4046
   election_id: 4155
   title: "Minnesota General Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2015-11-03.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-27-2015-11-03.zip"
   division_id: "ocd-division/country:us/state:mn"
   user: "noma@democracy.works"
 }
