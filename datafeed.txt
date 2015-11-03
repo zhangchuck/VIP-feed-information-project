@@ -9329,9 +9329,9 @@ data {
   nid: 4062
   election_id: 4166
   title: "Rhode Island Referendum Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-11-10-westerly.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44009-2015-11-10.zip"
   division_id: "ocd-division/country:us/state:ri/place:westerly"
-  user: "noma@democracy.works"
+  user: "maria@democracy.works"
 }
 
 ## California Election
