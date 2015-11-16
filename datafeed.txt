@@ -9394,7 +9394,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4068
+## Wyoming Test Election
+data {
+  nid: 4069
+  election_id: 4102
+  title: "Wyoming Test Election"
+  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4069
 ##lowest nid: -988
 ##highest election_id: 4169
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
