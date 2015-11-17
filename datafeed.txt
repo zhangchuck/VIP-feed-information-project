@@ -8930,7 +8930,7 @@ data {
   nid: 4020
   election_id: 4102
   title: "WY Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2016-11-05.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2016-11-08.zip"
   user: "noma@democracy.works"
 }
 
@@ -9391,16 +9391,6 @@ data {
   title: "RI School Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-12-15.zip"
   division_id: "ocd-division/country:us/state:ri/place:barrington"
-  user: "noma@democracy.works"
-}
-
-## Wyoming Test Election
-data {
-  nid: 4069
-  election_id: 4102
-  title: "Wyoming Test Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:wy"
   user: "noma@democracy.works"
 }
 
