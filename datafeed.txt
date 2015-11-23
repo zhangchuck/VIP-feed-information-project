@@ -9404,7 +9404,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4070
+## IN Test General
+data {
+  nid: 4071
+  election_id: 4102
+  title: "IN Test General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:in"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4071
 ##lowest nid: -988
 ##highest election_id: 4169
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
