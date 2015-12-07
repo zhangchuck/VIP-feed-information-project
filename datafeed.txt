@@ -9414,8 +9414,28 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4071
+## RI Elections
+data {
+  nid: 4072
+  election_id: 4170
+  title: "RI Elections"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2016-01-05-egreenwich.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  user: "noma@democracy.works"
+}
+
+## RI Elections
+data {
+  nid: 4073
+  election_id: 4170
+  title: "RI Elections"
+  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2016-01-05-senate.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4073
 ##lowest nid: -988
-##highest election_id: 4169
+##highest election_id: 4170
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
