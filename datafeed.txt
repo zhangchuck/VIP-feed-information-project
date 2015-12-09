@@ -9419,7 +9419,7 @@ data {
   nid: 4072
   election_id: 4170
   title: "East Greenwich RI Elections"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2016-01-05-egreenwich.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44003-2016-01-05.zip"
   division_id: "ocd-division/country:us/state:ri/place:east_greenwich"
   user: "noma@democracy.works"
 }
@@ -9429,7 +9429,7 @@ data {
   nid: 4073
   election_id: 4171
   title: "RI Senate District 11"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2016-01-05-senate.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44001-2016-01-05.zip"
   division_id: "ocd-division/country:us/state:ri/sldu:11"
   user: "noma@democracy.works"
 }
