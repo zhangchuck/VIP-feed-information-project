@@ -9434,7 +9434,18 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4073
+## LA 5.0 Test General
+data {
+  nid: 4074
+  election_id: 4102
+  title: "LA 5.0 Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/test5-vipFeed-6037-2014-11-04.zip"
+  division_id: "ocd-division/country:us/state:ca/place:los_angeles"
+  vip_version: "5.0"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4074
 ##lowest nid: -988
 ##highest election_id: 4171
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
