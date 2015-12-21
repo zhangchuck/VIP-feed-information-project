@@ -9369,7 +9369,7 @@ data {
   nid: 4066
   election_id: 4167
   title: "Virginia Primary Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2016-03-01.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-03-01.zip"
   division_id: "ocd-division/country:us/state:va"
   user: "maria@democracy.works"
 }
