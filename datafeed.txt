@@ -9475,7 +9475,17 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4077
+## Maine Test Election
+data {
+  nid: 4078
+  election_id: 4102
+  title: "Maine Test"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-23-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:me"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4078
 ##lowest nid: -988
 ##highest election_id: 4249
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
