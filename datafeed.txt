@@ -9505,8 +9505,18 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4080
+## New Jersey Special School Board
+data {
+  nid: 4081
+  election_id: 4250
+  title: "New Jersey School Board Special"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-01-26.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4081
 ##lowest nid: -988
-##highest election_id: 4249
+##highest election_id: 4250
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
