@@ -8628,15 +8628,6 @@ data {
   user: "noma@democracy.works"
 }
 
-## DE Test General
-data {
-  nid: 3586
-  election_id: 4102
-  title: "DE 2014 Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2014-11-04_test.zip"
-  user: "noma@democracy.works"
-}
-
 ## VA Special Election
 data {
   nid: 3587
@@ -8682,30 +8673,12 @@ data {
   user: "noma@democracy.works"
 }
 
-## VA Test Primary
-data {
-  nid: 3592
-  election_id: 4102
-  title: "VA Test Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-03-24.zip"
-  user: "noma@democracy.works"
-}
-
 ## MO Municipal General
 data {
   nid: 3594
   election_id: 4108
   title: "MO Municipal General"
   feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2015-04-07.zip"
-  user: "noma@democracy.works"
-}
-
-## UT Test General
-data {
-  nid: 3595
-  election_id: 4102
-  title: "UT Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2015-04-14.zip"
   user: "noma@democracy.works"
 }
 
@@ -8799,15 +8772,6 @@ data {
   user: "noma@democracy.works"
 }
 
-## MN Test General
-data {
-  nid: 4006
-  election_id: 4102
-  title: "MN Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2015-11-03.zip"
-  user: "noma@democracy.works"
-}
-
 ## KY Primary
 data {
   nid: 4007
@@ -8862,15 +8826,6 @@ data {
   user: "noma@democracy.works"
 }
 
-## LA Test Primary
-data {
-  nid: 4013
-  election_id: 4102
-  title: "LA Test Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2016-03-05.zip"
-  user: "noma@democracy.works"
-}
-
 ## Philadelphia, PA Municipal Primary
 data {
   nid: 4014
@@ -8886,15 +8841,6 @@ data {
   election_id: 4123
   title: "RI State Rep. 33 General Election"
   feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2015-06-09.zip"
-  user: "noma@democracy.works"
-}
-
-## CA Test General
-data {
-  nid: 4016
-  election_id: 4102
-  title: "CA Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06-2014-11-04-Centralizer.zip"
   user: "noma@democracy.works"
 }
 
@@ -8923,15 +8869,6 @@ data {
   title: "Virginina Primary Election"
   feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2015-06-09.zip"
   user: "maria@democracy.works"
-}
-
-## WY Test General
-data {
-  nid: 4020
-  election_id: 4102
-  title: "WY Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/wy/vipFeed-56-2016-11-08.zip"
-  user: "noma@democracy.works"
 }
 
 ## North Smithfield, RI Special Election
@@ -9015,30 +8952,12 @@ data {
   user: "noma@democracy.works"
 }
 
-## NJ Test Election
-data {
-  nid: 4030
-  election_id: 4102
-  title: "NJ Centralization Pilot"
-  feed_url: "https://data.votinginfoproject.org/feeds/nj/vipFeed-34-2015-06-02-pilot.zip"
-  user: "maria@democracy.works"
-}
-
 ## AZ Municipal Election
 data {
   nid: 4031
   election_id: 4136
   title: "AZ Municipal Election"
   feed_url: "https://data.votinginfoproject.org/feeds/az/vipFeed-04-2015-08-25.zip"
-  user: "noma@democracy.works"
-}
-
-## WA Primary
-data {
-  nid: 4032
-  election_id: 4102
-  title: "WA Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/wa/vipFeed-53-2015-08-04.zip"
   user: "noma@democracy.works"
 }
 
@@ -9481,16 +9400,6 @@ data {
   election_id: 4102
   title: "Maine Test"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-23-2016-03-01.zip"
-  division_id: "ocd-division/country:us/state:me"
-  user: "maria@democracy.works"
-}
-
-## Abbot Maine Test
-data {
-  nid: 4079
-  election_id: 4102
-  title: "Abbot Maine Test"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-23001-2016-03-02.zip"
   division_id: "ocd-division/country:us/state:me"
   user: "maria@democracy.works"
 }
