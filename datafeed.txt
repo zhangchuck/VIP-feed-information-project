@@ -9434,7 +9434,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4082
+## Idaho Republican Presidential Primary 
+data {
+  nid: 4083
+  election_id: 4182
+  title: "Idaho Republican Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:id"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4083
 ##lowest nid: -988
 ##highest election_id: 4250
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
