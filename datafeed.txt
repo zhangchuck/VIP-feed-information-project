@@ -9429,7 +9429,7 @@ data {
   nid: 4082
   election_id: 4172
   title: "South Carolina Republican Presidential Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45001-2016-02-20.zip"
   division_id: "ocd-division/country:us/state:sc"
   user: "maria@democracy.works"
 }
