@@ -9464,6 +9464,16 @@ data {
   user: "maria@democracy.works"
 }
 
+## Illinois Presidential Primary 
+data {
+  nid: 4086
+  election_id: 4186
+  title: "Illinois Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-1701-2016-03-15.zip"
+  division_id: "ocd-division/country:us/state:il"
+  user: "maria@democracy.works"
+}
+
 ##highest nid: 4085
 ##lowest nid: -988
 ##highest election_id: 4250
