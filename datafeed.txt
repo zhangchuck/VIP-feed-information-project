@@ -9459,7 +9459,7 @@ data {
   nid: 4085
   election_id: 4173
   title: "South Carolina Democratic Presidential Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45002-2016-02-27.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45003-2016-02-27.zip"
   division_id: "ocd-division/country:us/state:sc"
   user: "maria@democracy.works"
 }
