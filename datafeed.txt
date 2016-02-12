@@ -9504,7 +9504,16 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4089
+## SC Test 
+data {
+  nid: 4090
+  election_id: 4102
+  title: "SC Test"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45005-2017%E2%80%9301-01.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  user: "noma@democracy.works"
+}
+##highest nid: 4090
 ##lowest nid: -988
 ##highest election_id: 4250
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
