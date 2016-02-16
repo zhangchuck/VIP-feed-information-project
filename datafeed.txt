@@ -9509,7 +9509,7 @@ data {
   nid: 4090
   election_id: 4102
   title: "SC Test"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45-2016-03-01.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45003-2016-03-01.zip"
   division_id: "ocd-division/country:us/state:sc"
   user: "noma@democracy.works"
 }
