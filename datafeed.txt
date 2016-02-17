@@ -9524,7 +9524,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4091
+## Rhode Island Presidential Primary 
+data {
+  nid: 4092
+  election_id: 4200
+  title: "Rhode Island Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4092
 ##lowest nid: -988
 ##highest election_id: 4250
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
