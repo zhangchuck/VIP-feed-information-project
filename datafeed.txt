@@ -9534,8 +9534,18 @@ data {
   user: "noma@democracy.works"
 }
 
-##highest nid: 4092
+## Ariona Local Election 
+data {
+  nid: 4093
+  election_id: 4251
+  title: "Arizona Local Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-4-2016-03-08.zip"
+  division_id: "ocd-division/country:us/state:az"
+  user: "Maria@democracy.works"
+}
+
+##highest nid: 4093
 ##lowest nid: -988
-##highest election_id: 4250
+##highest election_id: 4251
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
