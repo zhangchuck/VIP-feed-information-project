@@ -9554,7 +9554,16 @@ data {
   user: "Maria@democracy.works"
 }
 
-##highest nid: 4094
+## Alabama Presidential Primary 
+data {
+  nid: 4095
+  election_id: 4174
+  title: "Alabama Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2016-03-01.zip"
+  division_id: "ocd-division/country:us/state:al"
+  user: "Maria@democracy.works"
+}
+##highest nid: 4095
 ##lowest nid: -988
 ##highest election_id: 4251
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
