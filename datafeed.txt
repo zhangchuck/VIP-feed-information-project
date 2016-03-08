@@ -9594,7 +9594,17 @@ data {
   user: "Maria@democracy.works"
 }
 
-##highest nid: 4098
+## NM Test 
+data {
+  nid: 4099
+  election_id: 4102
+  title: "NM Test"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-35-2014-11-04.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4099
 ##lowest nid: -988
 ##highest election_id: 4252
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
