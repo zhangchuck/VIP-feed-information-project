@@ -1766,7 +1766,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4100
+## Indiana Presidential Primary
+data {
+  nid: 4101
+  election_id: 4201
+  title: "Indiana Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-2016-05-03.zip"
+  division_id: "ocd-division/country:us/state:in"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4101
 ##lowest nid: -988
 ##highest election_id: 4253
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
