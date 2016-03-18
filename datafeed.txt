@@ -1776,7 +1776,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4101
+## Delaware Presidential Primary
+data {
+  nid: 4102
+  election_id: 4197
+  title: "Delaware Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-10-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:de"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4102
 ##lowest nid: -988
 ##highest election_id: 4253
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
