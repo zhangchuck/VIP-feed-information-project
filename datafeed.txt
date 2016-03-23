@@ -1786,7 +1786,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4102
+## Alabama Runoff 
+data {
+  nid: 4103
+  election_id: 4194
+  title: "Alabama Runoff"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2016-04-12.zip"
+  division_id: "ocd-division/country:us/state:al"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4103
 ##lowest nid: -988
 ##highest election_id: 4253
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
