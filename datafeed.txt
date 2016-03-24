@@ -1796,8 +1796,20 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4103
+## Connecticut Presidential Primary 
+data {
+  nid: 4104
+  election_id: 4196
+  title: “Connecticut Presidential Primary”
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-09-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:ct”
+  user: "shannon@democracy.works"
+}
+
+
+##highest nid: 4104
 ##lowest nid: -988
 ##highest election_id: 4253
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
+
