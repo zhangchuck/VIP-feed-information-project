@@ -1800,9 +1800,9 @@ data {
 data {
   nid: 4104
   election_id: 4196
-  title: “Connecticut Presidential Primary”
+  title: "Connecticut Presidential Primary"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-09-2016-04-26.zip"
-  division_id: "ocd-division/country:us/state:ct”
+  division_id: "ocd-division/country:us/state:ct"
   user: "shannon@democracy.works"
 }
 
