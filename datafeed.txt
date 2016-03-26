@@ -1826,7 +1826,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4106
+## Wisconsin Presidential Primary
+data {
+  nid: 4107
+  election_id: 4193
+  title: "Wisconsin Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-04-05.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4107
 ##lowest nid: -988
 ##highest election_id: 4254
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
