@@ -1806,10 +1806,29 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Louisiana Municipal Election 
+data {
+  nid: 4105
+  election_id: 4254
+  title: "Louisiana Municipal Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-2016-04-09.zip"
+  division_id: "ocd-division/country:us/state:la"
+  user: "maria@democracy.works"
+}
 
-##highest nid: 4104
+## Virginia General Election 
+data {
+  nid: 4106
+  election_id: 5000
+  title: "Virginia General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:va"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4106
 ##lowest nid: -988
-##highest election_id: 4253
+##highest election_id: 4254
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
 
