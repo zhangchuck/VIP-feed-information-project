@@ -1866,7 +1866,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4110
+## Pennsylvania Presidential Primary 
+data {
+  nid: 4111
+  election_id: 4199
+  title: "Pennsylvania Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-2016-04-26.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4111
 ##lowest nid: -988
 ##highest election_id: 4254
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
