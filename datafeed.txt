@@ -1113,15 +1113,6 @@ data {
   user: "noma@democracy.works"
 }
 
-## NC Primary Election
-data {
-  nid: 4033
-  election_id: 4137
-  title: "NC Primary Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipfeed-37-2015-09-15.zip"
-  user: "noma@democracy.works"
-}
-
 ## TX Test Election
 data {
   nid: 4034
