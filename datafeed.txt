@@ -15,7 +15,7 @@ data {
   nid: 3205
   election_id: 2000
   title: "NV 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/vipFeed-32-2014-06-10.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/nv/VIPFeed-32-2014-06-10.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
