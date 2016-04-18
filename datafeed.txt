@@ -405,7 +405,7 @@ data {
   nid: 3245
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-6065-2012-11-06.zip"
+  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
