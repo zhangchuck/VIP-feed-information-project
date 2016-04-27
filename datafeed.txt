@@ -1977,7 +1977,17 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4122
+## Virginia Local Election 
+data {
+  nid: 4123
+  election_id: 4951
+  title: "Virginia Local Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-05-03.zip"
+  division_id: "ocd-division/country:us/state:va"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4123
 ##lowest nid: -988
 ##highest election_id: 4260
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
