@@ -1997,7 +1997,17 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4124
+## Nebraska Primary 
+data {
+  nid: 4125
+  election_id: 4202 
+  title: "Nebraska Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-2016-05-10.zip"
+  division_id: "ocd-division/country:us/state:ne"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4125
 ##lowest nid: -988
 ##highest election_id: 4260
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
