@@ -2027,7 +2027,17 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4127
+## DC Primary 
+data {
+  nid: 4128
+  election_id: 4215  
+  title: "DC Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-11-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:dc"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4128
 ##lowest nid: -988
 ##highest election_id: 4260
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
