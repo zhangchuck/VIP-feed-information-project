@@ -2037,9 +2037,19 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4128
+## Arizona Special Election 
+data {
+  nid: 4129
+  election_id: 4261  
+  title: "Arizona Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-4-2016-05-17.zip"
+  division_id: "ocd-division/country:us/state:az"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4129
 ##lowest nid: -988
-##highest election_id: 4260
+##highest election_id: 4261
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
 
