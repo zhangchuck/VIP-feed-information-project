@@ -2057,9 +2057,32 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4131
+## Los Angeles Presidential Primary
+data {
+  nid: 4132
+  election_id: 4263  
+  title: "Los Angeles Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-06037-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:ca/place:los_angeles"
+  user: "shannon@democracy.works"
+}
+
+## Long Beach City Election
+data {
+  nid: 4133
+  election_id: 4264 
+  title: "Long Beach City Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-06039-2016-06-07-LB.zip"
+  division_id: "ocd-division/country:us/state:ca/place:long_beach"
+  user: "shannon@democracy.works"
+}
+
+
+
+
+##highest nid: 4133
 ##lowest nid: -988
-##highest election_id: 4262
+##highest election_id: 4264
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
 
