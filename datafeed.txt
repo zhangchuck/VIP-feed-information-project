@@ -2082,9 +2082,9 @@ data {
   nid: 4134
   election_id: 4261  
   title: "Arizona Special Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-4-2016-05-17.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04-2016-05-17.zip"
   division_id: "ocd-division/country:us/state:az"
-  user: "shannon@democracy.works"
+  user: "maria@democracy.works"
 }
 
 ## Idaho Primary
