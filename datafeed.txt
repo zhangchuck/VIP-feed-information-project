@@ -2107,7 +2107,17 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4136
+## Texas Statewide Runoff
+data {
+  nid: 4137
+  election_id: 4207  
+  title: "Texas Statewide Runoff"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4137
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
