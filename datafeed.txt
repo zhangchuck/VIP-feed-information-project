@@ -2123,11 +2123,21 @@ data {
   election_id: 4218  
   title: "Nevada Primary"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32-2016-06-14.zip"
-  division_id: "ocd-division/country:us/state:NV"
+  division_id: "ocd-division/country:us/state:nv"
   user: "maria@democracy.works"
 }
 
-##highest nid: 4138
+## New Jersey Primary
+data {
+  nid: 4139
+  election_id: 4212 
+  title: "New Jersey Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4139
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
