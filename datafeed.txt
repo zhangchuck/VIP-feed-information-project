@@ -2122,7 +2122,7 @@ data {
   nid: 4138
   election_id: 4218  
   title: "Nevada Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32-2016-06-14.zip"
+  feed_url: "http://nvsos.gov/vipfeed/VIPFeed-32-2016-06-14.zip"
   division_id: "ocd-division/country:us/state:nv"
   user: "maria@democracy.works"
 }
