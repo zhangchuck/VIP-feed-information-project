@@ -2143,7 +2143,7 @@ data {
   election_id: 4209 
   title: "California Presidential Primary"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-060001-2016-06-07.zip"
-  division_id: "ocd-division/country:us/state:ca/place:ca"
+  division_id: "ocd-division/country:us/state:ca"
   user: "maria@democracy.works"
 }
 
