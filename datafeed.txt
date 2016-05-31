@@ -2147,7 +2147,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4140
+## New Mexico Presidential Primary
+data {
+  nid: 4141
+  election_id: 4213 
+  title: "New Mexico Presidential Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-35-2016-06-07.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4141
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
