@@ -1473,7 +1473,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4142
+## South Carolina Primary
+data {
+  nid: 4143
+  election_id: 4220 
+  title: "South Carolina Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45-2016-06-14.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4143
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
