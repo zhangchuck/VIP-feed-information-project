@@ -752,6 +752,26 @@ data {
 
 ## END Datafeed for test election 2000
 
+## Alabama Test Election
+data {
+  nid: 4050
+  election_id: 4102
+  title: "Alabama Test Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2014-11-04.zip"
+  division_id: "ocd-division/country:us/state:al"
+  user: "maria@democracy.works"
+}
+
+## PA Test General
+data {
+  nid: 4070
+  election_id: 4102
+  title: "PA Test General"
+  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2015-11-03.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  user: "noma@democracy.works"
+}
+
 ## IN Test General
 data {
   nid: 4071
