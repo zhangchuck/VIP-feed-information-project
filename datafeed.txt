@@ -1483,7 +1483,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4143
+## Oklahoma Primary
+data {
+  nid: 4144
+  election_id: 4224 
+  title: "Oklahoma Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-2016-06-28.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4144
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
