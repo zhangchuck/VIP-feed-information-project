@@ -1503,6 +1503,26 @@ data {
   user: "maria@democracy.works"
 }
 
+## Minnesota Primary
+data {
+  nid: 4146
+  election_id: 4232
+  title: "Minnesota Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-27-2016-08-09.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  user: "maria@democracy.works"
+}
+
+## Vermont Primary
+data {
+  nid: 4147
+  election_id: 4233
+  title: "Vermont Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/VIP+Feed.zip"
+  division_id: "ocd-division/country:us/state:vt"
+  user: "maria@democracy.works"
+}
+
 ##highest nid: 4145
 ##lowest nid: -988
 ##highest election_id: 4263
