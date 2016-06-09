@@ -1523,7 +1523,16 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4145
+## TX Test Election
+data {
+  nid: 4034
+  election_id: 4102
+  title: "TX Test"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2016-05-24.zip"
+  user: "noma@democracy.works"
+}
+
+##highest nid: 4147
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
