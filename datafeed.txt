@@ -1534,14 +1534,24 @@ data {
 
 ## TX Test Election
 data {
-  nid: 4048
+  nid: 4148
   election_id: 2000
   title: "TX Test - D"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04818-2016-05-24.zip"
   user: "maria@democracy.works"
 }
 
-##highest nid: 4148
+## Utah Primary
+data {
+  nid: 4149
+  election_id: 4226
+  title: "Utah Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49-2016-06-28.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4149
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
