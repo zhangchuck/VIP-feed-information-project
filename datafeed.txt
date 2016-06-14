@@ -802,17 +802,6 @@ data {
   user: "noma@democracy.works"
 }
 
-## LA 5.0 Test General
-data {
-  nid: 4074
-  election_id: 4102
-  title: "LA 5.0 Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/test5-vipFeed-6037-2014-11-04.zip"
-  division_id: "ocd-division/country:us/state:ca/place:los_angeles"
-  vip_version: "5.0"
-  user: "noma@democracy.works"
-}
-
 ## Foster RI Election
 data {
   nid: 4075
