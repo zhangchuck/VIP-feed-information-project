@@ -1508,7 +1508,7 @@ data {
   election_id: 4233
   title: "Vermont Primary"
   feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/VIP+Feed.zip"
-  vip_version: "5.0"
+  vip_version: "5.1"
   division_id: "ocd-division/country:us/state:vt"
   user: "maria@democracy.works"
 }
