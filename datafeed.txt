@@ -1541,27 +1541,9 @@ data {
   user: "maria@democracy.works"
 }
 
-## Alaska Primary
-data {
-  nid: 4150
-  election_id: 4236
-  title: "Alaska Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-02-2016-08-16.zip"
-  division_id: "ocd-division/country:us/state:ak"
-  user: "shannon@democracy.works"
-}
 
-## Wyoming Primary
-data {
-  nid: 4151
-  election_id: 4237 
-  title: "Wyoming Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56-2016-08-16.zip"
-  division_id: "ocd-division/country:us/state:wy"
-  user: "shannon@democracy.works"
-}
 
-##highest nid: 4151
+##highest nid: 4149
 ##lowest nid: -988
 ##highest election_id: 4263
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
