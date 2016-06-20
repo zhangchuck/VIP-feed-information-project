@@ -1551,11 +1551,19 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Washington Primary
+data {
+  nid: 4152
+  election_id: 4264
+  title: "Washington Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  user: "maria@democracy.works"
+}
 
-
-##highest nid: 4151
+##highest nid: 4152
 ##lowest nid: -988
-##highest election_id: 4263
+##highest election_id: 4264
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
 
