@@ -1526,7 +1526,7 @@ data {
 data {
   nid: 4148
   election_id: 2000
-  title: "TX Test - D"
+  title: "TX Test - R"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04818-2016-05-24.zip"
   user: "maria@democracy.works"
 }
