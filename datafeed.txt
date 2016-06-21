@@ -1581,8 +1581,18 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Kansas Primary
+data {
+  nid: 4155
+  election_id: 4227
+  title: "Kansas Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-20-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  user: "shannon@democracy.works"
+}
 
-##highest nid: 4154
+
+##highest nid: 4155
 ##lowest nid: -988
 ##highest election_id: 4265
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
