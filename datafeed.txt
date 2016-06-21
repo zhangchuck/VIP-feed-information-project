@@ -1571,7 +1571,18 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4153
+## Missouri Primary
+data {
+  nid: 4154
+  election_id: 4229
+  title: "Missouri Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-2016-08-02.zip"
+  division_id: "ocd-division/country:us/state:mo"
+  user: "shannon@democracy.works"
+}
+
+
+##highest nid: 4154
 ##lowest nid: -988
 ##highest election_id: 4265
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
