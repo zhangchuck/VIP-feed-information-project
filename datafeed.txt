@@ -1576,7 +1576,7 @@ data {
   nid: 4154
   election_id: 4229
   title: "Missouri Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-2016-08-02.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29001-2016-08-02.zip"
   division_id: "ocd-division/country:us/state:mo"
   user: "shannon@democracy.works"
 }
