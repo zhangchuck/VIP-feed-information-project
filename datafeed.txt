@@ -1601,8 +1601,16 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Bexar County, TX Test Election
+data {
+  nid: 4157
+  election_id: 4102
+  title: "TX Test - Bexar"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48029-2016-05-24.zip"
+  user: "noma.daisy@gmail.com"
+}
 
-##highest nid: 4156
+##highest nid: 4157
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
