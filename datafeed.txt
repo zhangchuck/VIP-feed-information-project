@@ -1620,7 +1620,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4158
+## Rhode Island Primary
+data{
+  nid: 4159
+  election_id: 4244
+  title: "Rhode Island Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-2016-09-13.zip"
+  division_id: "ocd-division/country:us/state:rh"
+  user: "franklin@democracy.works"
+}
+
+##highest nid: 4159
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
