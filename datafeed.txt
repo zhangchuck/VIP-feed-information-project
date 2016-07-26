@@ -1640,7 +1640,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4160
+## Oklahoma Run-off Data
+data {
+  nid: 4161
+  election_id: 4238
+  title: "Oklahoma Run-off"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-2016-08-23.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  user: "franklin@democracy.works"
+}
+
+##highest nid: 4161
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
