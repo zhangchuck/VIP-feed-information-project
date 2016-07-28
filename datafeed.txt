@@ -1650,7 +1650,17 @@ data {
   user: "franklin@democracy.works"
 }
 
-##highest nid: 4161
+## Virginia General Election 
+data {
+  nid: 4162
+  election_id: 5000
+  title: "Virginia General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:va"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4162
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
