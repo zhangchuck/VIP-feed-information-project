@@ -1670,7 +1670,18 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4163
+## Wisconsin Primary
+data {
+  nid: 4164
+  election_id: 4234
+  title: "Wisconsin Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-08-09.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  user: "franklin@democracy.works"
+}
+
+
+##highest nid: 4164
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
