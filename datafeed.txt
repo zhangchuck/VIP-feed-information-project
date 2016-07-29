@@ -1680,8 +1680,17 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Delaware Primary
+data {
+  nid: 4165
+  election_id: 4241
+  title: "Delaware Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-10-2016-09-13.zip"
+  division_id: "ocd-division/country:us/state:de"
+  user: "maria@democracy.works"
+}
 
-##highest nid: 4164
+##highest nid: 4165
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
