@@ -1676,7 +1676,7 @@ data {
   election_id: 4234
   title: "Wisconsin Primary"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-08-09.zip"
-  division_id: "ocd-division/country:us/state:tx"
+  division_id: "ocd-division/country:us/state:wi"
   user: "franklin@democracy.works"
 }
 
