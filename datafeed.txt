@@ -1690,7 +1690,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4165
+## Connecticut Primary
+data {
+  nid: 4166
+  election_id: 4231
+  title: "Connecticut Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-09-2016-08-09.zip"
+  division_id: "ocd-division/country:us/state:ct"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4166
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
