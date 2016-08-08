@@ -1710,7 +1710,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4167
+## Florida Primary
+data {
+  nid: 4168
+  election_id: 4240
+  title: "Florida Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12-2016-08-30.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4168
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
