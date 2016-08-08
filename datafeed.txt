@@ -1665,7 +1665,7 @@ data {
   nid: 4163
   election_id: 4102
   title: "Jefferson County TX Test"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-48245-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48245-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:tx"
   user: "maria@democracy.works"
 }
