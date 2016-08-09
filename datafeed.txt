@@ -1726,7 +1726,7 @@ data {
   election_id: 5000
   title: "Indiana General"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:IN"
+  division_id: "ocd-division/country:us/state:in"
   user: "franklin@democracy.works"
 }
 
