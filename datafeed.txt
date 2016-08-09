@@ -1720,7 +1720,17 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4168
+## Indiana General
+data {
+  nid: 4169
+  election_id: 5000
+  title: "Indiana General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-18-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:IN"
+  user: "franklin@democracy.works"
+}
+
+##highest nid: 4169
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
