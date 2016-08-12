@@ -1760,7 +1760,18 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4172
+## Washington General
+data {
+  nid: 4173
+  election_id: 5000
+  title: "Washington General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-53-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  user: "franklin@democracy.works"
+}
+
+
+##highest nid: 4173
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
