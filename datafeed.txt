@@ -1750,7 +1750,17 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4171
+## Arizona Primary 
+data {
+  nid: 4172
+  election_id: 4239
+  title: "Arizona Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04-2016-08-30.zip"
+  division_id: "ocd-division/country:us/state:az"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4172
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
