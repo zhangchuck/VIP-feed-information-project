@@ -1765,7 +1765,7 @@ data {
   nid: 4173
   election_id: 5000
   title: "Washington General"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-53-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:wa"
   user: "franklin@democracy.works"
 }
