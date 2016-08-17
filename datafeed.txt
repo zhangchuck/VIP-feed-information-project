@@ -1770,8 +1770,18 @@ data {
   user: "franklin@democracy.works"
 }
 
+## New York Primary 
+data {
+  nid: 4174
+  election_id: 4243
+  title: "New York Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-2016-09-13.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  user: "shannon@democracy.works"
+}
 
-##highest nid: 4173
+
+##highest nid: 4174
 ##lowest nid: -988
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
