@@ -1782,7 +1782,7 @@ data {
 
 ## Minnesota Early Voting - General
 data {
-  nid: 4175
+  nid: -989
   election_id: 5000
   title: "Minnesota Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-27-2016-11-08.zip"
@@ -1790,8 +1790,8 @@ data {
   user: "kathryn@democracy.works"
 }
 
-##highest nid: 4175s
-##lowest nid: -988
+##highest nid: 4174
+##lowest nid: -989
 ##highest election_id: 5000
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
