@@ -1850,6 +1850,16 @@ data {
   user: "danny@democracy.works"
 }
 
+## Montana Early Voting - General
+data {
+  nid: -995
+  election_id: 5000
+  title: "Montana General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  user: "aaron@democracy.works"
+}
+
 ##highest nid: 4175
 ##lowest nid: -994
 ##highest election_id: 4266
