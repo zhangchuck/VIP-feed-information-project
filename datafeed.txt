@@ -1890,7 +1890,17 @@ data {
   user: "aaron@democracy.works"
 }
 
-##highest nid: 4175
+## Iowa General Election
+data {
+  nid: 4176
+  election_id: 5000
+  title: "Iowa General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-19-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ia"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4176
 ##lowest nid: -997
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
