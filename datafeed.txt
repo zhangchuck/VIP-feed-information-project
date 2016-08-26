@@ -1787,6 +1787,7 @@ data {
   title: "Minnesota General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-27-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:mn"
+  vip_version: "5.1"
   user: "kathryn@democracy.works"
 }
 
@@ -1797,6 +1798,7 @@ data {
   title: "Kansas General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-20-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ks"
+  vip_version: "5.1"
   user: "kathryn@democracy.works"
 }
 
@@ -1817,6 +1819,7 @@ data {
   title: "New Jersey General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-34-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nj"
+  vip_version: "5.1"
   user: "aaron@democracy.works"
 }
 
@@ -1827,6 +1830,7 @@ data {
   title: "Hawaii General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-15-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:hi"
+  vip_version: "5.1"
   user: "danny@democracy.works"
 }
 
@@ -1837,6 +1841,7 @@ data {
   title: "South Dakota General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-46-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:sd"
+  vip_version: "5.1"
   user: "aaron@democracy.works"
 }
 
@@ -1847,6 +1852,7 @@ data {
   title: "Wyoming General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-56-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
   user: "danny@democracy.works"
 }
 
@@ -1857,6 +1863,7 @@ data {
   title: "Montana General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:mt"
+  vip_version: "5.1"
   user: "aaron@democracy.works"
 }
 
@@ -1867,6 +1874,7 @@ data {
   title: "Nebraska General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-31-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ne"
+  vip_version: "5.1"
   user: "danny@democracy.works"
 }
 
@@ -1877,6 +1885,7 @@ data {
   title: "North Dakota General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-38-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nd"
+  vip_version: "5.1"
   user: "danny@democracy.works"
 }
 
@@ -1887,7 +1896,9 @@ data {
   title: "Ohio General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-39-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
   user: "aaron@democracy.works"
+  
 }
 
 ## Iowa General Election
@@ -1907,6 +1918,7 @@ data {
   title: "Vermont General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:vt"
+  vip_version: "5.1"
   user: "shannon@democracy.works"
 }
 
