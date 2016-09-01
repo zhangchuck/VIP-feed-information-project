@@ -1932,7 +1932,19 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4177
+## Montana General Election
+data {
+  nid: 4178
+  election_id: 5000
+  title: "Montana General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-30-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+
+##highest nid: 4178
 ##lowest nid: -997
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
