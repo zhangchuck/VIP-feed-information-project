@@ -1943,8 +1943,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Minnesota General Election
+data {
+  nid: 4179
+  election_id: 5000
+  title: "Minnesota General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-27-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 
-##highest nid: 4178
+
+##highest nid: 4179
 ##lowest nid: -997
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
