@@ -1954,8 +1954,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Texas General Election
+data {
+  nid: 4180
+  election_id: 5000
+  title: "Texas General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
 
-##highest nid: 4179
+
+##highest nid: 4180
 ##lowest nid: -997
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
