@@ -1959,7 +1959,7 @@ data {
   nid: 4180
   election_id: 5000
   title: "Texas General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2015-11-03.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:tx"
   vip_version: "3.0"
   user: "maria@democracy.works"
