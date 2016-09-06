@@ -1975,7 +1975,18 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4181
+## Massachusetts Primary
+data {
+  nid: 4182
+  election_id: 4245
+  title: "Massachusetts Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-2016-09-08.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4182
 ##lowest nid: -997
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
