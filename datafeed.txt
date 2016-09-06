@@ -1908,7 +1908,6 @@ data {
   vip_version: "5.1"
   is_ocd_id_early_vote: true
   user: "aaron@democracy.works"
-  
 }
 
 ## Iowa General Election
