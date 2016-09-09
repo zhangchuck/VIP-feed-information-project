@@ -1908,7 +1908,6 @@ data {
   vip_version: "5.1"
   is_ocd_id_early_vote: true
   user: "aaron@democracy.works"
-  
 }
 
 ## Iowa General Election
@@ -1932,6 +1931,62 @@ data {
   user: "shannon@democracy.works"
 }
 
+
+## Montana General Election
+data {
+  nid: 4178
+  election_id: 5000
+  title: "Montana General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-30-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## Minnesota General Election
+data {
+  nid: 4179
+  election_id: 5000
+  title: "Minnesota General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-27-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## Texas General Election
+data {
+  nid: 4180
+  election_id: 5000
+  title: "Texas General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+## District of Columbia General Election
+data {
+  nid: 4181
+  election_id: 5000
+  title: "DC General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-11-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:dc"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+## Massachusetts Primary
+data {
+  nid: 4182
+  election_id: 4245
+  title: "Massachusetts Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-2016-09-08.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
 ## Arkansas Early Voting - General
 data {
   nid: -999
@@ -1944,7 +1999,7 @@ data {
   user: "danny@democracy.works"
 }
 
-##highest nid: 4177
+##highest nid: 4182
 ##lowest nid: -999
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
