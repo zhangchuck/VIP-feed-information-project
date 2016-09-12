@@ -1999,7 +1999,18 @@ data {
   user: "danny@democracy.works"
 }
 
-##highest nid: 4182
+## Nebraska General Election
+data {
+  nid: 4183
+  election_id: 5000
+  title: "Nebraska General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ne"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+##highest nid: 4183
 ##lowest nid: -999
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
