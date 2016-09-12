@@ -2010,8 +2010,32 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Indiana Early Voting - General
+data {
+  nid: -1000
+  election_id: 5000
+  title: "Indiana General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-18-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:in"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "danny@democracy.works"
+}
+
+## Maine Early Voting - General
+data {
+  nid: -1001
+  election_id: 5000
+  title: "Maine General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-23-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:me"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "danny@democracy.works"
+}
+
 ##highest nid: 4183
-##lowest nid: -999
+##lowest nid: -1001
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
