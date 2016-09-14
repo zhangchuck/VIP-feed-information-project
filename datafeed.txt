@@ -1931,7 +1931,6 @@ data {
   user: "shannon@democracy.works"
 }
 
-
 ## Montana General Election
 data {
   nid: 4178
