@@ -2068,7 +2068,18 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4185
+## North Dakota General Election
+data {
+  nid: 4186
+  election_id: 5000
+  title: "North Dakota General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-38-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nd"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+##highest nid: 4186
 ##lowest nid: -1002
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
