@@ -2085,7 +2085,7 @@ data {
   title: "Los Angeles County General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:los_angeles"
-  vip_version: "3.0"
+  vip_version: "5.1"
   user: "maria@democracy.works"
 }
 
