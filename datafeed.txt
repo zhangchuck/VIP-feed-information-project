@@ -2051,13 +2051,24 @@ data {
   nid: 4184
   election_id: 5000
   title: "Illinois General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-17-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-17-2016-03-15.zip"
   division_id: "ocd-division/country:us/state:il"
   vip_version: "3.0"
   user: "maria@democracy.works"
 }
 
-##highest nid: 4184
+## Wisconsin General Election
+data {
+  nid: 4185
+  election_id: 5000
+  title: "Wisconsin General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-55-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4185
 ##lowest nid: -1002
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
