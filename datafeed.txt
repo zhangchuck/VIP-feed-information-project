@@ -2089,6 +2089,17 @@ data {
   user: "maria@democracy.works"
 }
 
+## Colorado General Election
+data {
+  nid: 4188
+  election_id: 5000
+  title: "Colorado General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-08-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:co"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
 ## Iowa Early Voting - General
 data {
   nid: -1003
@@ -2125,7 +2136,7 @@ data {
 }
 
 
-##highest nid: 4187
+##highest nid: 4188
 ##lowest nid: -1004
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
