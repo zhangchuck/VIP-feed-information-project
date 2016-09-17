@@ -2109,8 +2109,9 @@ data {
   division_id: "ocd-division/country:us/state:ia"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
-  
+  user: "danny@democracy.works"
 }
+
 ## Illinois Early Voting - General
 data {
   nid: -1004
