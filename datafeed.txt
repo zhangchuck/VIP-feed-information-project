@@ -2147,7 +2147,18 @@ data {
   user: "franklin@democracy.works"
 }
 
-##highest nid: 4189
+## Utah General Election
+data {
+  nid: 4190
+  election_id: 5000
+  title: "Utah General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4190
 ##lowest nid: -1005
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
