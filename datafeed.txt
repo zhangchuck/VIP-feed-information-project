@@ -2158,7 +2158,18 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4190
+## North Carolina General Election
+data {
+  nid: 4191
+  election_id: 5000
+  title: "North Carolina General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nc"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+##highest nid: 4191
 ##lowest nid: -1005
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
