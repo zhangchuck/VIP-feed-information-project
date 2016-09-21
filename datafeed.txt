@@ -2181,6 +2181,17 @@ data {
   user: "aaron@democracy.works"
 }
 
+## Wyoming General Election
+data {
+  nid: 4192
+  election_id: 5000
+  title: "Wyoming General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56001-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
 ##highest nid: 4191
 ##lowest nid: -1005
 ##highest election_id: 4266
