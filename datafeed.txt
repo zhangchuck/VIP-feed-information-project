@@ -2216,7 +2216,29 @@ data {
   user: "aaron@democracy.works"
 }
 
-##highest nid: 4192
+## Delaware General Election Data
+data {
+  nid: 4193
+  election_id: 5000
+  title: "Delaware General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-10-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:de"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+## Pennsylvania General Election Data
+data {
+  nid: 4194
+  election_id: 5000
+  title: "Pennsylvania General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4194
 ##lowest nid: -1008
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
