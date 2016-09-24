@@ -2163,7 +2163,7 @@ data {
   nid: 4191
   election_id: 5000
   title: "North Carolina General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-37-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nc"
   vip_version: "5.1"
   user: "franklin@democracy.works"
@@ -2238,7 +2238,18 @@ data {
   user: "maria@democracy.works"
 }
 
-##highest nid: 4194
+## Michigan General Election Data
+data {
+  nid: 4195
+  election_id: 5000
+  title: "Michigan General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-2016-11-08-processed.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  vip_version: "5.1"
+  user: "maria@democracy.works"
+}
+
+##highest nid: 4195
 ##lowest nid: -1008
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
