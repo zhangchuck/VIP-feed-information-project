@@ -2249,8 +2249,21 @@ data {
   user: "maria@democracy.works"
 }
 
+## Georgia Early Voting - General
+data {
+  nid: -1009
+  election_id: 5000
+  title: "Georgia General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "aaron@democracy.works"
+}
+
+
 ##highest nid: 4195
-##lowest nid: -1008
+##lowest nid: -1009
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100
