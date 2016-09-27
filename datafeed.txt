@@ -2243,7 +2243,7 @@ data {
   nid: 4195
   election_id: 5000
   title: "Michigan General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-2016-11-08-processed.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-26-2016-11-08-2.zip"
   division_id: "ocd-division/country:us/state:mi"
   vip_version: "5.1"
   user: "maria@democracy.works"
