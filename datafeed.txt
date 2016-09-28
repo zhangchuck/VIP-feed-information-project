@@ -2294,7 +2294,18 @@ data {
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4198
+## Missouri General Election Data
+data {
+  nid: 4199
+  election_id: 5000
+  title: "Missouri General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mo"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
+##highest nid: 4199
 ##lowest nid: -1009
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
