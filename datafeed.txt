@@ -2294,7 +2294,6 @@ data {
   user: "shannon@democracy.works"
 }
 
-
 ## Missouri General Election Data
 data {
   nid: 4199
@@ -2317,7 +2316,7 @@ data {
   user: "franklin@democracy.works"
 }
 
-## Connecticut General Election Data
+## Connecticut General Election
 data {
   nid: 4201
   election_id: 5000
