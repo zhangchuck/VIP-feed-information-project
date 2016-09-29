@@ -2243,7 +2243,7 @@ data {
   nid: 4195
   election_id: 5000
   title: "Michigan General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-26-2016-11-08-2.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-26-2016-11-08-2.zip.disabled"
   division_id: "ocd-division/country:us/state:mi"
   vip_version: "5.1"
   user: "maria@democracy.works"
@@ -2277,7 +2277,7 @@ data {
   nid: 4197
   election_id: 4102
   title: "Virginia Test Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-51001-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51001-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:va"
   vip_version: "3.0"
   user: "maria@democracy.works"
@@ -2294,18 +2294,32 @@ data {
   user: "shannon@democracy.works"
 }
 
-## New Jersey General Election Data
+
+## Missouri General Election Data
 data {
   nid: 4199
   election_id: 5000
-  title: "New Jersey General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:nj"
+  title: "Missouri General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:mo"
+
   vip_version: "3.0"
   user: "shannon@democracy.works"
 }
 
-##highest nid: 4199
+
+## Maryland General Election Data
+data {
+  nid: 4200
+  election_id: 5000
+  title: "Maryland General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-24-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:md"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+
 ##lowest nid: -1009
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
