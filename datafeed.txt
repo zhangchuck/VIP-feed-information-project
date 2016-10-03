@@ -2361,11 +2361,11 @@ data {
   user: "franklin@democracy.works"
 }
 
-## New Hampshire - General
+## New Hampshire - General Election
 data {
   nid: -1010
   election_id: 5000
-  title: "New Hampshire General"
+  title: "New Hampshire General Election"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-33-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nh"
   vip_version: "5.1"
