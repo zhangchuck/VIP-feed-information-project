@@ -2361,8 +2361,18 @@ data {
   user: "franklin@democracy.works"
 }
 
+## New Hampshire - General
+data {
+  nid: -1010
+  election_id: 5000
+  title: "New Hampshire General"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-33-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:nh"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
 
-##lowest nid: -1009
+##lowest nid: -1010
 ##highest nid: 4204
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
