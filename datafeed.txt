@@ -2390,6 +2390,7 @@ data {
   title: "Louisiana 5.1 Test"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-22-2016-09-17_51.zip"
   division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
   user: "franklin@democracy.works"
 }
 
