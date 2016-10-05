@@ -2186,7 +2186,7 @@ data {
   nid: 4192
   election_id: 5000
   title: "Wyoming General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56001-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:wy"
   vip_version: "3.0"
   user: "shannon@democracy.works"
