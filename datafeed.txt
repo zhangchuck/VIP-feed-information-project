@@ -2405,6 +2405,17 @@ data {
   user: "maria@democracy.works"
 }
 
+## Kentucky General Election
+data {
+  nid: 4208
+  election_id: 5000
+  title: "Kentucky General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-21-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ky"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
 ##lowest nid: -1010
 ##highest nid: 4208
 ##highest election_id: 4266
