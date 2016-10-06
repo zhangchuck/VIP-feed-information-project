@@ -2475,6 +2475,18 @@ data {
   user: "aaron@democracy.works"
 }
 
+## Louisiana Early Voting - General
+data {
+  nid: -1015
+  election_id: 5000
+  title: "Louisiana General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-22-2016-11-08.zip"
+  division_id: "ocd-division/country:us/district:la"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "danny@democracy.works"
+}
+
 
 ##lowest nid: -1014
 ##highest nid: 4209
