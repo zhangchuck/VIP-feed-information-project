@@ -2487,11 +2487,47 @@ data {
   user: "danny@democracy.works"
 }
 
+
+
+## New York General Election
+data {
+  nid: 4210
+  election_id: 5000
+  title: "New York General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  vip_version: "3.0"
+  user: "shannon@democracy.works"
+}
+
+## Florida General Election
+data {
+  nid: 4211
+  election_id: 5000
+  title: "Florida General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
+
+## Idaho Early Voting - General
+data {
+  nid: -1016
+  election_id: 5000
+  title: "Idaho General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-16-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:id"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "danny@democracy.works"
+}
+
 ## New Mexico Early Voting - General
 data {
-  nid: -1015
+  nid: -1017
   election_id: 5000
-  title: "District of Columbia General Early Voting"
+  title: "New Mexico General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-35-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nm"
   vip_version: "5.1"
@@ -2499,9 +2535,8 @@ data {
   user: "danny@democracy.works"
 }
 
-
-##lowest nid: -1015
-##highest nid: 4209
+##lowest nid: -1017
+##highest nid: 4210
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
