@@ -2498,6 +2498,16 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Florida General Election
+data {
+  nid: 4211
+  election_id: 5000
+  title: "Florida General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-12-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
+}
 
 ##lowest nid: -1015
 ##highest nid: 4210
