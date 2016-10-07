@@ -2481,7 +2481,7 @@ data {
   election_id: 5000
   title: "Louisiana General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-22-2016-11-08.zip"
-  division_id: "ocd-division/country:us/district:la"
+  division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
   user: "danny@democracy.works"
@@ -2509,7 +2509,19 @@ data {
   user: "maria@democracy.works"
 }
 
-##lowest nid: -1015
+## Idaho Early Voting - General
+data {
+  nid: -1016
+  election_id: 5000
+  title: "Idaho General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-16-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:id"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "danny@democracy.works"
+}
+
+##lowest nid: -1016
 ##highest nid: 4210
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
