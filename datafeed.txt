@@ -2299,7 +2299,7 @@ data {
   nid: 4199
   election_id: 5000
   title: "Missouri General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-29-STATE-OF-MISSOURI-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:mo"
   vip_version: "3.0"
   user: "shannon@democracy.works"
@@ -2494,7 +2494,7 @@ data {
   nid: 4210
   election_id: 5000
   title: "New York General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-36-New-York-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ny"
   vip_version: "3.0"
   user: "shannon@democracy.works"
