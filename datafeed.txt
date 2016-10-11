@@ -2232,7 +2232,7 @@ data {
   nid: 4194
   election_id: 5000
   title: "Pennsylvania General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-Pennsylvania-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:pa"
   vip_version: "3.0"
   user: "maria@democracy.works"
