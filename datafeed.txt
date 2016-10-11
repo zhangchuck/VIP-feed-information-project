@@ -1969,7 +1969,7 @@ data {
   nid: 4181
   election_id: 5000
   title: "DC General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-11-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-11-District-of-Columbia-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:dc"
   vip_version: "3.0"
   user: "maria@democracy.works"
