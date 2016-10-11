@@ -1925,7 +1925,7 @@ data {
   nid: 4177
   election_id: 5000
   title: "Vermont General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds/vipFeed-51-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50-VERMONT-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:vt"
   vip_version: "5.1"
   user: "shannon@democracy.works"
