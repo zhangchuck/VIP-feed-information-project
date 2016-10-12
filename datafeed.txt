@@ -2548,7 +2548,7 @@ data {
 data {
   nid: 4212
   election_id: 5000
-  title: "Florida General Election"
+  title: "Ohio General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:oh"
   vip_version: "3.0"
