@@ -3074,7 +3074,18 @@ data {
   user: "szelena@democracy.works"
 }
 
-##lowest nid: -1020
+## Pima County AZ - General Election
+data {
+  nid: -1021
+  election_id: 5000
+  title: "Pima County AZ General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04019-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:az/county:pima"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+##lowest nid: -1021
 ##highest nid: 4257
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
