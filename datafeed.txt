@@ -1735,7 +1735,7 @@ data {
   nid: 4170
   election_id: 5000
   title: "Alabama General"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-State-of-ALABAMA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:al"
   user: "shannon@democracy.works"
 }
