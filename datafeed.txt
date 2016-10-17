@@ -2595,7 +2595,7 @@ data {
   nid: 4214
   election_id: 5000
   title: "Amador County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06005-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06005-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:amador"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2606,7 +2606,7 @@ data {
   nid: 4215
   election_id: 5000
   title: "Butte County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06007-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06007-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:butte"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2617,7 +2617,7 @@ data {
   nid: 4216
   election_id: 5000
   title: "Calaveras County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06009-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06009-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:calaveras"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2628,7 +2628,7 @@ data {
   nid: 4217
   election_id: 5000
   title: "Colusa County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06011-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06011-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:colusa"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2639,7 +2639,7 @@ data {
   nid: 4218
   election_id: 5000
   title: "Contra Costa County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06013-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06013-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:contra_costa"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2672,7 +2672,7 @@ data {
   nid: 4221
   election_id: 5000
   title: "Fresno County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06019-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06019-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:fresno"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2705,7 +2705,7 @@ data {
   nid: 4224
   election_id: 5000
   title: "Inyo County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06027-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06027-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:inyo"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2716,7 +2716,7 @@ data {
   nid: 4225
   election_id: 5000
   title: "Kern County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06029-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06029-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:kern"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2738,7 +2738,7 @@ data {
   nid: 4227
   election_id: 5000
   title: "Lake County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06033-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06033-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:lake"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2749,7 +2749,7 @@ data {
   nid: 4228
   election_id: 5000
   title: "Madera County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06039-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06039-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:madera"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2760,7 +2760,7 @@ data {
   nid: 4229
   election_id: 5000
   title: "Marin County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06041-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06041-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:marin"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2771,7 +2771,7 @@ data {
   nid: 4230
   election_id: 5000
   title: "Merced County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06047-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06047-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:merced"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2793,7 +2793,7 @@ data {
   nid: 4232
   election_id: 5000
   title: "Mono County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06051-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06051-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:mono"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2815,7 +2815,7 @@ data {
   nid: 4234
   election_id: 5000
   title: "Napa County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06055-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06055-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:napa"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2826,7 +2826,7 @@ data {
   nid: 4235
   election_id: 5000
   title: "Orage County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06059-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06059-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:orange"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2837,7 +2837,7 @@ data {
   nid: 4236
   election_id: 5000
   title: "Placer County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06061-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06061-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:placer"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2848,7 +2848,7 @@ data {
   nid: 4237
   election_id: 5000
   title: "Riverside County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06065-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06065-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:riverside"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2859,7 +2859,7 @@ data {
   nid: 4238
   election_id: 5000
   title: "Sacramento County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06067-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06067-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:sacramento"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2914,7 +2914,7 @@ data {
   nid: 4243
   election_id: 5000
   title: "San Mateo County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06081-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06081-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:san_mateo"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2925,7 +2925,7 @@ data {
   nid: 4244
   election_id: 5000
   title: "Santa Barbara County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06083-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06083-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:santa_barbara"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2936,7 +2936,7 @@ data {
   nid: 4245
   election_id: 5000
   title: "Santa Clara County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06085-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06085-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:santa_clara"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2947,7 +2947,7 @@ data {
   nid: 4246
   election_id: 5000
   title: "Santa Cruz County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06087-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06087-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:santa_cruz"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -2958,7 +2958,7 @@ data {
   nid: 4247
   election_id: 5000
   title: "Shasta County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06089-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06089-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:shasta"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -3002,7 +3002,7 @@ data {
   nid: 4251
   election_id: 5000
   title: "Tehama County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06103-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06103-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:tehama"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -3024,7 +3024,7 @@ data {
   nid: 4253
   election_id: 5000
   title: "Tulare County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-060107-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06107-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:tulare"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -3035,7 +3035,7 @@ data {
   nid: 4254
   election_id: 5000
   title: "Ventura County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06111-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06111-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:ventura"
   vip_version: "3.0"
   user: "szelena@democracy.works"
@@ -3057,7 +3057,7 @@ data {
   nid: 4256
   election_id: 5000
   title: "Yuba County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06115-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06115-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:yuba"
   vip_version: "3.0"
   user: "szelena@democracy.works"
