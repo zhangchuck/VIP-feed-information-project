@@ -2105,7 +2105,7 @@ data {
   nid: -1003
   election_id: 5000
   title: "Iowa General Early Voting"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-19-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-19-Iowa-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ia"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
