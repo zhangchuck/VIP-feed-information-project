@@ -2072,7 +2072,7 @@ data {
   nid: 4186
   election_id: 5000
   title: "North Dakota General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-38-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-38-North-Dakota-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nd"
   vip_version: "3.0"
   user: "franklin@democracy.works"
