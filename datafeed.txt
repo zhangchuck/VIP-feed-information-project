@@ -2277,7 +2277,7 @@ data {
   nid: 4197
   election_id: 4102
   title: "Virginia Test Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51001-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:va"
   vip_version: "3.0"
   user: "maria@democracy.works"
