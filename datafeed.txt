@@ -2376,7 +2376,7 @@ data {
   nid: 4205
   election_id: 5000
   title: "Mississippi General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-28-Mississippi-2014-11-04.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-28-Mississippi-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ms"
   vip_version: "3.0"
   user: "franklin@democracy.works"
