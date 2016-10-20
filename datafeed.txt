@@ -2254,7 +2254,7 @@ data {
   nid: -1009
   election_id: 5000
   title: "Georgia General Early Voting"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13-Georgia-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ga"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
