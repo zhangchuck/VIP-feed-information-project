@@ -3123,11 +3123,11 @@ data {
 data {
  nid: 4260
  election_id: 5000
- title: “Maricopa County AZ General Election”
+ title: "Maricopa County AZ General Election"
  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04013-ARIZONA-2016-11-08.zip"
- division_id: "ocd-division/country:us/state:ca/county:maricopa”
+ division_id: "ocd-division/country:us/state:az/county:maricopa"
  vip_version: "3.0"
- user: “szelena@democracy.works”
+ user: "szelena@democracy.works"
 }
 
 ##lowest nid: -1022
