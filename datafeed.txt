@@ -2892,7 +2892,7 @@ data {
   nid: 4241
   election_id: 5000
   title: "San Francisco County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06075-California-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06075-CALIFORNIA-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:san_francisco"
   vip_version: "3.0"
   user: "szelena@democracy.works"
