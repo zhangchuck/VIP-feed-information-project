@@ -3154,7 +3154,7 @@ data {
 
 ## Massachusetts Early Voting - General
 data {
-  nid: -1023
+  nid: -1024
   election_id: 5000
   title: "Massachusetts General Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-25-Massachusetts-2016-11-08.zip"
@@ -3164,7 +3164,7 @@ data {
   user: "danny@democracy.works"
 }
 
-##lowest nid: -1023
+##lowest nid: -1024
 ##highest nid: 4261
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
