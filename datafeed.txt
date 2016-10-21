@@ -3175,8 +3175,74 @@ data {
   user: "aaron@democracy.works"
 }
 
+## Humboldt County CA General Election
+data {
+  nid: 4262
+  election_id: 5000
+  title: "Humboldt County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06023-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:humboldt"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Lassen County CA General Election
+data {
+  nid: 4263
+  election_id: 5000
+  title: "Lassen County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06035-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:lassen"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## San Benito County CA General Election
+data {
+  nid: 4264
+  election_id: 5000
+  title: "San Benito County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06069-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_benito"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## San Joaquin County CA General Election
+data {
+  nid: 4265
+  election_id: 5000
+  title: "San Joaquin County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06077-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:san_joaquin"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Sonoma County CA General Election
+data {
+  nid: 4266
+  election_id: 5000
+  title: "Sonoma County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06097-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:sonoma"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Sutter County CA General Election
+data {
+  nid: 4267
+  election_id: 5000
+  title: "Sutter County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06101-CALIFORNIA-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:sutter"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
 ##lowest nid: -1025
-##highest nid: 4261
+##highest nid: 4267
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
