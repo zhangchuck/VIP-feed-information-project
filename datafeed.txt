@@ -3164,7 +3164,18 @@ data {
   user: "danny@democracy.works"
 }
 
-##lowest nid: -1024
+## Georgia - General Election
+data {
+  nid: -1025
+  election_id: 5000
+  title: "Georgia General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13001-Georgia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+##lowest nid: -1025
 ##highest nid: 4261
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
