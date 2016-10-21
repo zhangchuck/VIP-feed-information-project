@@ -2003,7 +2003,7 @@ data {
   nid: 4183
   election_id: 5000
   title: "Nebraska General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-State-of-Nebraska-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ne"
   vip_version: "3.0"
   user: "franklin@democracy.works"
