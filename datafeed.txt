@@ -1765,7 +1765,7 @@ data {
   nid: 4173
   election_id: 5000
   title: "Washington General"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-Washington-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:wa"
   user: "franklin@democracy.works"
 }
@@ -1958,7 +1958,7 @@ data {
   nid: 4180
   election_id: 5000
   title: "Texas General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48-Texas-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:tx"
   vip_version: "3.0"
   user: "maria@democracy.works"
@@ -2003,7 +2003,7 @@ data {
   nid: 4183
   election_id: 5000
   title: "Nebraska General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-State-of-Nebraska-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ne"
   vip_version: "3.0"
   user: "franklin@democracy.works"
@@ -2163,7 +2163,7 @@ data {
   nid: 4191
   election_id: 5000
   title: "North Carolina General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-North-Carolina-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37001-North-Carolina-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nc"
   vip_version: "5.1"
   user: "franklin@democracy.works"
@@ -2243,7 +2243,7 @@ data {
   nid: 4195
   election_id: 5000
   title: "Michigan General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-2016-11-08-2-1.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-MICHIGAN-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:mi"
   vip_version: "5.1"
   user: "maria@democracy.works"
@@ -3164,7 +3164,18 @@ data {
   user: "danny@democracy.works"
 }
 
-##lowest nid: -1024
+## Georgia - General Election
+data {
+  nid: -1025
+  election_id: 5000
+  title: "Georgia General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13001-Georgia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+##lowest nid: -1025
 ##highest nid: 4261
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
