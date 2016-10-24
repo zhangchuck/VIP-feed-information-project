@@ -3316,8 +3316,18 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Alpine County CA General Election
+data {
+  nid: 4273
+  election_id: 5000
+  title: "Alpine County CA General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06003-California-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ca/county:alpine"
+  user: "kathryn@democracy.works"
+}
+
 ##lowest nid: -1027
-##highest nid: 4272
+##highest nid: 4273
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
