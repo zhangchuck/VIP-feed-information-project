@@ -3302,7 +3302,7 @@ data {
   election_id: 5000
   title: "Wichita County TX General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48485-Texas-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:tx"
+  division_id: "ocd-division/country:us/state:tx/county:wichita"
   user: "shannon@democracy.works"
 }
 
@@ -3312,7 +3312,7 @@ data {
   election_id: 5000
   title: "Wood County TX General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48499-Texas-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:tx"
+  division_id: "ocd-division/country:us/state:tx/county:wood"
   user: "shannon@democracy.works"
 }
 
