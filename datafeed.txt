@@ -2420,7 +2420,7 @@ data {
 nid: 4209
 election_id: 5000
 title: "Nevada General Election"
-feed_url: "http://www.nvsos.gov/vipfeed/VIPFeed-32-2016-11-08.zip"
+feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-32-Nevada-2016-11-08.zip"
 division_id: "ocd-division/country:us/state:nv"
 vip_version: "3.0"
 user: "maria@democracy.works"
