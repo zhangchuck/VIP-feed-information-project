@@ -3079,7 +3079,7 @@ data {
   nid: -1021
   election_id: 5000
   title: "Pima County AZ General Election"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04019-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04019-Pima-County-Arizona-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:az/county:pima"
   vip_version: "5.1"
   user: "aaron@democracy.works"
@@ -3622,6 +3622,59 @@ data {
   vip_version: "3.0"
   user: "kathryn@democracy.works"
 }
+## Travis County TX General Election
+data {
+  nid: 4301
+  election_id: 5000
+  title: "Travis County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48453-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:travis"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Montgomery County TX General Election
+data {
+  nid: 4302
+  election_id: 5000
+  title: "Montgomery County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48339-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:montgomery"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Jefferson County TX General Election
+data {
+  nid: 4303
+  election_id: 5000
+  title: "Jefferson County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48245-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:jefferson"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+## Cameron County TX General Election
+data {
+  nid: 4304
+  election_id: 5000
+  title: "Cameron County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48061-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## McLennan County TX General Election
+data {
+  nid: 4305
+  election_id: 5000
+  title: "McLennan County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48309-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:mclennan"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
 
 ## Oklahoma Early Voting - General
 data {
@@ -3634,6 +3687,8 @@ data {
   is_ocd_id_early_vote: true
   user: "danny@democracy.works"
 }
+
+
 
 ##lowest nid: -1028
 ##highest nid: 4300
