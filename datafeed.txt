@@ -3079,7 +3079,7 @@ data {
   nid: -1021
   election_id: 5000
   title: "Pima County AZ General Election"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04019-Pima-County-AZ-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04019-Pima-County-Arizona-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:az/county:pima"
   vip_version: "5.1"
   user: "aaron@democracy.works"
