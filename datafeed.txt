@@ -2197,7 +2197,7 @@ data {
   nid: -1007
   election_id: 5000
   title: "Arizona General Early Voting"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04-Arizona-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:az"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
