@@ -3623,7 +3623,19 @@ data {
   user: "kathryn@democracy.works"
 }
 
-##lowest nid: -1027
+## Oklahoma Early Voting - General
+data {
+  nid: -1028
+  election_id: 5000
+  title: "Oklahoma General Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-40-Oklahoma-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "danny@democracy.works"
+}
+
+##lowest nid: -1028
 ##highest nid: 4300
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
