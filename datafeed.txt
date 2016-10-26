@@ -3348,8 +3348,261 @@ data {
   user: "szelena@democracy.works"
 }
 
+## Bastrop County TX General Election
+data {
+  nid: 4276
+  election_id: 5000
+  title: "Bastrop County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48021-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:bastrop"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Denton County TX General Election
+data {
+  nid: 4277
+  election_id: 5000
+  title: "Denton County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48121-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:denton"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Guadalupe County TX General Election
+data {
+  nid: 4278
+  election_id: 5000
+  title: "Guadalupe County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48187-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:guadalupe"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Midland County TX General Election
+data {
+  nid: 4279
+  election_id: 5000
+  title: "Midland County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48329-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:midland"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Williamson County TX General Election
+data {
+  nid: 4280
+  election_id: 5000
+  title: "Williamson County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48491-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:williamson"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Bell County TX General Election
+data {
+  nid: 4281
+  election_id: 5000
+  title: "Bell County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48027-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:bell"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Ector County TX General Election
+data {
+  nid: 4282
+  election_id: 5000
+  title: "Ector County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48135-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:ector"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Henderson County TX General Election
+data {
+  nid: 4283
+  election_id: 5000
+  title: "Henderson County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48213-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:henderson"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Smith County TX General Election
+data {
+  nid: 4284
+  election_id: 5000
+  title: "Smith County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48423-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:smith"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Bexar County TX General Election
+data {
+  nid: 4285
+  election_id: 5000
+  title: "Bexar County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48029-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:bexar"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Ellis County TX General Election
+data {
+  nid: 4286
+  election_id: 5000
+  title: "Ellis County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48139-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:ellis"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Hidalgo County TX General Election
+data {
+  nid: 4287
+  election_id: 5000
+  title: "Hidalgo County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48215-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:hidalgo"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Tarrant County TX General Election
+data {
+  nid: 4288
+  election_id: 5000
+  title: "Tarrant County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48439-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:tarrant"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## El Paso County TX General Election
+data {
+  nid: 4289
+  election_id: 5000
+  title: "El Paso County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48141-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:elpaso"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Kaufman County TX General Election
+data {
+  nid: 4290
+  election_id: 5000
+  title: "Kaufman County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48257-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:kaufman"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Taylor County TX General Election
+data {
+  nid: 4291
+  election_id: 5000
+  title: "Taylor County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48441-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:taylor"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Collin County TX General Election
+data {
+  nid: 4292
+  election_id: 5000
+  title: "Collin County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48085-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:collin"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Erath County TX General Election
+data {
+  nid: 4293
+  election_id: 5000
+  title: "Erath County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48143-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:erath"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Lubbock County TX General Election
+data {
+  nid: 4294
+  election_id: 5000
+  title: "Lubbock County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48303-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:taylor"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Waller County TX General Election
+data {
+  nid: 4295
+  election_id: 5000
+  title: "Waller County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48473-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:waller"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Dallas County TX General Election
+data {
+  nid: 4296
+  election_id: 5000
+  title: "Dallas County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48113-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:dallas"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Fort Bend County TX General Election
+data {
+  nid: 4297
+  election_id: 5000
+  title: "Fort Bend County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48157-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:fortbend"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## Webb County TX General Election
+data {
+  nid: 4298
+  election_id: 5000
+  title: "Webb County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48479-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:webb"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
 ##lowest nid: -1027
-##highest nid: 4275
+##highest nid: 4298
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
