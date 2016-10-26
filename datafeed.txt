@@ -3342,7 +3342,7 @@ data {
   nid: 4275
   election_id: 5000
   title: "Idaho General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-IDAHO-2016-11-08-10-24.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-IDAHO-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:id"
   vip_version: "3.0"
   user: "szelena@democracy.works"
