@@ -3654,9 +3654,30 @@ data {
   vip_version: "3.0"
   user: "szelena@democracy.works"
 }
+## Cameron County TX General Election
+data {
+  nid: 4304
+  election_id: 5000
+  title: "Cameron County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48061-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
+## McLennan County TX General Election
+data {
+  nid: 4305
+  election_id: 5000
+  title: "McLennan County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48309-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:mclennan"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
 
 ##lowest nid: -1027
-##highest nid: 4303
+##highest nid: 4305
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
