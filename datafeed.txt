@@ -1891,7 +1891,7 @@ data {
   nid: -997
   election_id: 5000
   title: "North Dakota General Early Voting"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-38-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-38-North-Dakota-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nd"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
