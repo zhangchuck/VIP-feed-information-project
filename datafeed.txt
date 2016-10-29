@@ -3723,7 +3723,51 @@ data {
   user: "steve@democracy.works"
 }
 
-##lowest nid: -1028
+## Rockwall County TX - General Election
+data {
+  nid: -1029
+  election_id: 5000
+  title: "Rockwall County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48397-Rockwall-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:rockwall"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+## Hays County TX - General Election
+data {
+  nid: -1030
+  election_id: 5000
+  title: "Hays County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48209-Hays-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:hays"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+## Gregg County TX - General Election
+data {
+  nid: -1031
+  election_id: 5000
+  title: "Gregg County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48183-Gregg-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:gregg"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+## Upton County TX - General Election
+data {
+  nid: -1032
+  election_id: 5000
+  title: "Upton County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48461-Upton-County-Texas-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:upton"
+  vip_version: "5.1"
+  user: "aaron@democracy.works"
+}
+
+##lowest nid: -1032
 ##highest nid: 4308
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
