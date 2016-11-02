@@ -2332,7 +2332,7 @@ data {
   nid: 4202
   election_id: 5000
   title: "New Jersey General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-New-Jersey-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:nj"
   vip_version: "3.0"
   user: "danny@democracy.works"
