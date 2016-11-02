@@ -3822,7 +3822,18 @@ data {
   user: "szelena@democracy.works"
 }
 
-##lowest nid: -1035
+## Vermont General - Unofficial
+data {
+  nid: -1036
+  election_id: 5000
+  title: "Vermont General - Unofficial"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50001-Vermont-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:vt"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: false
+  user: "franklin@democracy.works"
+}
+##lowest nid: -1036
 ##highest nid: 4310
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
