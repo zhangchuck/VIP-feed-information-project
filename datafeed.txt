@@ -3108,13 +3108,13 @@ data {
   user: "danny@democracy.works"
 }
 
-## Wyoming General Election
+## West Virginia General Election
 data {
   nid: 4259
   election_id: 5000
-  title: "Wyoming General Election"
+  title: "West Virginia General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-54-WEST-VIRGINIA-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:wy"
+  division_id: "ocd-division/country:us/state:wv"
   vip_version: "3.0"
   user: "maria@democracy.works"
 }
