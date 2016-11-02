@@ -3811,8 +3811,19 @@ data {
   user: "shannon@democracy.works"
 }
 
+## Tarrant County TX General Election
+data {
+  nid: 4310
+  election_id: 5000
+  title: "Montgomery County TX General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48439-TEXAS-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:tx/county:tarrant"
+  vip_version: "3.0"
+  user: "szelena@democracy.works"
+}
+
 ##lowest nid: -1035
-##highest nid: 4309
+##highest nid: 4310
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
