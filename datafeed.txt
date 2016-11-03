@@ -3290,7 +3290,7 @@ data {
   nid: -1027
   election_id: 5000
   title: "Arkansas General Election"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-050001-Arkansas-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-050001-Arkansas-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ar"
   vip_version: "5.1"
   user: "aaron@democracy.works"
