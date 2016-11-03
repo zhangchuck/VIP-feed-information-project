@@ -752,12 +752,12 @@ data {
 
 ## END Datafeed for test election 2000
 
-## Alabama Test Election
+## New Jersey Test Election
 data {
   nid: 4050
   election_id: 4102
-  title: "Alabama Test Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-2014-11-04.zip"
+  title: "New Jersey Test Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-00340-New-Jersey-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:al"
   user: "maria@democracy.works"
 }
