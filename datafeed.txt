@@ -3146,7 +3146,7 @@ data {
   nid: -1023
   election_id: 5000
   title: "Tennessee General Election"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-47001-Tennessee-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-47001-Tennessee-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:tn"
   vip_version: "5.1"
   user: "aaron@democracy.works"
