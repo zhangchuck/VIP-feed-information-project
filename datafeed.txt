@@ -3845,7 +3845,6 @@ data {
   user: "maria@democracy.works"
 }
 
-
 ## Maine - General Election
 data {
   nid: -1037
@@ -3857,7 +3856,18 @@ data {
   user: "aaron@democracy.works"
 }
 
-##lowest nid: -1037
+## Arkansas General Supplemental Feed
+data {
+nid: -1038
+election_id: 5000
+title: "Arkansas General Supplement"
+feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-05002-Arkansas-2016-11-08.zip"
+division_id: "ocd-division/country:us/state:ar"
+vip_version: "5.1"
+user: "katy@democracy.works"
+}
+
+##lowest nid: -1038
 ##highest nid: 4311
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
