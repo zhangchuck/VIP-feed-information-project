@@ -3867,7 +3867,40 @@ vip_version: "5.1"
 user: "katy@democracy.works"
 }
 
-##lowest nid: -1038
+## El Paso TX General Supplemental Feed
+data {
+nid: -1039
+election_id: 5000
+title: "El Paso General Supplement"
+feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-480141-TEXAS-2016-11-08.zip"
+division_id: "ocd-division/country:us/state:tx/county:el_paso"
+vip_version: "5.1"
+user: "jtindel@democracy.works"
+}
+
+## Webb TX General Supplemental Feed
+data {
+nid: -1040
+election_id: 5000
+title: "Webb County General Supplement"
+feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-480479-TEXAS-2016-11-08.zip"
+division_id: "ocd-division/country:us/state:tx/county:webb"
+vip_version: "5.1"
+user: "jtindel@democracy.works"
+}
+
+## Lubbock TX General Supplemental Feed
+data {
+nid: -1041
+election_id: 5000
+title: "Arkansas General Supplement"
+feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48303-TEXAS-2016-11-08.zip"
+division_id: "ocd-division/country:us/state:tx/county:lubbock"
+vip_version: "5.1"
+user: "steve@democracy.works"
+}
+
+##lowest nid: -1041
 ##highest nid: 4311
 ##highest election_id: 4266
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
