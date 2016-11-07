@@ -3861,7 +3861,7 @@ data {
 nid: -1038
 election_id: 5000
 title: "Arkansas General Supplement"
-feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-05002-Arkansas-2016-11-08.zip"
+feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-050002-Arkansas-2016-11-08.zip"
 division_id: "ocd-division/country:us/state:ar"
 vip_version: "5.1"
 user: "katy@democracy.works"
