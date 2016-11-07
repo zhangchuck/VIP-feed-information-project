@@ -3874,7 +3874,7 @@ election_id: 5000
 title: "El Paso General Supplement"
 feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-480141-TEXAS-2016-11-08.zip"
 division_id: "ocd-division/country:us/state:tx/county:el_paso"
-vip_version: "5.1"
+vip_version: "3.0"
 user: "jtindel@democracy.works"
 }
 
@@ -3885,7 +3885,7 @@ election_id: 5000
 title: "Webb County General Supplement"
 feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-480479-TEXAS-2016-11-08.zip"
 division_id: "ocd-division/country:us/state:tx/county:webb"
-vip_version: "5.1"
+vip_version: "3.0"
 user: "jtindel@democracy.works"
 }
 
@@ -3896,7 +3896,7 @@ election_id: 5000
 title: "Arkansas General Supplement"
 feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48303-TEXAS-2016-11-08.zip"
 division_id: "ocd-division/country:us/state:tx/county:lubbock"
-vip_version: "5.1"
+vip_version: "3.0"
 user: "steve@democracy.works"
 }
 
