@@ -3068,7 +3068,7 @@ data {
   nid: 4257
   election_id: 5000
   title: "Alameda County CA General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06001-CALIFORNIA-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06001-ALAMEDA-COUNTY-2016-11-08.zip"
   division_id: "ocd-division/country:us/state:ca/county:alameda"
   vip_version: "3.0"
   user: "szelena@democracy.works"
