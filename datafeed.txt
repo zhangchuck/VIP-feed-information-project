@@ -3950,7 +3950,7 @@ data {
   election_id: 4271
   title: "LA County Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-California-2017-03-07.zip"
-  division_id: "ocd-division/country:us/state:ca"
+  division_id: "ocd-division/country:us/state:ca/county:los_angeles"
   vip_version: "3.0"
   user: "franklin@democracy.works"
 }
