@@ -3983,7 +3983,7 @@ data {
   election_id: 4273
   title: "Fairfax Mayoral Election (VA)"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2017-02-07.zip"
-  division_id: "ocd-division/country:us/state:va"
+  division_id: "ocd-division/country:us/state:va/place:fairfax"
   vip_version: "3.0"
   user: "franklin@democracy.works"
 }
