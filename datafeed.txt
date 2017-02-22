@@ -4021,9 +4021,20 @@ data{
   user: "franklin@democracy.works"
 }
 
+## Oklahoma Special Elections
+data{
+  nid: 4323
+  election_id: 4327
+  title: "Oklahoma Special Elections
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-OKLAHOMA-2017-03-07.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 4322
-##highest election_id: 4281
+##highest nid: 4323
+##highest election_id: 4327
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
 
