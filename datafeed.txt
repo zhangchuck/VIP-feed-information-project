@@ -4025,7 +4025,7 @@ data{
 data{
   nid: 4323
   election_id: 4327
-  title: "Oklahoma Special Elections
+  title: "Oklahoma Special Elections"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-OKLAHOMA-2017-03-07.zip"
   division_id: "ocd-division/country:us/state:ok"
   vip_version: "3.0"
