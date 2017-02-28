@@ -4029,12 +4029,23 @@ data{
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-OKLAHOMA-2017-03-07.zip"
   division_id: "ocd-division/country:us/state:ok"
   vip_version: "3.0"
-  user: "franklin@democracy.works"
+  user: "franklin@democracy.works
+}
+
+## Lake County Election
+data{
+  nid: 4324
+  election_id: 4329
+  title: "Lake County Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06033-California-2017-03-07.zip"
+  division_id: "ocd-division/country:us/state:ca/county:lake"
+  vip_version: "3.0"
+  user: "maria@democracy.works"
 }
 
 ##lowest nid: -1041
-##highest nid: 4323
+##highest nid: 4324
 ##highest election_id: 4327
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
-# -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100,
+# -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
