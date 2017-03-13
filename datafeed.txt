@@ -4109,9 +4109,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Idaho County Election
+data {
+  nid: 4331
+  election_id: 4277
+  title: "County Election in Idaho"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-16-Idaho-03-17-2017.zip"
+  division_id: "ocd-division/country:us/state:id"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
 
 ##lowest nid: -1041
-##highest nid: 4330
+##highest nid: 4331
 ##highest election_id: 4335
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
