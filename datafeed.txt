@@ -4142,8 +4142,18 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Virginia Special Election
+data {
+  nid: 4334
+  election_id: 4336
+  title: "Virginia Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2017-04-18.zip"
+  division_id: "ocd-division/country:us/state:va"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 ##lowest nid: -1041
-##highest nid: 4333
+##highest nid: 4334
 ##highest election_id: 4340
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
