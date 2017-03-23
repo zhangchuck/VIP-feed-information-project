@@ -4159,7 +4159,7 @@ data {
   election_id: 4341
   title: "Los Angeles County Congressional District 34"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-California-2017-04-04.zip"
-  division_id: "ocd-division/country:us/state:ca"
+  division_id: "ocd-division/country:us/state:ca/cd:34"
   vip_version: "3.0"
   user: "franklin@democracy.works"
 }
@@ -4170,7 +4170,7 @@ data {
   election_id: 4342
   title: "Los Angeles County Arcadia Unified School District Board of Education"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-California-2017-04-18.zip"
-  division_id: "ocd-division/country:us/state:ca"
+  division_id: "ocd-division/country:us/state:ca/county:los_angeles"
   vip_version: "3.0"
   user: "franklin@democracy.works"
 }
