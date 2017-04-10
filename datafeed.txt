@@ -4263,9 +4263,20 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Pennsylvania's Municipal Primary
+data {
+  nid: 4345
+  election_id: 4354
+  title: "Pennsylvania's Municipal Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-Pennsylvania-2017-05-16.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 4344
-##highest election_id: 4353
+##highest nid: 4345
+##highest election_id: 4354
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
