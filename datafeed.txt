@@ -4246,7 +4246,7 @@ data {
   nid: 4343
   election_id: 4286
   title: "New Jersey's Annual School Board Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-New-Jersey-2017-04-18.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-New-Jersey-2017-04-25.zip"
   division_id: "ocd-division/country:us/state:nj"
   vip_version: "3.0"
   user: "franklin@democracy.works"
