@@ -4296,8 +4296,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Calaveras County All Mail Ballot Election
+data {
+  nid: 4348
+  election_id: 4347
+  title: "Calaveras County All Mail Ballot Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06009-California-2017-05-02.zip"
+  division_id: "ocd-division/country:us/state:ca/county:calaveras"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 4347
+##highest nid: 4348
 ##highest election_id: 4355
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
