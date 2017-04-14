@@ -4307,8 +4307,30 @@ data {
   user: "franklin@democracy.works"
 }
 
+## May municipal elections in Virginia
+data {
+  nid: 4349
+  election_id: 4292
+  title: "May municipal elections in Virginia"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2017-05-02.zip"
+  division_id: "ocd-division/country:us/state:va"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## June primary in Virginia
+data {
+  nid: 4350
+  election_id: 4297
+  title: "June primary in Virginia"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2017-06-13.zip"
+  division_id: "ocd-division/country:us/state:va"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 4348
+##highest nid: 4350
 ##highest election_id: 4355
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
