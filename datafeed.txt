@@ -4363,15 +4363,15 @@ data {
 }
 
 ## Municipal Primary Election in Ohio
-data {
-  nid: 4354
-  election_id: 4291
-  title: "Municipal Primary Election in Ohio"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2017-05-02.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-}
+##data {
+##  nid: 4354
+##  election_id: 4291
+##  title: "Municipal Primary Election in Ohio"
+##  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2017-05-02.zip"
+##  division_id: "ocd-division/country:us/state:oh"
+##  vip_version: "5.1"
+##  user: "franklin@democracy.works"
+##}
 
 ##lowest nid: -1041
 ##highest nid: 4354
