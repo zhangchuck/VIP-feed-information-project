@@ -4406,9 +4406,20 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Ventura County Election
+data {
+  nid: 10000
+  election_id: 4370
+  title: "Ventura County Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06111-California-2017-05-02.zip"
+  division_id: "ocd-division/country:us/state:ca/county:ventura"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 4357
-##highest election_id: 4368
+##highest nid: 10000
+##highest election_id: 4370
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
