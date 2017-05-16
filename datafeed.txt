@@ -4362,16 +4362,16 @@ data {
   user: "franklin@democracy.works"
 }
 
-## Municipal Primary Election in Ohio
-##data {
-##  nid: 4354
-##  election_id: 4291
-##  title: "Municipal Primary Election in Ohio"
-##  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2017-05-02.zip"
-##  division_id: "ocd-division/country:us/state:oh"
-##  vip_version: "5.1"
-##  user: "franklin@democracy.works"
-##}
+## Municipal Primary Election in Ohio (test election)
+data {
+  nid: 10006
+  election_id: 4102
+  title: "Municipal Primary Election in Ohio"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2017-05-02.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
 
 ## Monterey County -  City of Greenfield Special Parcel Tax
 data {
@@ -4473,7 +4473,7 @@ data {
 }
 
 ##lowest nid: -1041
-##highest nid: 10005
+##highest nid: 10006
 ##highest election_id: 4384
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
