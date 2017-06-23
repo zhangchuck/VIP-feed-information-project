@@ -4571,8 +4571,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Wyoming test 5.1 feed
+data {
+  nid: 10016
+  election_id: 4102
+  title: "Primary Election in Washington"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56-Wyoming-2020-11-04.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10015
+##highest nid: 10016
 ##highest election_id: 4388
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
