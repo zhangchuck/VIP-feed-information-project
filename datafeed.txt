@@ -4499,7 +4499,7 @@ data {
   nid: 10009
   election_id: 4387
   title: "Tiverton Charter Commission"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-Rhode-Island-2017-07-18.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44-Rhode-Island-TIV-2017-07-18.zip"
   division_id: "ocd-division/country:us/state:ri/place:tiverton"
   vip_version: "3.0"
   user: "franklin@democracy.works"
