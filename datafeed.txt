@@ -4529,7 +4529,7 @@ data {
 
 ## Senate Dist. 13 Newport/Jamestown
 data {
-  nid: 10012
+  nid: 10017
   election_id: 4388
   title: "Senate Dist. 13 Newport/Jamestown in Rhode Island"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-44-Rhode-Island-SD13-2017-07-18.zip"
@@ -4583,7 +4583,7 @@ data {
 }
 
 ##lowest nid: -1041
-##highest nid: 10016
+##highest nid: 10017
 ##highest election_id: 4388
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
