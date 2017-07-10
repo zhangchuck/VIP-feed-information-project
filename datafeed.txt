@@ -4608,8 +4608,8 @@ data {
 data {
   nid: 10020
   election_id: 4376
-  title: "Alabama US Senate Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-01-State-of-ALABAMA-2017-08-15.zip"
+  title: "City of Mobile Municipal Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-01-State-of-ALABAMA-2017-08-22.zip"
   division_id: "ocd-division/country:us/state:al/county:mobile/place:mobile"
   vip_version: "3.0"
   user: "maria@democracy.works"
