@@ -4576,7 +4576,7 @@ data {
   nid: 10016
   election_id: 4393
   title: "Wyoming test 5.1 feed"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56-Wyoming-2020-11-04.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-56-STATE-OF-WYOMING-2020-11-04.zip"
   division_id: "ocd-division/country:us/state:wy"
   vip_version: "5.1"
   user: "franklin@democracy.works"
