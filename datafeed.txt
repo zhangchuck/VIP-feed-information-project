@@ -4615,9 +4615,31 @@ data {
   user: "maria@democracy.works"
 }
 
+## Wyoming's 2016 Primary
+data {
+  nid: 10021
+  election_id: 4394
+  title: "Wyoming's 2016 Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-56-STATE-OF-WYOMING-2016-08-16.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Wyoming's 2016 General
+data {
+  nid: 10022
+  election_id: 4395
+  title: "Wyoming's 2016 General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-56-STATE-OF-WYOMING-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10020
-##highest election_id: 4388
+##highest nid: 10022
+##highest election_id: 4395
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
