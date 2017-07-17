@@ -4565,7 +4565,7 @@ data {
   nid: 10015
   election_id: 4299
   title: "Primary Election in Washington"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-Washington-2017-08-01.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-53-Washington-2017-08-01.zip"
   division_id: "ocd-division/country:us/state:wa"
   vip_version: "3.0"
   user: "franklin@democracy.works"
