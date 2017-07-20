@@ -4637,8 +4637,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## City Primary/Consolidated Elections in Michigan
+data {
+  nid: 10023
+  election_id: 4391
+  title: "City Primary/Consolidated Elections in Michigan"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-26-MICHIGAN-2017-08-08.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10022
+##highest nid: 10023
 ##highest election_id: 4395
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
