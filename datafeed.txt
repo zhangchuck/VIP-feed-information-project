@@ -4659,9 +4659,42 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Providence Ward 3 Election
+data {
+  nid: 10025
+  election_id: 4396
+  title: "Providence Ward 3 Election in Rhode Island"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-44-Rhode-Island-2017-08-16.zip"
+  division_id: "ocd-division/country:us/state:ri/place:providence/ward:3"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## Senate District 13 Newport/Jamestown
+data {
+  nid: 10026
+  election_id: 4400
+  title: "Senate District 13 Newport/Jamestown in Rhode Island"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-44-Rhode-Island-2017-08-22.zip"
+  division_id: "ocd-division/country:us/state:ri/sldu:13"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## Fairfax County Special 
+data {
+  nid: 10027
+  election_id: 4399
+  title: "Fairfax County Special in Virginia"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-51-VA-2017-08-29.zip"
+  division_id: "ocd-division/country:us/state:va/county:fairfax"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10024
-##highest election_id: 4395
+##highest nid: 10027
+##highest election_id: 4400
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
