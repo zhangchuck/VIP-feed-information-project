@@ -3927,7 +3927,7 @@ data {
   nid: 4314
   election_id: 4269
   title: "Virginia General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2017-11-07.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-51-VA-2017-11-07.zip"
   division_id: "ocd-division/country:us/state:va"
   vip_version: "3.0"
   user: "franklin@democracy.works"
