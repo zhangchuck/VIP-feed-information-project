@@ -4748,15 +4748,15 @@ data {
 }
 
 ## City of Dothan Runoff
-##data {
-##  nid: 10033
-##  election_id: 4402
-##  title: "City of Dothan Runoff"
-##  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-01-State-of-ALABAMA-2017-09-12.zip"
-##  division_id: "ocd-division/country:us/state:al/place:dothan"
-##  vip_version: "3.0"
-##  user: "franklin@democracy.works"
-##}
+data {
+  nid: 10033
+  election_id: 4402
+  title: "City of Dothan Runoff"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-01-State-of-ALABAMA-2017-09-12.zip"
+  division_id: "ocd-division/country:us/state:al/place:dothan"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 
 ##lowest nid: -1041
 ##highest nid: 10033
