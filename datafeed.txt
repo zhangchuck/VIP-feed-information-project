@@ -4769,8 +4769,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## US Senate Primary runoff in Alabama
+data {
+  nid: 10035
+  election_id: 4401
+  title: "US Senate Primary runoff in Alabama"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-01-State-of-ALABAMA-2017-09-26.zip"
+  division_id: "ocd-division/country:us/state:al"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10034
+##highest nid: 10035
 ##highest election_id: 4402
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
