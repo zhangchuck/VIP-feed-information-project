@@ -4797,7 +4797,7 @@ data {
   election_id: 4403
   title: "Virginia Special Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-51-VA-2017-09-12.zip"
-  division_id: "ocd-division/country:us/state:va"
+  division_id: "ocd-division/country:us/state:va/place:fairfax"
   vip_version: "3.0"
   user: "franklin@democracy.works"
 }
