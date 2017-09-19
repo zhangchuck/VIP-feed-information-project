@@ -4841,7 +4841,7 @@ data {
   election_id: 4102
   title: "Louisiana test ballot feed"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-22-Louisiana-2017-09-30.zip"
-  division_id: "ocd-division/country:us/state:or"
+  division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "franklin@democracy.works"
 }
