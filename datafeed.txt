@@ -2371,17 +2371,6 @@ data {
   user: "franklin@democracy.works"
 }
 
-## Louisiana Test 5.1
-data {
-  nid: 4206
-  election_id: 4102
-  title: "Louisiana 5.1 Test"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-22-2016-09-17_51.zip"
-  division_id: "ocd-division/country:us/state:la"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-}
-
 ## Oklahoma General Election
 data {
   nid: 4207
@@ -4826,7 +4815,7 @@ data {
 
 ## Louisiana test ballot feed
 data {
-  nid: 10041
+  nid: 4206
   election_id: 4102
   title: "Louisiana test ballot feed"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-22-Louisiana-2017-09-30.zip"
