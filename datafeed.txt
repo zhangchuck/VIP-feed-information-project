@@ -2272,17 +2272,6 @@ data {
   user: "maria@democracy.works"
 }
 
-## Virginia Test General Election Data
-data {
-  nid: 4197
-  election_id: 4102
-  title: "Virginia Test Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-51-VA-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:va"
-  vip_version: "3.0"
-  user: "maria@democracy.works"
-}
-
 ## Alaska General Election Data
 data {
   nid: 4198
@@ -4848,7 +4837,7 @@ data {
 
 ## 5.1 SAMPLE FEED
 data {
-  nid: 10042
+  nid: 4197
   election_id: 4102
   title: "5.1 SAMPLE FEED"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-66-Virginia-2013-11-05.zip"
