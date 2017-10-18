@@ -4912,10 +4912,21 @@ data {
   user: "franklin@democracy.works"
 }
 
+## South Carolina General
+data {
+  nid: 10050
+  election_id: 4408
+  title: "South Carolina General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-45-South-Carolina-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 
 ##lowest nid: -1041
-##highest nid: 10049
-##highest election_id: 4403
+##highest nid: 10050
+##highest election_id: 4408
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
