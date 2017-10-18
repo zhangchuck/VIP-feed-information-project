@@ -4923,9 +4923,51 @@ data {
   user: "franklin@democracy.works"
 }
 
+## CA Uniform District Election -Calaveras County
+data {
+  nid: 10051
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06009-California-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
 
+## CA Uniform District Election -Humboldt County 
+data {
+  nid: 10052
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06023-California-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## CA Uniform District Election -Marin County
+data {
+  nid: 10053
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06041-California-2017-11-07.zipp"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## CA Uniform District Election -Monterey County
+data {
+  nid: 10054
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06053-California-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
 ##lowest nid: -1041
-##highest nid: 10050
+##highest nid: 10054
 ##highest election_id: 4408
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
