@@ -5033,8 +5033,55 @@ data {
   user: "franklin@democracy.works"
 }
 
+
+## CA Uniform District Election - Tulare County
+data {
+  nid: 10061
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06107-California-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## CA Uniform District Election - Riverside County
+data {
+  nid: 10062
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06065-California-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## CA Uniform District Election - Merced County
+data {
+  nid: 10063
+  election_id: 4305
+  title: "Uniform District Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06047-California-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+
+## Idaho General Election
+data {
+  nid: 10064
+  election_id: 4308
+  title: "Possible Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-16-Idaho-2017-11-7.zip"
+  division_id: "ocd-division/country:us/state:id"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+
 ##lowest nid: -1041
-##highest nid: 10060
+##highest nid: 10064
 ##highest election_id: 4424
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
