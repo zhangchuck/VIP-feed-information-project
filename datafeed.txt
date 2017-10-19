@@ -4950,9 +4950,9 @@ data {
   nid: 10053
   election_id: 4305
   title: "Uniform District Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06041-California-2017-11-07.zipp"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06041-California-2017-11-07.zip"
   division_id: "ocd-division/country:us/state:ca"
-100  vip_version: "3.0"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 }
 
