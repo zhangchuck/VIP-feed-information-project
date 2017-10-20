@@ -5090,11 +5090,20 @@ data {
   user: "sarah@democracy.works"
 }
 
-
+## Iowa Municipal Elections
+data {
+  nid: 10066
+  election_id: 4307
+  title: "Iowa Municipal Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-19-STATE-OF-IOWA-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:ia"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 
 
 ##lowest nid: -1041
-##highest nid: 10065
+##highest nid: 10066
 ##highest election_id: 4424
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
