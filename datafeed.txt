@@ -5200,6 +5200,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Maricopa County AZ Jurisdictional Election
+data {
+  nid: 10076
+  election_id: 4406
+  title: "Jurisdictional Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-04013-ARIZONA-2017-11-07.zip"
+  division_id: "ocd-division/country:us/state:az/county:maricopa"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+
+
 ##lowest nid: -1041
 ##highest nid: 10075
 ##highest election_id: 4424
