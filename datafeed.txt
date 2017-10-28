@@ -5229,7 +5229,7 @@ data {
   election_id: 4306
   title: "Coordinated Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-08-Colorado-2017-11-07.zip"
-  division_id: "ocd-division/country:us/state:co
+  division_id: "ocd-division/country:us/state:co"
   vip_version: "5.1"
   user: "sarah@democracy.works"
 }
