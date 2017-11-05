@@ -5257,10 +5257,18 @@ data {
   user: "sarah@democracy.works"
 }
 
-
-
+## Test Primary Contest
+data {
+  nid: 10081
+  election_id: 4102
+  title: "Test Primary Contest"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-14001-STATE-OF-WYOMING-2016-08-16.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
 ##lowest nid: -1041
-##highest nid: 10080
+##highest nid: 10081
 ##highest election_id: 4424
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
