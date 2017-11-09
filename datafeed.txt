@@ -5279,8 +5279,30 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Referendum election in Westerly, Rhode Island
+data {
+  nid: 10083
+  election_id: 4425
+  title: "Referendum election in Westerly, Rhode Island"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-44-Rhode-Island-2017-11-13.zip"
+  division_id: "ocd-division/country:us/state:ri/place:westerly"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## Special Senate Election in Alabama
+data {
+  nid: 10084
+  election_id: 4398
+  title: "Special Senate Election in Alabama"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-01-State-of-ALABAMA-2017-12-12.zip"
+  division_id: "ocd-division/country:us/state:al"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10082
+##highest nid: 10084
 ##highest election_id: 4424
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
