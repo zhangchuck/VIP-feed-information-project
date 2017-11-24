@@ -5338,7 +5338,7 @@ data {
 data {
   nid: 10088
   election_id: 4426
-  title: "Special Election, Assembly District 51"
+  title: "Special Election Assembly District 51"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-06037-California-2017-12-05.zip"
   division_id: " ocd-division/country:us/state:ca/sldl:51"
   vip_version: "3.0"
