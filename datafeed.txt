@@ -5345,13 +5345,13 @@ data {
   user: "maria@democracy.works"
 }
 
-## Iowa City Runoff
+## Iowa Special State Senate Election
 data {
   nid: 10089
   election_id: 4383
-  title: "Iowa City Runoff"
+  title: "Iowa Special State Senate Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-19-STATE-OF-IOWA-2017-12-05.zip"
-  division_id: "ocd-division/country:us/state:ia"
+  division_id: "ocd-division/country:us/state:ia/sldu:3"
   vip_version: "3.0"
   user: "franklin@democracy.works"
 }
