@@ -5367,9 +5367,21 @@ data {
   user: "sarah@democracy.works"
 }
 
+## New Jersey Special School Board Elections
+data {
+  nid: 10091
+  election_id: 4324
+  title: "New Jersey Special School Board Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-34-New-Jersey-2017-12-12.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+
 
 ##lowest nid: -1041
-##highest nid: 10090
+##highest nid: 10091
 ##highest election_id: 4426
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
