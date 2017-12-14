@@ -5389,10 +5389,21 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Scituate Referendum in Rhode Island
+data {
+  nid: 10093
+  election_id: 4508
+  title: "Scituate Referendum in Rhode Island"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-44-Rhode-Island-2018-01-23.zip"
+  division_id: "ocd-division/country:us/state:ri/place:scituate"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 
 ##lowest nid: -1041
-##highest nid: 10092
-##highest election_id: 4426
+##highest nid: 10093
+##highest election_id: 4508
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
