@@ -5411,9 +5411,30 @@ data {
   user: "franklin@democracy.works"
 }
 
+## South Carolina State House of Representatives - District 28 Special Election
+data {
+  nid: 10095
+  election_id: 4430
+  title: "South Carolina State House of Representatives - District 28 Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-45028-South-Carolina-2018-01-16.zip"
+  division_id: "ocd-division/country:us/state:sc/sldl:28"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## South Carolina State House of Representatives - District 99 Special Election
+data {
+  nid: 10096
+  election_id: 4431
+  title: "South Carolina State House of Representatives - District 99 Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-45099-South-Carolina-2018-01-16.zip"
+  division_id: "ocd-division/country:us/state:sc/sldl:99"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 
 ##lowest nid: -1041
-##highest nid: 10094
+##highest nid: 10096
 ##highest election_id: 4508
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
