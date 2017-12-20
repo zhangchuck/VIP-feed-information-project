@@ -5439,7 +5439,7 @@ data {
   election_id: 4513
   title: "Louisiana House Special Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-22-Louisiana-2018-02-17.zip"
-  division_id: "ocd-division/country:us/state:la"
+  division_id: "ocd-division/country:us/state:la/sldl:86"
   vip_version: "5.1"
   user: "franklin@democracy.works"
 }
