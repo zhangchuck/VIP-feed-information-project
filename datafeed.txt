@@ -5433,9 +5433,20 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Louisiana House Special Election
+data {
+  nid: 10097
+  election_id: 4513
+  title: "Louisiana House Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-22-Louisiana-2018-02-17.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10096
-##highest election_id: 4508
+##highest nid: 10097
+##highest election_id: 4513
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
