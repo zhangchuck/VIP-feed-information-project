@@ -5477,8 +5477,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Special State Senate District 10 General Election
+data {
+  nid: 10101
+  election_id: 4510
+  title: "Special State Senate District 10 General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-55-Wisconsin-2018-01-16.zip"
+  division_id: "ocd-division/country:us/state:wi/sldu:10"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10100
+##highest nid: 10101
 ##highest election_id: 4514
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
