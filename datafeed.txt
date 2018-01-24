@@ -5543,6 +5543,17 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Washington Special Election
+data {
+  nid: 10103
+  election_id: 4519
+  title: "Washington Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds-20180119/vipFeed-53-2018-02-13.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  vip_version: "3.0"
+  user: "kendall@turbovote.org"
+}
+
 ##lowest nid: -1041
 ##highest nid: 10107
 ##highest election_id: 4518
