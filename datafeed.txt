@@ -5548,7 +5548,7 @@ data {
   nid: 10103
   election_id: 4519
   title: "Washington Special Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds-20180119/vipFeed-53-2018-02-13.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-53-Washington-2018-02-13.zip"
   division_id: "ocd-division/country:us/state:wa"
   vip_version: "3.0"
   user: "kendall@turbovote.org"
