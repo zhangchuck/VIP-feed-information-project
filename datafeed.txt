@@ -1203,7 +1203,7 @@ data {
   election_id: 4435
   title: "Alabama State House District 4 Special Republican Primary Runoff Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA-HD-04-2018-02-27.zip"
-  division_id: "ocd-division/country:us/state:al"
+  division_id: "ocd-division/country:us/state:al/sldl:4"
   vip_version: "3.0"
   user: "kendall@turbovote.org"
 }
@@ -1214,7 +1214,7 @@ data {
   election_id: 4436
   title: "Alabama State Senate District 26 Special Democratic Primary Runoff Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA-SD-26-2018-02-27.zip"
-  division_id: "ocd-division/country:us/state:al"
+  division_id: "ocd-division/country:us/state:al/sldu:26"
   vip_version: "3.0"
   user: "kendall@turbovote.org"
 }
