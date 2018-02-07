@@ -1275,9 +1275,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## TX Joint Primary - Travis County
+data {
+  nid: 10116
+  election_id: 4437
+  title: "TX Joint Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48453-Texas-2018-03-06.zipp"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
 
 ##lowest nid: -1041
-##highest nid: 10115
+##highest nid: 10116
 ##highest election_id: 4518
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
