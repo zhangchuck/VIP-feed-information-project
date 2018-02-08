@@ -1280,7 +1280,7 @@ data {
   nid: 10116
   election_id: 4437
   title: "TX Joint Primary"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48453-Texas-2018-03-06.zipp"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48453-Texas-2018-03-06.zip"
   division_id: "ocd-division/country:us/state:tx"
   vip_version: "3.0"
   user: "sarah@democracy.works"
