@@ -1297,9 +1297,31 @@ data {
   user: "kendall@democracy.works"
 }
 
+## TX Democratic Primary - PCC counties
+data {
+  nid: 10120
+  election_id: 4515
+  title: "TX Democratic Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48002-Texas---Democratic-2018-03-06.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## TX Republican Primary - PCC counties
+data {
+  nid: 10121
+  election_id: 4516
+  title: "TX Republican Primary"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48002-Texas---Republican-2018-03-06.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 
 ##lowest nid: -1041
-##highest nid: 10118
+##highest nid: 10121
 ##highest election_id: 4518
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
