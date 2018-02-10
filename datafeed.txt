@@ -1327,6 +1327,7 @@ data {
   division_id: "ocd-division/country:us/state:ri/sldu:8"
   vip_version: "3.0"
   user: "kendall@democracy.works"
+  }
 
 ##lowest nid: -1041
 ##highest nid: 10121
