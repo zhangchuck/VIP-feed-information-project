@@ -1318,6 +1318,7 @@ data {
   vip_version: "3.0"
   user: "sarah@democracy.works"
 }
+
 ## Rhode Island State Senate District 8 Primary Election
 data {
   nid: 10119
@@ -1329,6 +1330,17 @@ data {
   user: "kendall@democracy.works"
   }
 
+## Wisconsin Spring Primary Election
+data {
+  nid: 10117
+  election_id: 4434
+  title: "Wisconsin Spring Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-55-Wisconsin-2018-02-20.zip"
+  division_id: "ocd-division/country:us/state:wi"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+  }
+  
 ##lowest nid: -1041
 ##highest nid: 10121
 ##highest election_id: 4518
