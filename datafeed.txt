@@ -1341,6 +1341,17 @@ data {
   user: "kendall@democracy.works"
   }
   
+## Louisiana Test Feed
+data {
+  nid: 10041
+  election_id: 4102
+  title: "Louisiana Test Feed"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2018-03-03.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+  }
+  
 ##lowest nid: -1041
 ##highest nid: 10121
 ##highest election_id: 4518
