@@ -1357,7 +1357,7 @@ data {
   nid: 10122
   election_id: 4438
   title: "Illinois Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17-Illinois-2018-03-06.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17-Illinois-2018-03-20.zip"
   division_id: "ocd-division/country:us/state:il"
   vip_version: "5.1"
   user: "franklin@democracy.works"
@@ -1434,7 +1434,7 @@ data {
   nid: 10129
   election_id: 4438
   title: "Illinois Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17001-Illinois-2018-03-06.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17001-Illinois-2018-03-20.zip"
   division_id: "ocd-division/country:us/state:il"
   vip_version: "5.1"
   user: "franklin@democracy.works"
