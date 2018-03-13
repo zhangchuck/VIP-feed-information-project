@@ -874,7 +874,7 @@ data {
   nid: 4317
   election_id: 4102
   title: "Lousiana Test Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-Louisiana-2017-01-28.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-la-empty.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "franklin@democracy.works"
@@ -950,7 +950,7 @@ data {
   nid: 4206
   election_id: 4102
   title: "Louisiana test ballot feed"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-22-Louisiana-2017-09-30.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-la-empty.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "franklin@democracy.works"
