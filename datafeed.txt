@@ -1506,8 +1506,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Arizona 8th Congressional District Special General Election
+data {
+  nid: 10137
+  election_id: 4527
+  title: "Arizona 8th Congressional District Special General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-04013-ARIZONA-2018-04-24.zip"
+  division_id: "ocd-division/country:us/state:az/cd:8"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10136
+##highest nid: 10137
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
