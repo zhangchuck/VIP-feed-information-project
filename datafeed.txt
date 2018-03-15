@@ -1478,9 +1478,9 @@ data {
   nid: 10134
   election_id: 4530
   title: "Virginia General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds-20180119/2018MayCity_Town.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-51-VA-2018-05-01.zip"
   division_id: "ocd-division/country:us/state:va"
-  vip_version: "5.1"
+  vip_version: "3.0"
   user: "kendall@democracy.works"
 }
 
