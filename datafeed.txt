@@ -772,14 +772,14 @@ data {
   user: "noma@democracy.works"
 }
 
-## IN Test General
+## IL Test General (2018)
 data {
   nid: 4071
   election_id: 4102
-  title: "IN Test General"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-17001-IL-2016-11-08.zip"
-  division_id: "ocd-division/country:us/state:in"
-  user: "noma@democracy.works"
+  title: "IL Test General"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17999-Illinois-2018-03-20.zip"
+  division_id: "ocd-division/country:us/state:il"
+  user: "franklin@democracy.works"
 }
 
 ## Maine Test Election
