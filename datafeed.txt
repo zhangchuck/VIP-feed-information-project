@@ -1539,17 +1539,6 @@ data {
   user: "kendall@democracy.works"
 }
 
-## Wisconsin Spring Election
-data {
-  nid: 10139
-  election_id: 4440
-  title: "Wisconsin Spring Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-55-Wisconsin-2018-04-03.zip"
-  division_id: "ocd-division/country:us/state:wi"
-  vip_version: "3.0"
-  user: "kendall@democracy.works"
-}
-
 ## Washington Special Election
 data {
   nid: 10141
