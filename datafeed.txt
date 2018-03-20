@@ -1561,8 +1561,19 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Georgia Primary Election
+data {
+  nid: 10142
+  election_id: 4452
+  title: "Georgia Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-13-Georgia-2018-05-22.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10141
+##highest nid: 10142
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
