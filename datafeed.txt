@@ -1561,8 +1561,41 @@ data {
   user: "franklin@democracy.works"
 }
 
+## North Kingstown Referendum
+data {
+  nid: 10140
+  election_id: 4542
+  title: "North Kingstown Referendum"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-44-Rhode-Island-2018-04-24.zip"
+  division_id: "ocd-division/country:us/state:ri/place:north_kingstown"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
+## Alabama House of Representatives District 4 General Special Election
+data {
+  nid: 10143
+  election_id: 4445
+  title: "Alabama House of Representatives District 4 General Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA---HD-04-2018-05-15.zip"
+  division_id: "ocd-division/country:us/state:al/cd:4"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
+## Alabama State Senate District 26 General Special Election
+data {
+  nid: 10144
+  election_id: 4446
+  title: "Alabama State Senate District 26 General Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA---SD-26-2018-05-15.zip"
+  division_id: "ocd-division/country:us/state:ar/sldu:26"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10142
+##highest nid: 10144
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
