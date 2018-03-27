@@ -1594,6 +1594,17 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Louisiana General Municipal Election
+data {
+  nid: 10146
+  election_id: 4529
+  title: "Louisiana General Municipal Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2018-04-28.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
 ##highest nid: 10144
 ##highest election_id: 4538
