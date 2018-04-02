@@ -1583,8 +1583,19 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Wyoming Primary Election
+data {
+  nid: 10147
+  election_id: 4494
+  title: "Wyoming Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-56-STATE-OF-WYOMING-2018-08-21.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10144
+##highest nid: 10147
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
