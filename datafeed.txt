@@ -1627,6 +1627,17 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Iowa Primary Election
+data {
+  nid: 10133
+  election_id: 4457
+  title: "Iowa Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-19-STATE-OF-IOWA-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ia"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
 ##highest nid: 10150
 ##highest election_id: 4538
