@@ -1616,12 +1616,12 @@ data {
   user: "kendall@democracy.works"
 }
 
-## Cameron County Spring City Elections
+## Cameron County Spring City Elections (TEXAS SOUTHMOST COLLEGE)
 data {
   nid: 10150
   election_id: 4544
   title: "Cameron County Spring City Elections"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48061-Texas-2018-05-05.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48061-TEXAS-SOUTHMOST-COLLEGE-ELECTION-2018-05-05.zip"
   division_id: "ocd-division/country:us/state:tx/county:cameron"
   vip_version: "3.0"
   user: "sarah@democracy.works"
@@ -1658,8 +1658,52 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Cameron County Spring City Elections (BROWNSVILLE NAVIGATION)
+data {
+  nid: 10153
+  election_id: 4544
+  title: "Cameron County Spring City Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48061-BROWNSVILLE-NAVIGATION-ELECTION-2018-05-05.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## Cameron County Spring City Elections (CITY OF PORT ISABEL)
+data {
+  nid: 10154
+  election_id: 4544
+  title: "Cameron County Spring City Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48061-CITY-OF-PORT-ISABEL-ELECTION-2018-05-05.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## Cameron County Spring City Elections (SAN BENITO CISD)
+data {
+  nid: 10155
+  election_id: 4544
+  title: "Cameron County Spring City Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48061-SAN-BENITO-CISD-ELECTION-2018-05-05.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## Cameron County Spring City Elections (CITY OF SAN BENITO)
+data {
+  nid: 10156
+  election_id: 4544
+  title: "Cameron County Spring City Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48061-CITY-OF-SAN-BENITO-ELECTION-2018-05-05.zip"
+  division_id: "ocd-division/country:us/state:tx/county:cameron"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10152
+##highest nid: 10156
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
