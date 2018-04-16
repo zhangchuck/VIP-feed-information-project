@@ -1702,8 +1702,228 @@ data {
   user: "sarah@democracy.works"
 }
 
+## California Primary Election - Butte County
+data {
+  nid: 10157
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06007-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Calaveras County
+data {
+  nid: 10158
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06009-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Colusa County
+data {
+  nid: 10159
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06011-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Contra Costa County
+data {
+  nid: 10160
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06013-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Glenn County
+data {
+  nid: 10161
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06021-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Inyo County
+data {
+  nid: 10162
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06027-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Madera County
+data {
+  nid: 10163
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06039-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Marin County
+data {
+  nid: 10164
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06041-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Mariposa County
+data {
+  nid: 10165
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06043-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Merced County
+data {
+  nid: 10166
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06047-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Napa County
+data {
+  nid: 10167
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06055-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Sacramento County
+data {
+  nid: 10168
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06067-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - San Benito County
+data {
+  nid: 10169
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06069-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - San Francisco County
+data {
+  nid: 10170
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06075-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - San Luis Obispo County
+data {
+  nid: 10171
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06079-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Santa Barbara County
+data {
+  nid: 10172
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06083-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Santa Cruz County
+data {
+  nid: 10173
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06087-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Sierra County
+data {
+  nid: 10174
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06091-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Tehama County
+data {
+  nid: 10175
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06103-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Tulare County
+data {
+  nid: 10176
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06107-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Ventura County
+data {
+  nid: 10177
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06111-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
+## California Primary Election - Yuba County
+data {
+  nid: 10178
+  election_id: 4456
+  title: "California Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06115-California-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  user: "sarah@democracy.works"
+} 
+
 ##lowest nid: -1041
-##highest nid: 10156
+##highest nid: 10178
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
