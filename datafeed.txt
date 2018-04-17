@@ -1922,6 +1922,17 @@ data {
   user: "sarah@democracy.works"
 } 
 
+## Nebraska Primary Election
+data {
+  nid: 10145
+  election_id: 4448
+  title: "Nebraska Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-31-State-of-Nebraska-2018-05-15.zip"
+  division_id: "ocd-division/country:us/state:ne"
+  user: "kendall@democracy.works"
+} 
+
+
 ##lowest nid: -1041
 ##highest nid: 10178
 ##highest election_id: 4538
