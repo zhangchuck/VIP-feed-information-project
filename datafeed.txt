@@ -1992,6 +1992,16 @@ data {
   user: "sarah@democracy.works"
 } 
 
+## Arkansas Primary Election
+data {
+  nid: 10183
+  election_id: 4451
+  title: "Arkansas Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-05-State-of-Arkansas-2018-05-22.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  user: "franklin@democracy.works"
+} 
+
 
 ##lowest nid: -1041
 ##highest nid: 10185
