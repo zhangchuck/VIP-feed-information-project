@@ -1932,50 +1932,6 @@ data {
   user: "kendall@democracy.works"
 } 
 
-## Ohio Primary Election - 1of4
-data {
-  nid: 10179
-  election_id: 4443
-  title: "Ohio Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39001-Ohio-2018-05-08.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-} 
-
-## Ohio Primary Election - 2of4
-data {
-  nid: 10180
-  election_id: 4443
-  title: "Ohio Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39002-Ohio-2018-05-08.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-} 
-
-## Ohio Primary Election - 3of4
-data {
-  nid: 10181
-  election_id: 4443
-  title: "Ohio Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39003-Ohio-2018-05-08.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-} 
-
-## Ohio Primary Election - 4of4
-data {
-  nid: 10182
-  election_id: 4443
-  title: "Ohio Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39004-Ohio-2018-05-08.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-} 
-
 ## California Primary Election - San Bernardino County
 data {
   nid: 10184
