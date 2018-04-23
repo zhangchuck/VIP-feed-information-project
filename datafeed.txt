@@ -2009,7 +2009,7 @@ data {
   election_id: 4453
   title: "Kentucky Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-21-KENTUCKY-2018-05-22.zip"
-  division_id: "ocd-division/country:us/state:nd"
+  division_id: "ocd-division/country:us/state:ky"
   vip_version: "3.0"
   user: "kendall@democracy.works"
 } 
