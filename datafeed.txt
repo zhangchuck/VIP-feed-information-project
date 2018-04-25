@@ -906,7 +906,7 @@ data {
   nid: 10006
   election_id: 4102
   title: "Municipal Primary Election in Ohio"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39-Ohio-2017-05-02.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-uploaded-feeds-20180119/vip_oh_4102_test.zip"
   division_id: "ocd-division/country:us/state:oh"
   vip_version: "5.1"
   user: "franklin@democracy.works"
