@@ -2113,9 +2113,30 @@ data {
   user: "sarah@democracy.works"
 } 
 
+## Texas Democratic Primary Runoff Election - PCC feed
+data {
+  nid: 10197
+  election_id: 4550
+  title: "Texas Democratic Primary Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48002-Texas---Democratic-2018-05-22.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+} 
+
+## Texas Republican Primary Runoff Election - PCC feed
+data {
+  nid: 10198
+  election_id: 4551
+  title: "Texas Republican Primary Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48002-Texas---Republican-2018-05-22.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+} 
 
 ##lowest nid: -1041
-##highest nid: 10196
+##highest nid: 10198
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
