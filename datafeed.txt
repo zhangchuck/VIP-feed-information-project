@@ -2091,9 +2091,31 @@ data {
   user: "sarah@democracy.works"
 } 
 
+## Texas Joint Primary Runoff Election - Montgomery County
+data {
+  nid: 10195
+  election_id: 4454
+  title: "Texas Joint Primary Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48339-Texas-2018-05-22.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+} 
+
+## Texas Joint Primary Runoff Election - Travis County
+data {
+  nid: 10196
+  election_id: 4454
+  title: "Texas Joint Primary Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48453-Texas-2018-05-022.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+} 
+
 
 ##lowest nid: -1041
-##highest nid: 10193
+##highest nid: 10196
 ##highest election_id: 4538
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
