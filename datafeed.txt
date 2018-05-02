@@ -2262,6 +2262,16 @@ data {
   user: "sarah@democracy.works"
 } 
 
+## Pennsylvania Primary Election
+data {
+  nid: 10203
+  election_id: 4450
+  title: "Pennsylvania Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-42-Pennsylvania-2018-05-15.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  user: "kendall@democracy.works"
+} 
+
 ##lowest nid: -1041
 ##highest nid: 10211
 ##highest election_id: 4552
