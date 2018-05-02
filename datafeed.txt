@@ -2187,6 +2187,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06025-CALIFORNIA-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2197,6 +2198,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06051-California-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2207,6 +2209,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06059-California-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2217,6 +2220,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06061-California-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2227,6 +2231,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06065-California-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2237,6 +2242,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06099-CALIFORNIA-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2259,6 +2265,7 @@ data {
   title: "California Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06053-California-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
   user: "sarah@democracy.works"
 } 
 
@@ -2269,6 +2276,18 @@ data {
   title: "Pennsylvania Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-42-Pennsylvania-2018-05-15.zip"
   division_id: "ocd-division/country:us/state:pa"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+} 
+
+## Alabama Primary Election
+data {
+  nid: 10203
+  election_id: 4450
+  title: "Alabama Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:al"
+  vip_version: "3.0"
   user: "kendall@democracy.works"
 } 
 
