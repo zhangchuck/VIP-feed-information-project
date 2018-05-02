@@ -5,7 +5,7 @@ data {
   nid: 3020
   election_id: 2000
   title: "SC Test Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/sc/vipFeed-45-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/sc/vipFeed-45-2012-11-06.zip"
   is_test_election: true
   user: "tiana@votinginfoproject.org"
 }
@@ -15,7 +15,7 @@ data {
   nid: 3205
   election_id: 2000
   title: "NV 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nv/VIPFeed-32-2014-06-10.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/nv/VIPFeed-32-2014-06-10.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -25,7 +25,7 @@ data {
   nid: 3206
   election_id: 2000
   title: "NC 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nc/vipFeed-37-2014-05-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/nc/vipFeed-37-2014-05-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -35,7 +35,7 @@ data {
   nid: 3203
   election_id: 2000
   title: "RI 2014 Municipal Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/ri/vipFeed-44-2014-02-03.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ri/vipFeed-44-2014-02-03.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -45,7 +45,7 @@ data {
   nid: 3204
   election_id: 2000
   title: "DE 2014 Test Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2012-09-11.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/de/vipFeed-10-2012-09-11.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -55,7 +55,7 @@ data {
   nid: 3210
   election_id: 2000
   title: "UT 2014 Test Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/ut/vipFeed-49-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ut/vipFeed-49-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -65,7 +65,7 @@ data {
   nid: 3211
   election_id: 2000
   title: "NYC 2013 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ny/vipFeed-36-2013-11-05.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ny/vipFeed-36-2013-11-05.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -75,7 +75,7 @@ data {
   nid: 3212
   election_id: 2000
   title: "VA 2013 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/va/vipFeed-51-2013-11-05.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/va/vipFeed-51-2013-11-05.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -85,7 +85,7 @@ data {
   nid: 3213
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06001-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06001-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -95,7 +95,7 @@ data {
   nid: 3214
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06003-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06003-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -105,7 +105,7 @@ data {
   nid: 3215
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06005-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06005-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -115,7 +115,7 @@ data {
   nid: 3216
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06007-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06007-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -125,7 +125,7 @@ data {
   nid: 3217
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06009-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06009-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -135,7 +135,7 @@ data {
   nid: 3218
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06011-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06011-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -145,7 +145,7 @@ data {
   nid: 3219
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06013-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06013-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -155,7 +155,7 @@ data {
   nid: 3220
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06015-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/vipFeed-06015-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -165,7 +165,7 @@ data {
   nid: 3221
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06017-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/vipFeed-06017-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -175,7 +175,7 @@ data {
   nid: 3222
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06019-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06019-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -185,7 +185,7 @@ data {
   nid: 3223
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06021-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06021-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -195,7 +195,7 @@ data {
   nid: 3224
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06023-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06023-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -205,7 +205,7 @@ data {
   nid: 3225
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06025-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06025-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -215,7 +215,7 @@ data {
   nid: 3226
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06027-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06027-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -225,7 +225,7 @@ data {
   nid: 3227
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06029-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06029-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -235,7 +235,7 @@ data {
   nid: 3228
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06031-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06031-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -245,7 +245,7 @@ data {
   nid: 3229
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06033-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06033-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -255,7 +255,7 @@ data {
   nid: 3230
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06035-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06035-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -265,7 +265,7 @@ data {
   nid: 3231
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06037-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06037-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -275,7 +275,7 @@ data {
   nid: 3232
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06039-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06039-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -285,7 +285,7 @@ data {
   nid: 3233
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06041-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06041-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -295,7 +295,7 @@ data {
   nid: 3234
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06043-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06043-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -305,7 +305,7 @@ data {
   nid: 3235
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06045-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06045-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -315,7 +315,7 @@ data {
   nid: 3236
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06047-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06047-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -325,7 +325,7 @@ data {
   nid: 3237
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06049-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06049-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -335,7 +335,7 @@ data {
   nid: 3238
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06051-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06051-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -345,7 +345,7 @@ data {
   nid: 3239
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06053-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06053-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -355,7 +355,7 @@ data {
   nid: 3240
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06055-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06055-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -365,7 +365,7 @@ data {
   nid: 3241
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06057-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06057-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -375,7 +375,7 @@ data {
   nid: 3242
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06059-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06059-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -385,7 +385,7 @@ data {
   nid: 3243
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06061-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06061-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -395,7 +395,7 @@ data {
   nid: 3244
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06063-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06063-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -405,7 +405,7 @@ data {
   nid: 3245
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06065-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06065-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -415,7 +415,7 @@ data {
   nid: 3246
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06067-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06067-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -425,7 +425,7 @@ data {
   nid: 3247
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06069-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06069-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -435,7 +435,7 @@ data {
   nid: 3248
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06071-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06071-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -445,7 +445,7 @@ data {
   nid: 3249
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06073-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06073-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -455,7 +455,7 @@ data {
   nid: 3250
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06075-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06075-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -465,7 +465,7 @@ data {
   nid: 3251
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06077-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06077-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -475,7 +475,7 @@ data {
   nid: 3252
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06079-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06079-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -485,7 +485,7 @@ data {
   nid: 3253
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06081-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06081-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -495,7 +495,7 @@ data {
   nid: 3254
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06083-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06083-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -505,7 +505,7 @@ data {
   nid: 3255
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06085-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06085-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -515,7 +515,7 @@ data {
   nid: 3256
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06087-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06087-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -525,7 +525,7 @@ data {
   nid: 3257
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06089-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06089-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -535,7 +535,7 @@ data {
   nid: 3258
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06091-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06091-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -545,7 +545,7 @@ data {
   nid: 3259
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06093-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06093-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -555,7 +555,7 @@ data {
   nid: 3260
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06095-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06095-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -565,7 +565,7 @@ data {
   nid: 3261
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06097-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06097-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -575,7 +575,7 @@ data {
   nid: 3262
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06099-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06099-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -585,7 +585,7 @@ data {
   nid: 3263
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06101-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06101-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -595,7 +595,7 @@ data {
   nid: 3264
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06103-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06103-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -605,7 +605,7 @@ data {
   nid: 3265
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06105-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06105-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -615,7 +615,7 @@ data {
   nid: 3266
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06107-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06107-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -625,7 +625,7 @@ data {
   nid: 3267
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06109-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06109-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -635,7 +635,7 @@ data {
   nid: 3268
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06111-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06111-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -645,7 +645,7 @@ data {
   nid: 3269
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06113-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06113-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -655,7 +655,7 @@ data {
   nid: 3270
   election_id: 2000
   title: "CA 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/ca/vipFeed-06115-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ca/vipFeed-06115-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -665,7 +665,7 @@ data {
   nid: 3312
   election_id: 2000
   title: "MN 2012 General"
-  feed_url: "https://data.votinginfoproject.org/feeds/mn/vipFeed-27-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/mn/vipFeed-27-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -675,7 +675,7 @@ data {
   nid: 3342
   election_id: 2000
   title: "MO 2014 Test Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/mo/vipFeed-29-2014-08-05.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/mo/vipFeed-29-2014-08-05.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -685,7 +685,7 @@ data {
   nid: 3019
   election_id: 2000
   title: "WI 2014 Test Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/wi/vipFeed-55-2014-04-01.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/wi/vipFeed-55-2014-04-01.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -695,7 +695,7 @@ data {
   nid: 3351
   election_id: 2000
   title: "IA 2012 Test Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/ia/vipFeed-19-2012-11-06.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/ia/vipFeed-19-2012-11-06.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -705,7 +705,7 @@ data {
   nid: 3354
   election_id: 2000
   title: "PA 2014 Test Election"
-  feed_url: "https://data.votinginfoproject.org/feeds/pa/vipFeed-42-2014-05-20.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/pa/vipFeed-42-2014-05-20.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -715,7 +715,7 @@ data {
   nid: 3359
   election_id: 2000
   title: "NM 2014 Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/nm/vipFeed-35-2014-06-03.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/nm/vipFeed-35-2014-06-03.zip"
   is_test_election: true
   user: "noma@turbovote.org"
 }
@@ -725,7 +725,7 @@ data {
   nid: 3421
   election_id: 2000
   title: "IL 2014 Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/il/vipFeed-17-2014-11-04.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/il/vipFeed-17-2014-11-04.zip"
   is_test_election: true
   user: "noma@democracy.works"
 }
@@ -735,7 +735,7 @@ data {
   nid: 3426
   election_id: 2000
   title: "Orange County Primary"
-  feed_url: "https://data.votinginfoproject.org/feeds/fl/vipFeed-12095-2014-08-26.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/fl/vipFeed-12095-2014-08-26.zip"
   is_test_election: true
   user: "noma@democracy.works"
 }
@@ -745,7 +745,7 @@ data {
   nid: 3585
   election_id: 2000
   title: "DE 2014 Test General"
-  feed_url: "https://data.votinginfoproject.org/feeds/de/vipFeed-10-2014-11-04_test.zip"
+  feed_url: "https://s3.amazonaws.com/election-2000/de/vipFeed-10-2014-11-04_test.zip"
   is_test_election: true
   user: "noma@democracy.works"
 }
