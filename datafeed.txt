@@ -2283,7 +2283,7 @@ data {
 ## Alabama Primary Election
 data {
   nid: 10204
-  election_id: 4450
+  election_id: 4455
   title: "Alabama Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:al"
