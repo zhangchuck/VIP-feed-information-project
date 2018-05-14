@@ -2390,12 +2390,12 @@ data {
   user: "kendall@democracy.works"
 }
 
-## Napa County Test feed
+## Sacramento County Test feed
 data {
   nid: 10225
   election_id: 4102
   title: "California Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06056-California-2018-06-05.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06068-California-2018-06-05.zip"
   division_id: "ocd-division/country:us/state:ca"
   vip_version: "3.0"
   user: "sarah@democracy.works"
