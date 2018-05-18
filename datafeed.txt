@@ -2456,6 +2456,27 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Colorado Primary Election
+data {
+  nid: 10216
+  election_id: 4470
+  title: "Colorado Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-08-Colorado-2018-06-26.zip"
+  division_id: "ocd-division/country:us/state:co"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
+## New Mexico Primary Election
+data {
+  nid: 10222
+  election_id: 4461
+  title: "New Mexico Primary Election"
+  feed_url: "hhttps://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-35-New-Mexico-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:co"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
 
 ##lowest nid: -1041
 ##highest nid: 10229
