@@ -2533,6 +2533,18 @@ data {
   user: "kendall@democracy.works"
 }
 
+## New Jersey Primary Election
+data {
+  nid: 10234
+  election_id: 4460
+  title: "New Jersey Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-34-New-Jersey-2018-06-05.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+
 ##lowest nid: -1041
 ##highest nid: 10233
 ##highest election_id: 4554
