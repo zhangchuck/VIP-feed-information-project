@@ -2544,7 +2544,6 @@ data {
   user: "sarah@democracy.works"
 }
 
-
 ## Oklahoma Primary Election
 data {
   nid: 10235
