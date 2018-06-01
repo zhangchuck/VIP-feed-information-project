@@ -972,7 +972,7 @@ data {
   nid: 10044
   election_id: 4102
   title: "Georgia test election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-13-Georgia-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13-Georgia-2018-12-31.zip"
   division_id: "ocd-division/country:us/state:ga"
   vip_version: "5.1"
   user: "franklin@democracy.works"
@@ -1016,7 +1016,7 @@ data {
   nid: 10087
   election_id: 4102
   title: "Georgia 2018 test"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20170615/vipfeed-13-Georgia-2018-05-22.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-13-Georgia-2018-05-22.zip"
   division_id: "ocd-division/country:us/state:ga"
   vip_version: "5.1"
   user: "franklin@democracy.works"
