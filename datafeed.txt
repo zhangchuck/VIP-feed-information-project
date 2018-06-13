@@ -2709,6 +2709,18 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Kansas Primary Election
+data {
+  nid: 10249
+  election_id: 4482
+  title: "Kansas Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-20-State-of-Kansas-2018-08-07.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+
 ##lowest nid: -1041
 ##highest nid: 10250
 ##highest election_id: 4554
