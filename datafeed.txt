@@ -2742,6 +2742,17 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Minnesota Primary Election
+data {
+  nid: 10252
+  election_id: 4489
+  title: "Minnesota Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-27-State-of-Minnesota-2018-08-14.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
 ##highest nid: 10253
 ##highest election_id: 4555
