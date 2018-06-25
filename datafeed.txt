@@ -2786,6 +2786,17 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Georgia Primary Runoff Election
+data {
+  nid: 10259
+  election_id: 4480
+  title: "Georgia Primary Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-13-Georgia-2018-07-24.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
 ##highest nid: 10257
 ##highest election_id: 4556
