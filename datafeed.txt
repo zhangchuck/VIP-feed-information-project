@@ -2819,6 +2819,18 @@ data {
   user: "franklin@democracy.works"
 }
 
+
+## Washington Primary Election
+data {
+  nid: 10256
+  election_id: 4485
+  title: "Washington Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-53-Washington-2018-08-07.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
 ##lowest nid: -1041
 ##highest nid: 10260
 ##highest election_id: 4556
