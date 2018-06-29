@@ -2808,8 +2808,19 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Alabama Primary Runoff Election
+data {
+  nid: 10260
+  election_id: 4478
+  title: "Alabama Primary Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-01-State-of-ALABAMA-2018-07-17.zip"
+  division_id: "ocd-division/country:us/state:al"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10258
+##highest nid: 10260
 ##highest election_id: 4556
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
