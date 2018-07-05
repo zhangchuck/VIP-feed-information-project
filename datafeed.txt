@@ -2736,7 +2736,7 @@ data {
   nid: 10253
   election_id: 4491
   title: "Vermont Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-50-VERMONT-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-50-VERMONT-2018-08-14.zip"
   division_id: "ocd-division/country:us/state:vt"
   vip_version: "5.1"
   user: "franklin@democracy.works"
