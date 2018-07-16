@@ -2886,10 +2886,32 @@ data {
   user: "robert@democracy.works"
 }
 
+## Hawaii Primary Election
+data {
+  nid: 10263
+  election_id: 4486
+  title: "Hawaii Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-15-Hawaii-2018-08-07.zip"
+  division_id: "ocd-division/country:us/state:hi"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
+## Missouri Primary Election
+data {
+  nid: 10267
+  election_id: 4484
+  title: "Missouri Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-29-STATE-OF-MISSOURI-2018-08-07.zip"
+  division_id: "ocd-division/country:us/state:mo"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
 
 
 ##lowest nid: -1041
-##highest nid: 10266
+##highest nid: 10267
 ##highest election_id: 4556
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
