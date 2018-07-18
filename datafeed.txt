@@ -1,5 +1,15 @@
 ## Datafeed for test election 2000
 
+## Hawaii 2016
+data {
+  nid: 10268
+  election_id: 2000
+  title: "Hawaii General 2016"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-15-Hawaii-2016-11-08.zip"
+  is_test_election: true
+  user: "franklin@democracy.works"
+}
+
 ## South Carolina
 data {
   nid: 3020
