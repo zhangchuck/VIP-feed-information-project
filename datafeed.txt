@@ -2863,15 +2863,15 @@ data {
 }
 
 ## Ohio 12th Congressional District Special Election
-##data {
-##  nid: 10261
-##  election_id: 4481
-##  title: "Ohio 12th Congressional District Special Election"
-##  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39-Ohio-2018-08-07.zip"
-##  division_id: "ocd-division/country:us/state:oh/cd:12"
-##  vip_version: "5.1"
-##  user: "kendall@democracy.works"
-##}
+data {
+  nid: 10261
+  election_id: 4481
+  title: "Ohio 12th Congressional District Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39-Ohio-2018-08-07.zip"
+  division_id: "ocd-division/country:us/state:oh/cd:12"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
 
 ## Florida Primary Election - Orange County
 data {
