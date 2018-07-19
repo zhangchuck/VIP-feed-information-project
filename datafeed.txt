@@ -5,7 +5,7 @@ data {
   nid: 10269
   election_id: 2000
   title: "Missouri General 2016"
-  feed_url: "https://s3.amazonaws.com/2016-official/vipfeed-29-STATE-OF-MISSOURI-2016-11-08.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-29-STATE-OF-MISSOURI-2016-11-08.zip"
   is_test_election: true
   user: "franklin@democracy.works"
 }
