@@ -2965,11 +2965,22 @@ data {
 
 ## Oklahoma Primary Runoff Election
 data {
-  nid: 4498
-  election_id: 10272
+  nid: 10272
+  election_id: 4498
   title: "Oklahoma Primary Runoff Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-40-OKLAHOMA-2018-08-28.zip"
   division_id: "ocd-division/country:us/state:ok"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
+## Delaware Primary Election
+data {
+  nid: 10274
+  election_id: 4499
+  title: "Delaware Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-10-DELAWARE-2018-09-06.zip"
+  division_id: "ocd-division/country:us/state:de"
   vip_version: "3.0"
   user: "kendall@democracy.works"
 }
