@@ -2994,6 +2994,7 @@ data {
   division_id: "ocd-division/country:us/state:vt"
   vip_version: "5.1"
   user: "sarah@democracy.works"
+  }
 
 
 ##lowest nid: -1041
