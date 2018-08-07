@@ -3007,9 +3007,20 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Rhode Island Primary Election
+data {
+  nid: 10277
+  election_id: 4501
+  title: "Rhode Island Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-44-Rhode-Island-2018-09-12.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  vip_version: "3.0"
+  user: "kendall@democracy.works"
+}
+
 
 ##lowest nid: -1041
-##highest nid: 10276
+##highest nid: 10277
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
