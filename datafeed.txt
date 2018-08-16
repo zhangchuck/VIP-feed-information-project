@@ -3029,8 +3029,19 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Massachusetts Primary Election
+data {
+  nid: 10280
+  election_id: 4503
+  title: "Massachusetts Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-25-Massachusetts-2018-09-04.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1041
-##highest nid: 10278
+##highest nid: 10280
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
