@@ -1669,13 +1669,13 @@ data {
 }
 
 ## Delaware General Election  
-data {
-  nid: 10152
-  election_id: 6000
-  title: "Delaware General Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-10-DELAWARE-2018-11-06.zip"
-  division_id: "ocd-division/country:us/state:de"
-  user: "kendall@democracy.works"
+## data {
+  ## nid: 10152
+  ## election_id: 6000
+  ## title: "Delaware General Election"
+  ## feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-10-DELAWARE-2018-11-06.zip"
+  ## division_id: "ocd-division/country:us/state:de"
+  ## user: "kendall@democracy.works"
 }
 
 ## Brownsville Navigation Election (Cameron County)
