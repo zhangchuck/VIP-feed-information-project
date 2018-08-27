@@ -3073,7 +3073,62 @@ data {
   user: "franklin@democracy.works"
 }
 
-##lowest nid: -1041
+## Hawaii Early Voting
+data {
+  nid: -1042
+  election_id: 6000
+  title: "Hawaii Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-15-Hawaii-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:hi"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Minnesota Early Voting
+data {
+  nid: -1043
+  election_id: 6000
+  title: "Minnesota Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-27-Minnesota-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## South Dakota Early Voting
+data {
+  nid: -1044
+  election_id: 6000
+  title: "South Dakota Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-46-South-Dakota-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:sd"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Vermont Early Voting
+data {
+  nid: -1045
+  election_id: 6000
+  title: "Vermont Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-50-Vermont-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:vt"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Wyoming Early Voting
+data {
+  nid: -1046
+  election_id: 6000
+  title: "Wyoming Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-56-Wyoming-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:wy"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+##lowest nid: -1046
 ##highest nid: 10282
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
