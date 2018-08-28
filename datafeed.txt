@@ -3081,6 +3081,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-15-Hawaii-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:hi"
   vip_version: "5.1"
+  isOcdIdEarlyVote: "true"
   user: "franklin@democracy.works"
 }
 
@@ -3092,6 +3093,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-27-Minnesota-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:mn"
   vip_version: "5.1"
+  isOcdIdEarlyVote: "true"
   user: "franklin@democracy.works"
 }
 
@@ -3103,6 +3105,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-46-South-Dakota-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:sd"
   vip_version: "5.1"
+  isOcdIdEarlyVote: "true"
   user: "franklin@democracy.works"
 }
 
@@ -3114,6 +3117,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-50-Vermont-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:vt"
   vip_version: "5.1"
+  isOcdIdEarlyVote: "true"
   user: "franklin@democracy.works"
 }
 
@@ -3125,6 +3129,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-56-Wyoming-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:wy"
   vip_version: "5.1"
+  isOcdIdEarlyVote: "true"
   user: "franklin@democracy.works"
 }
 
