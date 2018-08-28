@@ -3147,7 +3147,7 @@ data {
 
 ## Montana Early Voting
 data {
-  nid: -1047
+  nid: -1048
   election_id: 6000
   title: "Montana Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30-Montana-2018-11-06.zip"
@@ -3157,7 +3157,7 @@ data {
   user: "kendall@democracy.works"
 }
 
-##lowest nid: -1046
+##lowest nid: -1048
 ##highest nid: 10282
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
