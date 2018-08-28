@@ -3081,7 +3081,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-15-Hawaii-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:hi"
   vip_version: "5.1"
-  isOcdIdEarlyVote: "true"
+  is_ocd_id_early_vote: true
   user: "franklin@democracy.works"
 }
 
@@ -3093,7 +3093,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-27-Minnesota-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:mn"
   vip_version: "5.1"
-  isOcdIdEarlyVote: "true"
+  is_ocd_id_early_vote: true
   user: "franklin@democracy.works"
 }
 
@@ -3105,7 +3105,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-46-South-Dakota-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:sd"
   vip_version: "5.1"
-  isOcdIdEarlyVote: "true"
+  is_ocd_id_early_vote: true
   user: "franklin@democracy.works"
 }
 
@@ -3117,7 +3117,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-50-Vermont-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:vt"
   vip_version: "5.1"
-  isOcdIdEarlyVote: "true"
+  is_ocd_id_early_vote: true
   user: "franklin@democracy.works"
 }
 
@@ -3129,8 +3129,32 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-56-Wyoming-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:wy"
   vip_version: "5.1"
-  isOcdIdEarlyVote: "true"
+  is_ocd_id_early_vote: true
   user: "franklin@democracy.works"
+}
+
+## Ohio Early Voting
+data {
+  nid: -1047
+  election_id: 6000
+  title: "Ohio Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-39-Ohio-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## Montana Early Voting
+data {
+  nid: -1047
+  election_id: 6000
+  title: "Montana Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30-Montana-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
 }
 
 ##lowest nid: -1046
