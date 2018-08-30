@@ -3222,13 +3222,25 @@ data {
   election_id: 6000
   title: "Washington Early Voting"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-53-Washington-2018-11-06.zip"
-  division_id: "ocd-division/country:us/state:nm"
+  division_id: "ocd-division/country:us/state:wa"
   vip_version: "5.1"
   is_ocd_id_early_vote: true
   user: "kendall@democracy.works"
 }
 
-##lowest nid: -1053
+## North Dakota Early Voting
+data {
+  nid: -1054
+  election_id: 6000
+  title: "North Dakota Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-38-North-Dakota-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:nd"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+##lowest nid: -1054
 ##highest nid: 10285
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
