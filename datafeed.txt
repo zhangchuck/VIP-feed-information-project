@@ -3168,7 +3168,55 @@ data {
   user: "robert@democracy.works"
 }
 
-##lowest nid: -1048
+## Nevada Early Voting
+data {
+  nid: -1049
+  election_id: 6000
+  title: "Nevada Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-32-Nevada-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:nv"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## California Early Voting
+data {
+  nid: -1050
+  election_id: 6000
+  title: "California Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-06-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## Maine Early Voting
+data {
+  nid: -1051
+  election_id: 6000
+  title: "Maine Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-23-Maine-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:me"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## New Mexico Early Voting
+data {
+  nid: -1052
+  election_id: 6000
+  title: "New Mexico Early Voting"
+  feed_url: "	https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-35-New-Mexico-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:nm"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+##lowest nid: -1052
 ##highest nid: 10285
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
