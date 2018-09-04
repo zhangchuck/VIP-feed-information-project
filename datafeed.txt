@@ -3264,8 +3264,30 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Georgia General Election
+data {
+  nid: 10286
+  election_id: 6000
+  title: "Georgia General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-13-Georgia-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ga"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Kansas General Election
+data {
+  nid: 10287
+  election_id: 6000
+  title: "Kansas General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-20-State-of-Kansas-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1056
-##highest nid: 10285
+##highest nid: 10287
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
