@@ -3308,8 +3308,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Erie County, NY Primary Election
+data {
+  nid: 10345
+  election_id: 4502
+  title: "Erie County, NY Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-36001-New-York-2018-09-13.zip"
+  division_id: "ocd-division/country:us/state:ny"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1056
-##highest nid: 10344
+##highest nid: 10345
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
