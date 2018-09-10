@@ -3397,6 +3397,28 @@ data {
   user: "sarah@democracy.works"
 }
 
+## California Primary Election - Inyo County
+data {
+  nid: 10301
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06027-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Sonoma County
+data {
+  nid: 10335
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06097-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1057
 ##highest nid: 10349
 ##highest election_id: 4557
