@@ -3419,6 +3419,18 @@ data {
   user: "sarah@democracy.works"
 }
 
+## California General Election - Imperial County
+data {
+  nid: 10300
+  election_id: 6000
+  title: "California General Election - Imperial County"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06025-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
+
 ##lowest nid: -1057
 ##highest nid: 10349
 ##highest election_id: 4557
