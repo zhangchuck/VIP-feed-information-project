@@ -3430,9 +3430,30 @@ data {
   user: "robert@democracy.works"
 }
 
+## Illinois General Election (Chicago)
+data {
+  nid: 10352
+  election_id: 6000
+  title: "Illinois General Election (Chicago)"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17001-Illinois-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:il"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Utah General Election
+data {
+  nid: 10353
+  election_id: 6000
+  title: "Utah General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-49-Utah-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 
 ##lowest nid: -1057
-##highest nid: 10349
+##highest nid: 10353
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
