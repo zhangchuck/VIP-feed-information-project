@@ -3485,6 +3485,61 @@ data {
   user: "robert@democracy.works"
 }
 
+## California Primary Election - Calaveras County
+data {
+  nid: 10292
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06009-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Humboldt County
+data {
+  nid: 10299
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06023-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Shasta County
+data {
+  nid: 10331
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06089-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Yuba County
+data {
+  nid: 10344
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06115-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Tehama County
+data {
+  nid: 10338
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06103-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1057
 ##highest nid: 10353
 ##highest election_id: 4557
