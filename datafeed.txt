@@ -3552,6 +3552,18 @@ data {
   user: "kendall@democracy.works"
 }
 
+## California Primary Election - Sierra County
+data {
+  nid: 10332
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06091-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+
 ##lowest nid: -1058
 ##highest nid: 10353
 ##highest election_id: 4557
