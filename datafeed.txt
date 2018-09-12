@@ -3574,6 +3574,16 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Kentucky General Election
+data {
+  nid: 10351
+  election_id: 6000
+  title: "Kentucky General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-21-KENTUCKY-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ky"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
 
 ##lowest nid: -1058
 ##highest nid: 10354
