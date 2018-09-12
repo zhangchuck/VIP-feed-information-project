@@ -3664,6 +3664,30 @@ data {
   user: "robert@democracy.works"
 }
 
+## Florida Early Voting
+data {
+  nid: -1061
+  election_id: 6000
+  title: "Florida Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-12-Florida-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+
+## Louisiana Early Voting
+data {
+  nid: -1062
+  election_id: 6000
+  title: "Louisiana Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-22-Louisiana-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
 
 ##lowest nid: -1060
 ##highest nid: 10357
