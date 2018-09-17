@@ -3745,6 +3745,17 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Illinois General Election
+data {
+  nid: 10350
+  election_id: 6000
+  title: "Illinois General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-17-Illinois-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:il"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1063
 ##highest nid: 10358
 ##highest election_id: 4557
