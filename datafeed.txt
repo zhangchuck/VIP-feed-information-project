@@ -3854,7 +3854,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-33000-New-Hampshire-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:nh"
   vip_version: "5.1"
-  user: "sarah@democracy.works"
+  user: "kendall@democracy.works"
 }
 
 ##lowest nid: -1067
