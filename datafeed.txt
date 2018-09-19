@@ -3857,6 +3857,39 @@ data {
   user: "kendall@democracy.works"
 }
 
+## California Primary Election - Contra Costa County
+data {
+  nid: 10294
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06013-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Glenn County
+data {
+  nid: 10298
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06021-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
+## California Primary Election - Sutter County
+data {
+  nid: 10337
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06101-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1067
 ##highest nid: 10360
 ##highest election_id: 4557
