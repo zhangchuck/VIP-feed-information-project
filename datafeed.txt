@@ -3890,7 +3890,55 @@ data {
   user: "sarah@democracy.works"
 }
 
-##lowest nid: -1067
+## Utah Early Voting
+data {
+  nid: -1068
+  election_id: 6000
+  title: "Utah Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-49-Utah-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## Indiana Early Voting
+data {
+  nid: -1069
+  election_id: 6000
+  title: "Indiana Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-18-Indiana-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:in"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## Kansas Early Voting
+data {
+  nid: -1070
+  election_id: 6000
+  title: "Kansas Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-20-Kansas-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ks"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+## Arkansas Early Voting
+data {
+  nid: -1071
+  election_id: 6000
+  title: "Arkansas Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-05-Arkansas-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+##lowest nid: -1071
 ##highest nid: 10360
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
