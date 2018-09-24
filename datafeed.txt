@@ -4003,11 +4003,11 @@ data {
   user: "franklin@democracy.works"
 }
 
-## Florida General Election - Sarasota County
+## Florida General Election - Palm Beach County
 data {
   nid: 10365
   election_id: 6000
-  title: "Florida General Election - Sarasota County"
+  title: "Florida General Election - Palm Beach County"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-12099-Florida-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:fl"
   vip_version: "3.0"
