@@ -3992,6 +3992,17 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Connecticut General Election
+data {
+  nid: 10361
+  election_id: 6000
+  title: "Connecticut General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-09-Connecticut-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ct"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1071
 ##highest nid: 10364
 ##highest election_id: 4557
