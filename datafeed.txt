@@ -4113,6 +4113,28 @@ data {
   user: "sarah@democracy.works"
 }
 
+## California General Election - Yolo County
+data {
+  nid: 10333
+  election_id: 6000
+  title: "California General Election - Yolo County"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06113-CALIFORNIA-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
+## California General Election - Mendocino County
+data {
+  nid: 10343
+  election_id: 6000
+  title: "California General Election - Mendocino County"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06045-CALIFORNIA-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1071
 ##highest nid: 10365
 ##highest election_id: 4557
