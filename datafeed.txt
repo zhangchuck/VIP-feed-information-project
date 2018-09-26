@@ -4257,6 +4257,17 @@ data {
   user: "sarah@democracy.works"
 }
 
+## California Primary Election - Colusa County
+data {
+  nid: 10293
+  election_id: 6000
+  title: "California General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06011-California-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1072
 ##highest nid: 10370
 ##highest election_id: 4557
