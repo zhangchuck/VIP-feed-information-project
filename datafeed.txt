@@ -4323,8 +4323,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Texas General Election - PCC Feed
+data {
+  nid: 10373
+  election_id: 6000
+  title: "Texas General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-48002-Texas-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1072
-##highest nid: 10371
+##highest nid: 10373
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
