@@ -1668,7 +1668,7 @@ data {
   user: "kendall@democracy.works"
 }
 
- Delaware General Election  
+## Delaware General Election  
  data {
    nid: 10152
    election_id: 6000
