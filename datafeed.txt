@@ -4170,15 +4170,48 @@ data {
 }
 
 ## Ohio General Election
-##data {
-##  nid: 10366
-##  election_id: 6000
-##  title: "Ohio General Election"
-##  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39-Ohio-2018-11-06.zip"
-##  division_id: "ocd-division/country:us/state:oh"
-##  vip_version: "5.1"
-##  user: "franklin@democracy.works"
-##}
+data {
+  nid: 10366
+  election_id: 6000
+  title: "Ohio General Election 1 of 4"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39001-Ohio-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Ohio General Election
+data {
+  nid: 10375
+  election_id: 6000
+  title: "Ohio General Election 2 of 4"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39002-Ohio-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Ohio General Election
+data {
+  nid: 10376
+  election_id: 6000
+  title: "Ohio General Election 3 of 4"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39003-Ohio-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Ohio General Election
+data {
+  nid: 10377
+  election_id: 6000
+  title: "Ohio General Election 4 of 4"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-39004-Ohio-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:oh"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
 
 ## Washington General Election
 data {
