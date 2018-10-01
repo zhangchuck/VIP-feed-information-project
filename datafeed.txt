@@ -4367,6 +4367,28 @@ data {
   user: "sarah@democracy.works"
 }
 
+## California General Election - Alameda County
+data {
+  nid: 10288
+  election_id: 6000
+  title: "California General Election - Alameda County"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06001-CALIFORNIA-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
+## Florida General Election - Orange County
+data {
+  nid: 10379
+  election_id: 6000
+  title: "Florida General Election - Orange County"
+  feed_url: https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-12095-Florida-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1072
 ##highest nid: 10373
 ##highest election_id: 4557
