@@ -4400,6 +4400,18 @@ data {
   vip_version: "5.1"
   user: "franklin@democracy.works"
 }
+
+## Michigan General Election
+data {
+  nid: 10378
+  election_id: 6000
+  title: "Michigan General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-26-MICHIGAN-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1072
 ##highest nid: 10381
 ##highest election_id: 4557
