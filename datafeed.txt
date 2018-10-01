@@ -2721,7 +2721,7 @@ data {
 ## Louisiana Primary Election
 data {
   nid: 10250
-  election_id: 4533
+  election_id: 6000
   title: "Louisiana Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:la"
