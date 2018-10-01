@@ -2720,7 +2720,7 @@ data {
 
 ## Louisiana Primary Election
 data {
-  nid: 10250
+  nid: 10380
   election_id: 6000
   title: "Louisiana Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2018-11-06.zip"
@@ -4389,8 +4389,19 @@ data {
   user: "robert@democracy.works"
 }
 
+
+## Alaska General Election
+data {
+  nid: 10381
+  election_id: 6000
+  title: "Alaska General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-02-Alaska-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ak"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
 ##lowest nid: -1072
-##highest nid: 10379
+##highest nid: 10381
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
