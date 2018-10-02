@@ -4412,8 +4412,30 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Arkansas General Election
+data {
+  nid: 10383
+  election_id: 6000
+  title: "Arkansas General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-05-State-of-Arkansas-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
+## Hawaii General Election
+data {
+  nid: 10382
+  election_id: 6000
+  title: "Hawaii General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-15-Hawaii-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:hi"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1072
-##highest nid: 10381
+##highest nid: 10383
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
