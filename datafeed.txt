@@ -3397,7 +3397,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Inyo County
+## California General Election - Inyo County
 data {
   nid: 10301
   election_id: 6000
@@ -3408,7 +3408,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Sonoma County
+## California General Election - Sonoma County
 data {
   nid: 10335
   election_id: 6000
@@ -3485,7 +3485,7 @@ data {
   user: "robert@democracy.works"
 }
 
-## California Primary Election - Calaveras County
+## California General Election - Calaveras County
 data {
   nid: 10292
   election_id: 6000
@@ -3496,7 +3496,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Humboldt County
+## California General Election - Humboldt County
 data {
   nid: 10299
   election_id: 6000
@@ -3507,7 +3507,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Shasta County
+## California General Election - Shasta County
 data {
   nid: 10331
   election_id: 6000
@@ -3518,7 +3518,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Yuba County
+## California General Election - Yuba County
 data {
   nid: 10344
   election_id: 6000
@@ -3529,7 +3529,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Tehama County
+## California General Election - Tehama County
 data {
   nid: 10338
   election_id: 6000
@@ -3552,7 +3552,7 @@ data {
   user: "kendall@democracy.works"
 }
 
-## California Primary Election - Sierra County
+## California General Election - Sierra County
 data {
   nid: 10332
   election_id: 6000
@@ -3609,7 +3609,7 @@ data {
   user: "kendall@democracy.works"
 }
 
-## California Primary Election - Butte County
+## California General Election - Butte County
 data {
   nid: 10291
   election_id: 6000
@@ -3620,7 +3620,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Fresno County
+## California General Election - Fresno County
 data {
   nid: 10297
   election_id: 6000
@@ -3631,7 +3631,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Kern County
+## California General Election - Kern County
 data {
   nid: 10302
   election_id: 6000
@@ -3642,7 +3642,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Merced County
+## California General Election - Merced County
 data {
   nid: 10310
   election_id: 6000
@@ -3767,7 +3767,7 @@ data {
   user: "robert@democracy.works"
 }
 
-## California Primary Election - El Dorado County
+## California General Election - El Dorado County
 data {
   nid: 10296
   election_id: 6000
@@ -3778,7 +3778,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Santa Cruz County
+## California General Election - Santa Cruz County
 data {
   nid: 10330
   election_id: 6000
@@ -3789,7 +3789,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Ventura County
+## California General Election - Ventura County
 data {
   nid: 10342
   election_id: 6000
@@ -3800,7 +3800,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Santa Barbara County
+## California General Election - Santa Barbara County
 data {
   nid: 10328
   election_id: 6000
@@ -3857,7 +3857,7 @@ data {
   user: "kendall@democracy.works"
 }
 
-## California Primary Election - Contra Costa County
+## California General Election - Contra Costa County
 data {
   nid: 10294
   election_id: 6000
@@ -3868,7 +3868,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Glenn County
+## California General Election - Glenn County
 data {
   nid: 10298
   election_id: 6000
@@ -3879,7 +3879,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Sutter County
+## California General Election - Sutter County
 data {
   nid: 10337
   election_id: 6000
@@ -3949,7 +3949,7 @@ data {
   user: "robert@democracy.works"
 }
 
-## California Primary Election - Tulare County
+## California General Election - Tulare County
 data {
   nid: 10340
   election_id: 6000
@@ -4036,7 +4036,7 @@ data {
   user: "robert@democracy.works"
 }
 
-## California Primary Election - Madera County
+## California General Election - Madera County
 data {
   nid: 10306
   election_id: 6000
@@ -4047,7 +4047,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Napa County
+## California General Election - Napa County
 data {
   nid: 10314
   election_id: 6000
@@ -4058,7 +4058,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Nevada County
+## California General Election - Nevada County
 data {
   nid: 10315
   election_id: 6000
@@ -4069,7 +4069,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Monterey County
+## California General Election - Monterey County
 data {
   nid: 10313
   election_id: 6000
@@ -4080,7 +4080,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Santa Clara County
+## California General Election - Santa Clara County
 data {
   nid: 10329
   election_id: 6000
@@ -4091,7 +4091,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - San Francisco County
+## California General Election - San Francisco County
 data {
   nid: 10324
   election_id: 6000
@@ -4102,7 +4102,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Riverside County
+## California General Election - Riverside County
 data {
   nid: 10319
   election_id: 6000
@@ -4147,7 +4147,7 @@ data {
   user: "kendall@democracy.works"
 }
 
-## California Primary Election - Lake County
+## California General Election - Lake County
 data {
   nid: 10304
   election_id: 6000
@@ -4268,7 +4268,7 @@ data {
   user: "franklin@democracy.works"
 }
 
-## California Primary Election - Orange County
+## California General Election - Orange County
 data {
   nid: 10316
   election_id: 6000
@@ -4279,7 +4279,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Lassen County
+## California General Election - Lassen County
 data {
   nid: 10305
   election_id: 6000
@@ -4290,7 +4290,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Colusa County
+## California General Election - Colusa County
 data {
   nid: 10293
   election_id: 6000
@@ -4323,7 +4323,7 @@ data {
   user: "franklin@democracy.works"
 }
 
-## California Primary Election - Mono County
+## California General Election - Mono County
 data {
   nid: 10312
   election_id: 6000
@@ -4334,7 +4334,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - San Mateo County
+## California General Election - San Mateo County
 data {
   nid: 10327
   election_id: 6000
@@ -4345,7 +4345,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Sacramento County
+## California General Election - Sacramento County
 data {
   nid: 10320
   election_id: 6000
@@ -4445,7 +4445,7 @@ data {
   user: "robert@democracy.works"
 }
 
-## California Primary Election - San Joaquin County
+## California General Election - San Joaquin County
 data {
   nid: 10325
   election_id: 6000
@@ -4456,7 +4456,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - San Benito County
+## California General Election - San Benito County
 data {
   nid: 10321
   election_id: 6000
@@ -4467,7 +4467,7 @@ data {
   user: "sarah@democracy.works"
 }
 
-## California Primary Election - Mariposa County
+## California General Election - Mariposa County
 data {
   nid: 10308
   election_id: 6000
@@ -4478,8 +4478,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Arizona General Election - state feed
+data {
+  nid: 10384
+  election_id: 6000
+  title: "Arizona General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-04-ARIZONA-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:az"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1072
-##highest nid: 10383
+##highest nid: 10384
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
