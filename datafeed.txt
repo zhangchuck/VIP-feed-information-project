@@ -4500,7 +4500,20 @@ data {
   user: "sarah@democracy.works"
 }
 
-##lowest nid: -1072
+
+## Tennessee Early Voting
+data {
+  nid: -1073
+  election_id: 6000
+  title: "Tennessee Early Voting"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-47-Tennessee-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:tn"
+  vip_version: "5.1"
+  is_ocd_id_early_vote: true
+  user: "kendall@democracy.works"
+}
+
+##lowest nid: -1073
 ##highest nid: 10384
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
