@@ -4546,9 +4546,19 @@ data {
   user: "kendall@democracy.works"
 }
 
+## New Jersey General Election
+data {
+  nid: 10386
+  election_id: 6000
+  title: "New Jersey General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-34-New-Jersey-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:nj"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
 
 ##lowest nid: -1076
-##highest nid: 10384
+##highest nid: 10386
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
