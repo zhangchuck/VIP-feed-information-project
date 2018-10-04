@@ -4500,7 +4500,6 @@ data {
   user: "sarah@democracy.works"
 }
 
-
 ## Tennessee Early Voting
 data {
   nid: -1073
@@ -4523,6 +4522,17 @@ data {
   vip_version: "5.1"
   is_ocd_id_early_vote: true
   user: "kendall@democracy.works"
+}
+
+## Montana General Election
+data {
+  nid: -1075
+  election_id: 6000
+  title: "Michigan General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30000-Montana-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:mt"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
 }
 
 ##lowest nid: -1074
