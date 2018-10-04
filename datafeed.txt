@@ -4532,10 +4532,22 @@ data {
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-30000-Montana-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:mt"
   vip_version: "5.1"
-  user: "franklin@democracy.works"
+  user: "kendall@democracy.works"
 }
 
-##lowest nid: -1074
+## Pima County General Election
+data {
+  nid: -1076
+  election_id: 6000
+  title: "Pima County General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-04000-Arizona-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:az"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
+
+##lowest nid: -1076
 ##highest nid: 10384
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
