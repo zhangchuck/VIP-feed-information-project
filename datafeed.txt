@@ -4689,7 +4689,6 @@ data {
   user: "franklin@democracy.works"
 }
 
-
 ## New York General Election
 data {
   nid: 10393
@@ -4701,7 +4700,30 @@ data {
   user: "franklin@democracy.works"
 }
 
-##lowest nid: -1077
+## Tennessee General Election
+data {
+  nid: -1078
+  election_id: 6000
+  title: "Tennessee General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-47000-Tennessee-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:tn"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
+## Texas General Election
+data {
+  nid: -1079
+  election_id: 6000
+  title: "Texas General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48000-Texas-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:tx"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
+
+##lowest nid: -1079
 ##highest nid: 10393
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
