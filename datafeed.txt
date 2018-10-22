@@ -4711,17 +4711,6 @@ data {
   user: "kendall@democracy.works"
 }
 
-## Texas General Election
-data {
-  nid: -1079
-  election_id: 6000
-  title: "Texas General Election"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-48000-Texas-2018-11-06.zip"
-  division_id: "ocd-division/country:us/state:tx"
-  vip_version: "5.1"
-  user: "kendall@democracy.works"
-}
-
 ## Massachusetts Early Voting
 data {
   nid: -1080
