@@ -4756,7 +4756,19 @@ data {
   user: "franklin@democracy.works"
 }
 
-##lowest nid: -1080
+## Maine General Election
+data {
+  nid: -1081
+  election_id: 6000
+  title: "Maine General Election"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-23000-Maine-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:me"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
+
+
+##lowest nid: -1081
 ##highest nid: 10394
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
