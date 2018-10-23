@@ -4767,8 +4767,18 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Florida General Election - Unofficial Feed
+data {
+  nid: -1082
+  election_id: 6000
+  title: "Florida General Election - Unofficial Feed"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-12000-Florida-2018-11-06.zip"
+  division_id: "ocd-division/country:us/state:fl"
+  vip_version: "5.1"
+  user: "kendall@democracy.works"
+}
 
-##lowest nid: -1081
+##lowest nid: -1082
 ##highest nid: 10394
 ##highest election_id: 4557
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
