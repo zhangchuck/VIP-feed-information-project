@@ -4778,6 +4778,17 @@ data {
   user: "kendall@democracy.works"
 }
 
+## Louisiana General Election
+data {
+  nid: 10108
+  election_id: 4534
+  title: "Louisiana General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2018-12-08.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10395
 ##highest election_id: 4557
