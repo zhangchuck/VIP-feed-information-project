@@ -4811,6 +4811,17 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Arkansas General Runoff Election
+data {
+  nid: 10398
+  election_id: 4504
+  title: "Arkansas General Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-05-State-of-Arkansas-2018-12-04.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  vip_version: "3.0"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10397
 ##highest election_id: 4559
