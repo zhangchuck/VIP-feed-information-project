@@ -4822,6 +4822,17 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Louisiana Special Election
+data {
+  nid: 10399
+  election_id: 4560
+  title: "Louisiana Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2019-01-12.zip"
+  division_id: "ocd-division/country:us/state:la"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10397
 ##highest election_id: 4559
