@@ -4900,6 +4900,16 @@ data {
   user: "franklin@democracy.works"
 }
 
+## 5.1 SAMPLE FEED
+data {
+  nid: 10406
+  election_id: 2000
+  title: "5.1 SAMPLE FEED"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-51-Virginia-2016-11-08.zip"
+  division_id: "ocd-division/country:us/state:va"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
 
 ##lowest nid: -1082
 ##highest nid: 10404
