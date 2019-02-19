@@ -922,15 +922,15 @@ data {
 }
 
 ## Municipal Primary Election in Ohio (test election)
-data {
-  nid: 10006
-  election_id: 4102
-  title: "Municipal Primary Election in Ohio"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-39-Ohio-2018-11-06.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "franklin@democracy.works"
-}
+##data {
+##  nid: 10006
+##  election_id: 4102
+##  title: "Municipal Primary Election in Ohio"
+##  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-39-Ohio-2018-11-06.zip"
+##  division_id: "ocd-division/country:us/state:oh"
+##  vip_version: "5.1"
+##  user: "franklin@democracy.works"
+##}
 
 ## WA test precinct splits
 data {
