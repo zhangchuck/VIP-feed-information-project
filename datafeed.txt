@@ -5032,6 +5032,17 @@ data {
   user: "robert@democracy.works"
 }
 
+## (Los Angeles) California State Senate District 33 Election
+data {
+  nid: 10418
+  election_id: 4587
+  title: "California State Senate District 33 Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06037-California-2019-03-26.zip"
+  division_id: "ocd-division/country:us/state:ca/sldu:33"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10417
 ##highest election_id: 4793
