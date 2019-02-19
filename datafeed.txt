@@ -5027,7 +5027,7 @@ data {
   election_id: 4580
   title: "Orange County Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06059-California-2019-03-12.zip"
-  division_id: "ocd-division/country:us/state:ca/county:fresno"
+  division_id: "ocd-division/country:us/state:ca/county:orange"
   vip_version: "3.0"
   user: "robert@democracy.works"
 }
