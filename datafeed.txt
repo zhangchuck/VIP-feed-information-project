@@ -5098,8 +5098,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Washington Special Election
+data {
+  nid: 10424
+  election_id: 4596
+  title: "Washington Special Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-53-Washington-2019-04-23.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10423
+##highest nid: 10424
 ##highest election_id: 4793
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
