@@ -5136,7 +5136,7 @@ data {
 data {
   nid: 10427
   election_id: 4821
-  title: San Bernardino County Election"
+  title: "San Bernardino County Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-06071-CALIFORNIA-2019-05-07.zip"
   division_id: "ocd-division/country:us/state:ca/county:san_bernardino"
   vip_version: "3.0"
