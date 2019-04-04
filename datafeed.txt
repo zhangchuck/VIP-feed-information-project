@@ -5162,7 +5162,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2019-05-04.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
-  user: "sarah@democracy.works
+  user: "sarah@democracy.works"
   }
 
 
