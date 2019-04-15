@@ -5237,7 +5237,7 @@ data {
   election_id: 4823
   title: "9th Congressional District Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-37-North-Carolina-2019-05-14.zip"
-  division_id: "ocd-division/country:us/state:nc"
+  division_id: "ocd-division/country:us/state:nc/cd:9"
   vip_version: "5.1"
   user: "sarah@democracy.works"
 }
