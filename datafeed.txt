@@ -5341,8 +5341,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Woonsocket City Council Primary
+data {
+  nid: 10446
+  election_id: 4853
+  title: "Woonsocket City Council Primary"
+  feed_url: "https://data-suite-production-processed-feeds-20180119.s3.amazonaws.com/vipfeed-44-Rhode-Island-2019-07-02.zip"
+  division_id: "ocd-division/country:us/state:ri/place:woonsocket"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10445
+##highest nid: 10446
 ##highest election_id: 4821
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
