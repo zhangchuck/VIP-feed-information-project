@@ -5368,7 +5368,7 @@ data {
   nid: 10448
   election_id: 4828
   title: "Michigan August Consolidated Election"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-26-Michigan-2019-08-06.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-Michigan-2019-08-06.zip"
   division_id: "ocd-division/country:us/state:mi"
   vip_version: "5.1"
   user: "robert@democracy.works"
