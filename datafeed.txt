@@ -980,8 +980,18 @@ data {
 data {
   nid: 4197
   election_id: 4102
-  title: "5.1 SAMPLE FEED"
+  title: "Virginia Dem Primary"
   feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-51001-Virginia-2019-06-11.zip"
+  division_id: "ocd-division/country:us/state:va"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+data {
+  nid: 10451  
+  election_id: 4102
+  title: "Virginia Rep Primary"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-51002-Virginia-2019-06-11.zip"
   division_id: "ocd-division/country:us/state:va"
   vip_version: "5.1"
   user: "franklin@democracy.works"
