@@ -5417,8 +5417,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Los Angeles City Council District 12 Runoff Election
+data {
+  nid: 10453
+  election_id: 4834
+  title: "Los Angeles City Council District 12 Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-California-2019-08-13.zip"
+  division_id: "ocd-division/country:us/state:ca/county:los_angeles"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10452
+##highest nid: 10453
 ##highest election_id: 4821
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
