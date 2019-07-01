@@ -5450,8 +5450,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Utah Municipal Primary Election
+data {
+  nid: 10456
+  election_id: 4837
+  title: "Utah Municipal Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-49-Utah-2019-08-13.zip"
+  division_id: "ocd-division/country:us/state:ut"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10455
+##highest nid: 10456
 ##highest election_id: 4821
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
