@@ -932,12 +932,12 @@ data {
 ##  user: "franklin@democracy.works"
 ##}
 
-## WA test precinct splits
+## Washington 5.1 conversion
 data {
   nid: 10014
   election_id: 4102
-  title: "WA test precinct splits"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-WA-2017-10-01.zip"
+  title: "Washington 5.1 conversion"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-66-Washington-2018-11-06.zip"
   division_id: "ocd-division/country:us/state:wa"
   vip_version: "5.1"
   user: "franklin@democracy.works"
