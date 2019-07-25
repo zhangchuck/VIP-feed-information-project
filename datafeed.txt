@@ -5516,8 +5516,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Alabama State House District 42 Special Primary 
+data {
+  nid: 10462
+  election_id: 4856
+  title: "Alabama State House District 42 Special Primary "
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-01-State-of-ALABAMA-2019-08-20.zip"
+  division_id: "ocd-division/country:us/state:al/sldl:42"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10461
+##highest nid: 10462
 ##highest election_id: 4821
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
