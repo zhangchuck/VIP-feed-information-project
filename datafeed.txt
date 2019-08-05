@@ -5538,8 +5538,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## MN 5.1 conversion
+data {
+  nid: 10464
+  election_id: 4102
+  title: "MN 5.1 conversion"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-66-State-of-Minnesota-2019-08-13.zip"
+  division_id: "ocd-division/country:us/state:mn"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10463
+##highest nid: 10464
 ##highest election_id: 4821
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
