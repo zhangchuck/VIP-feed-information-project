@@ -5585,7 +5585,7 @@ data {
 ## Georgia Special Election
 data {
   nid: 10468
-  election_id: 4846
+  election_id: 4858
   title: "Georgia Special Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-13-Georgia-2019-09-03.zip"
   division_id: "ocd-division/country:us/state:ga/sldl:71"
