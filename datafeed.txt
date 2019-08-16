@@ -1354,7 +1354,7 @@ data {
   nid: 10041
   election_id: 4102
   title: "Louisiana Test Feed"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds-20180119/vipfeed-22-Louisiana-2018-03-17.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-Louisiana-2018-03-17.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "franklin@democracy.works"
