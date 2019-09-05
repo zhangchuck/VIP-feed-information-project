@@ -5637,8 +5637,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Pennsylvania General Election
+data {
+  nid: 10472
+  election_id: 4872
+  title: "Pennsylvania General Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-42-Pennsylvania-2019-11-05.zip"
+  division_id: "ocd-division/country:us/state:pa"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10471
+##highest nid: 10472
 ##highest election_id: 4821
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
