@@ -5528,15 +5528,15 @@ data {
 }
 
 ## North Carolina Primary Election
-data {
-  nid: 10463
-  election_id: 4845
-  title: "North Carolina Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-North-Carolina-2019-09-10.zip"
-  division_id: "ocd-division/country:us/state:nc"
-  vip_version: "5.1"
-  user: "robert@democracy.works"
-}
+##data {
+##  nid: 10463
+##  election_id: 4845
+##  title: "North Carolina Primary Election"
+##  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-North-Carolina-2019-09-10.zip"
+##  division_id: "ocd-division/country:us/state:nc"
+##  vip_version: "5.1"
+##  user: "robert@democracy.works"
+##}
 
 ## MN 5.1 conversion
 data {
