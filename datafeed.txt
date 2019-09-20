@@ -5846,8 +5846,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Rhode Island Local Elections (second feed)
+data {
+  nid: 10492
+  election_id: 4884
+  title: "Rhode Island Local Elections (second feed)"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44050-Rhode-Island-2019-11-05.zip"
+  division_id: "ocd-division/country:us/state:ri"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10491
+##highest nid: 10492
 ##highest election_id: 4859
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
