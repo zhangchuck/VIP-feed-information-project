@@ -5879,8 +5879,19 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Calaveras County Election
+data {
+  nid: 10495
+  election_id: 4864
+  title: "Calaveras County Election"
+  feed_url: "https://s3.amazonaws.com/ddata-suite-production-processed-feeds/vipfeed-06009-California-2019-11-05.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10494
+##highest nid: 10495
 ##highest election_id: 4859
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
