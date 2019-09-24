@@ -5884,7 +5884,7 @@ data {
   nid: 10495
   election_id: 4864
   title: "Calaveras County Election"
-  feed_url: "https://s3.amazonaws.com/ddata-suite-production-processed-feeds/vipfeed-06009-California-2019-11-05.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06009-California-2019-11-05.zip"
   division_id: "ocd-division/country:us/state:ca"
   vip_version: "3.0"
   user: "robert@democracy.works"
@@ -5895,7 +5895,7 @@ data {
   nid: 10496
   election_id: 4864
   title: "San Francisco County Election"
-  feed_url: "https://s3.amazonaws.com/ddata-suite-production-processed-feeds/vipfeed-06075-California-2019-11-05.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06075-California-2019-11-05.zip"
   division_id: "ocd-division/country:us/state:ca"
   vip_version: "3.0"
   user: "robert@democracy.works"
