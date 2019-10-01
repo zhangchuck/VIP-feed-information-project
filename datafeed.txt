@@ -6022,6 +6022,17 @@ data {
   user: "robert@democracy.works"
 }
 
+## Michigan November Consolidated Election
+data {
+  nid: 10482
+  election_id: 4860
+  title: "Michigan November Consolidated Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26-Michigan-2019-11-05.zip"
+  division_id: "ocd-division/country:us/state:mi"
+  vip_version: "5.1"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10507
 ##highest election_id: 4859
