@@ -6032,51 +6032,51 @@ data {
   vip_version: "5.1"
   user: "sarah@democracy.works"
 }
-"""
+
 ## Ohio General Election 1of4
-data {
-  nid: 10508
-  election_id: 4868
-  title: "Ohio General Election 1of4"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39001-Ohio-2019-NOV-5.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "sarah@demoracy.works"
-}
+#data {
+#  nid: 10508
+#  election_id: 4868
+#  title: "Ohio General Election 1of4"
+#  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39001-Ohio-2019-NOV-5.zip"
+#  division_id: "ocd-division/country:us/state:oh"
+#  vip_version: "5.1"
+#  user: "sarah@demoracy.works"
+#}
 
 ## Ohio General Election 2of4
-data {
-  nid: 10509
-  election_id: 4868
-  title: "Ohio General Election 2of4"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39002-Ohio-2019-NOV-5.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "sarah@demoracy.works"
-}
+#data {
+#  nid: 10509
+#  election_id: 4868
+#  title: "Ohio General Election 2of4"
+#  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39002-Ohio-2019-NOV-5.zip"
+#  division_id: "ocd-division/country:us/state:oh"
+#  vip_version: "5.1"
+#  user: "sarah@demoracy.works"
+#}
 
 ## Ohio General Election 3of4
-data {
-  nid: 10510
-  election_id: 4868
-  title: "Ohio General Election 3of4"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39003-Ohio-2019-NOV-5.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "sarah@democracy.works"
-}
+#data {
+#  nid: 10510
+#  election_id: 4868
+#  title: "Ohio General Election 3of4"
+#  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39003-Ohio-2019-NOV-5.zip"
+#  division_id: "ocd-division/country:us/state:oh"
+#  vip_version: "5.1"
+#  user: "sarah@democracy.works"
+#}
 
 ## Ohio General Election 4of4
-data {
-  nid: 10511
-  election_id: 4868
-  title: "Ohio General Election 4of4"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39004-Ohio-2019-NOV-5.zip"
-  division_id: "ocd-division/country:us/state:oh"
-  vip_version: "5.1"
-  user: "sarah@democracy.works"
-}
-"""
+#data {
+#  nid: 10511
+#  election_id: 4868
+#  title: "Ohio General Election 4of4"
+#  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-39004-Ohio-2019-NOV-5.zip"
+#  division_id: "ocd-division/country:us/state:oh"
+#  vip_version: "5.1"
+#  user: "sarah@democracy.works"
+#}
+
 
 ##lowest nid: -1082
 ##highest nid: 10511
