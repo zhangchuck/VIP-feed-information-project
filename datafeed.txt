@@ -5554,7 +5554,7 @@ data {
   nid: 10465
   election_id: 4850
   title: "Louisiana Gubernatorial Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-Louisiana-2019-10-12.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-Louisiana-2019-10-12_tohold.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "robert@democracy.works"
