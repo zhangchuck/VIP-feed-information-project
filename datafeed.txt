@@ -6478,7 +6478,7 @@ data {
   nid: 10554
   election_id: 4877
   title: "Massachusetts City Elections"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-24-Massachusetts-2019-11-05.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-Massachusetts-2019-11-05.zip"
   division_id: "ocd-division/country:us/state:ma"
   vip_version: "5.1"
   user: "sarah@democracy.works"
