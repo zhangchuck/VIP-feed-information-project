@@ -6539,6 +6539,18 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Harris County Joint Runoff Election
+data {
+  nid: 10560
+  election_id: 4889
+  title: "Harris County Joint Runoff Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48201-TEXAS-2019-12-14.zip"
+  division_id: "ocd-division/country:us/state:tx/county:harris"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
+
 ##lowest nid: -1082
 ##highest nid: 10560
 ##highest election_id: 4859
