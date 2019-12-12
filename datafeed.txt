@@ -6541,7 +6541,7 @@ data {
 
 ## Harris County Joint Runoff Election
 data {
-  nid: 10560
+  nid: 10561
   election_id: 4889
   title: "Harris County Joint Runoff Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48201-TEXAS-2019-12-14.zip"
@@ -6552,8 +6552,8 @@ data {
 
 
 ##lowest nid: -1082
-##highest nid: 10560
-##highest election_id: 4859
+##highest nid: 10561
+##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
 
