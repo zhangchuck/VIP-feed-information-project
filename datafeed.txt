@@ -5565,7 +5565,7 @@ data {
   nid: 10466
   election_id: 4102
   title: "LA test feed"
-  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-22-Louisiana-2019-11-14.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-22-Louisiana-2020-04-04.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "sarah@democracy.works"
