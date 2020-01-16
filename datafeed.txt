@@ -6947,8 +6947,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Arkansas Presidential and State Primary Election
+data {
+  nid: 10599
+  election_id: 4899
+  title: "Arkansas Presidential and State Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-05-State-of-Arkansas-2020-03-03.zip"
+  division_id: "ocd-division/country:us/state:ar"
+  vip_version: "3.0"
+  user: "sarah@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10598
+##highest nid: 10599
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
