@@ -6958,6 +6958,17 @@ data {
   user: "sarah@democracy.works"
 }
 
+## Kern County Presidential and State Primary Election
+data {
+  nid: 10600
+  election_id: 4900
+  title: "Kern County Presidential and State Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06029-California-2020-03-03.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ## Sonoma County Presidential and State Primary Election
 data {
   nid: 10601
