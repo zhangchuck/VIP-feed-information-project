@@ -6991,6 +6991,17 @@ data {
   user: "robert@democracy.works"
 }
 
+## Oklahoma Board of Education Primary Elections
+data {
+  nid: 10563
+  election_id: 4893
+  title: "Oklahoma Board of Education Primary Elections"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-OKLAHOMA-2020-02-11.zip"
+  division_id: "ocd-division/country:us/state:ok"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10602
 ##highest election_id: 4890
