@@ -7244,8 +7244,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Kentucky Presidential and State Primary Election
+data {
+  nid: 10625
+  election_id: 4960
+  title: "Kentucky Presidential and State Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-21-KENTUCKY-2020-05-19.zip"
+  division_id: "ocd-division/country:us/state:ky"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10624
+##highest nid: 10625
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
