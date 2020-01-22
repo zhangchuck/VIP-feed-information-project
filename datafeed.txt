@@ -7200,6 +7200,28 @@ data {
   user: "robert@democracy.works"
 }
 
+## Vermont Presidential Primary Election
+data {
+  nid: 10614
+  election_id: 4912
+  title: "Vermont Presidential Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50-VERMONT-2020-03-03.zip"
+  division_id: "ocd-division/country:us/state:vt"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
+## Vermont Presidential Primary Election
+data {
+  nid: 10613
+  election_id: 4912
+  title: "Vermont Presidential Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-50001-VERMONT-2020-03-03.zip"
+  division_id: "ocd-division/country:us/state:vt/place:burlington"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
 ##highest nid: 10622
 ##highest election_id: 4890
