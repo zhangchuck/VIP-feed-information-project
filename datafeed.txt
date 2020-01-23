@@ -7299,8 +7299,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## San Luis Obispo County Presidential and State Primary Election
+data {
+  nid: 10630
+  election_id: 4900
+  title: "San Luis Obispo County Presidential and State Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06079-California-2020-03-03.zip"
+  division_id: "ocd-division/country:us/state:ca"
+  vip_version: "3.0"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10629
+##highest nid: 10630
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
