@@ -7384,7 +7384,7 @@ data {
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06105-CALIFORNIA-2020-03-03.zip"
   division_id: "ocd-division/country:us/state:ca/county:trinity"
   vip_version: "3.0"
-  user: "sarah@democracy..works"
+  user: "sarah@democracy.works"
 }
 
 ##lowest nid: -1082
