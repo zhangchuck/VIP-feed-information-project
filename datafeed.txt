@@ -7673,8 +7673,19 @@ data {
   user: "franklin@democracy.works"
 }
 
+## Washington Special Election - Skamania
+data {
+  nid: 10666
+  election_id: 4895
+  title: "Washington Special Election - Skamania"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53059-Washington-2020-02-11.zip"
+  division_id: "ocd-division/country:us/state:wa/county:skamania"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10665
+##highest nid: 10666
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
