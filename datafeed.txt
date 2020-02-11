@@ -874,9 +874,10 @@ data {
   nid: 4160
   election_id: 4102
   title: "Michigan Primary Test"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-26001-2016-08-02.zip"
+  feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-26-03-10-2020.zip"
+  vip_version = "5.1"
   division_id: "ocd-division/country:us/state:mi"
-  user: "maria@democracy.works"
+  user: "franklin@democracy.works"
 }
 
 ## Jefferson County, TX Test
