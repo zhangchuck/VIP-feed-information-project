@@ -7834,7 +7834,7 @@ data {
   election_id: 4900
   title: "Alpine County Presidential and State Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06003-California-2020-03-03.zip"
-  division_id: "ocd-division/country:us/state:ca/county:alpine"
+  division_id: "ocd-division/country:us/state:ca"
   vip_version: "3.0"
   user: "kane@deemocracy.works"
 }
