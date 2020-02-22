@@ -7983,8 +7983,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Massachusetts Presidential Primary Election
+data {
+  nid: 10695
+  election_id: 4903
+  title: "Massachusetts Presidential Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-25-03-03-2020-MA.zip"
+  division_id: "ocd-division/country:us/state:ma"
+  vip_version: "5.1"
+  user: "franklin@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10694
+##highest nid: 10695
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
