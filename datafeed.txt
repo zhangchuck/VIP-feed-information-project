@@ -8016,8 +8016,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Washington Presidential Primary Election
+data {
+  nid: 10698
+  election_id: 4919
+  title: "Washington Presidential Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-53-Washington-2020-03-10.zip"
+  division_id: "ocd-division/country:us/state:wa"
+  vip_version: "5.1"
+  user: "robert@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10697
+##highest nid: 10698
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
