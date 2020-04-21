@@ -8177,7 +8177,7 @@ data {
   title: "Nebraska Presidential and State Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-31-State-of-Nebraska-2020-05-12.zip"
   division_id: "ocd-division/country:us/state:ne"
-  vip_version: "3.0"
+  vip_version: "5.1"
   user: "kane@democracy.works"
 }
 
