@@ -8164,7 +8164,7 @@ data {
   nid: 10710
   election_id: 4990
   title: "Louisiana Presidential Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-22-Louisiana-2020-06-20.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipFeed-22-2020-07-11.zip"
   division_id: "ocd-division/country:us/state:la"
   vip_version: "5.1"
   user: "kane@democracy.works"
