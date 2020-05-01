@@ -8254,7 +8254,7 @@ data {
   election_id: 4994
   title: "California Congressional District 25 Special General Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-06037-California-2020-05-12.zip"
-  division_id: "ocd-division/country:us/state:ca/county:los_angeles"
+  division_id: "ocd-division/country:us/state:ca"
   vip_version: "3.0"
   user: "kane@democracy.works"
 }
