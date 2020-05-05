@@ -8303,17 +8303,6 @@ data {
   user: "kane@democracy.works"
 }
 
-## Oregon Special Election
-data {
-  nid: 10723
-  election_id: 4102
-  title: "Oregon Special Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-44999-OREGON-2020-05-19.zip"
-  division_id: "ocd-division/country:us/state:or"
-  vip_version: "5.1"
-  user: "robert@democracy.works"
-}
-
 ##lowest nid: -1082
 ##highest nid: 10722
 ##highest election_id: 4890
