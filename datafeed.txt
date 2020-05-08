@@ -8314,8 +8314,19 @@ data {
   user: "robert@democracy.works"
 }
 
+## Maryland Presidential and State Primary Election
+data {
+  nid: 10724
+  election_id: 4987
+  title: "Maryland Presidential and State Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-24-maryland-2020-06-02.zip"
+  division_id: "ocd-division/country:us/state:md"
+  vip_version: "3.0"
+  user: "kane@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10723
+##highest nid: 10724
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
