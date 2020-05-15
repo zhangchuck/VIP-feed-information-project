@@ -8341,7 +8341,7 @@ data {
   nid: 10726
   election_id: 4958
   title: "Georgia State and Presidential Primary Election"
-  feed_url: "https://data-dashboard-staging-processed.s3.amazonaws.com/vipfeed-13-Georgia-2020-06-09.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-13-Georgia-2020-06-09.zip"
   division_id: "ocd-division/country:us/state:ga"
   vip_version: "5.1"
   user: "kane@democracy.works"
