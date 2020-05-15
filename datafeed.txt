@@ -8369,8 +8369,19 @@ data {
   user: "kane@democracy.works"
 }
 
+## South Carolina State Primary Election
+data {
+  nid: 10729
+  election_id: 4971
+  title: "South Carolina State Primary Election"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-45-South-Carolina-2020-06-09.zip"
+  division_id: "ocd-division/country:us/state:sc"
+  vip_version: "3.0"
+  user: "kane@democracy.works"
+}
+
 ##lowest nid: -1082
-##highest nid: 10728
+##highest nid: 10729
 ##highest election_id: 4890
 # Do not reuse datasets -236, -199, -233, -234, -238, -249, -232, -247, -250,
 # -139, 3080, -255, -268, -251, -235, -269, -270, 3432, 3452, 3181, 4100, 4951
