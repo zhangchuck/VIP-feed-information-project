@@ -876,6 +876,7 @@ data {
    title: "Michigan Primary Test"
    feed_url: "https://s3.amazonaws.com/data-dashboard-staging-processed/vipfeed-26-Michigan-2020-03-10.zip"
    division_id: "ocd-division/country:us/state:mi"
+   vip_version: "5.1"
    user: "franklin@democracy.works"
  }
 
