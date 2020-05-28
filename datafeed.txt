@@ -7245,16 +7245,6 @@ data {
   user: "robert@democracy.works"
 }
 
-## Kentucky Presidential and State Primary Election
-data {
-  nid: 10625
-  election_id: 4960
-  title: "Kentucky Presidential and State Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-21-KENTUCKY-2020-05-19.zip"
-  division_id: "ocd-division/country:us/state:ky"
-  vip_version: "3.0"
-  user: "robert@democracy.works"
-}
 
 ## Texas Democratic Presidential Primary and State Election (State)
 data {
