@@ -8399,6 +8399,7 @@ data {
   title: "Wyoming State Primary Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-56-Wyoming-2020-08-18.zip"
   vip_version: "5.1"
+  division_id: "ocd-division/country:us/state:wy"
   user: "kane@democracy.works"
 }
 
