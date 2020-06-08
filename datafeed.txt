@@ -8480,17 +8480,6 @@ data {
   user: "kane@democracy.works"
 }
 
-## North Carolina 11th Congressional District Republican Primary Election
-data {
-  nid: 10739
-  election_id: 4997
-  title: "North Carolina 11th Congressional District Republican Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-37-North-Carolina-2020-06-23.zip"
-  division_id: "ocd-division/country:us/state:nc"
-  vip_version: "5.1"
-  user: "kane@democracy.works"
-}
-
 ## Michigan State Primary Election
 data {
   nid: 10740
