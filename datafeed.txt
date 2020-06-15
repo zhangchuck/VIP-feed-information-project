@@ -8529,7 +8529,7 @@ data {
   nid: 10744
   election_id: 4993
   title: "Texas Primary Runoff Election (Travis County)"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48339-Texas-2020-07-14.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48453-Texas-2020-07-14.zip"
   division_id: "ocd-division/country:us/state:tx"
   vip_version: "5.1"
   user: "kane@democraccy.works"
@@ -8540,7 +8540,7 @@ data {
   nid: 10745
   election_id: 4993
   title: "Texas Primary Runoff Election (Montgomery County)"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48453-Texas-2020-07-14.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-48339-Texas-2020-07-14.zip"
   division_id: "ocd-division/country:us/state:tx"
   vip_version: "5.1"
   user: "kane@democracy.works"
