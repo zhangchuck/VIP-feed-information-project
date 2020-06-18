@@ -8562,17 +8562,17 @@ data {
   nid: 10747
   election_id: 4973
   title: "Oklahoma State Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-Oklahoma-2020-06-304.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-40-Oklahoma-2020-06-30.zip"
   division_id: "ocd-division/country:us/state:ok"
   vip_version: "3.0"
   user: "kane@democracy.works"
 }
 
-## Mississippi House District 88 Special Election
+## Mississippi 2nd Congressional District Republican Runoff Election
 data {
   nid: 10748
-  election_id: 4996
-  title: "Mississippi House District 88 Special Election"
+  election_id: 4995
+  title: "Mississippi 2nd Congressional District Republican Runoff Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-28-MIssissippi-2020-06-23.zip"
   division_id: "ocd-division/country:us/state:ms"
   vip_version: "3.0"
