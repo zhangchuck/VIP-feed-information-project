@@ -8630,7 +8630,7 @@ data {
   title: "Georgia General Primary Runoff Election"
   feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-13-Georgia-2020-08-11.zip"
   division_id: "ocd-division/country:us/state:ga"
-  vip_version: "3.0"
+  vip_version: "5.1"
   user: "kane@democracy.works"
 }
 
