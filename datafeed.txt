@@ -8617,9 +8617,9 @@ data {
   nid: 10752
   election_id: 4967
   title: "New Jersey Presidential and State Primary Election"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-New-Jersey-2020-07-07.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-34-New-Jersery-2020-07-07.zip"
   division_id: "ocd-division/country:us/state:nj"
-  vip_version: "3.0"
+  vip_version: "5.1"
   user: "kane@democracy.works"
 }
 
