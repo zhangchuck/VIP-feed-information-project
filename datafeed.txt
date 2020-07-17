@@ -8705,7 +8705,7 @@ data {
   nid: 10760
   election_id: 5001
   title: "Arizona State Primary Election (Maricopa County)"
-  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04013-Arizona-2020-08-04.zip"
+  feed_url: "https://s3.amazonaws.com/data-suite-production-processed-feeds/vipfeed-04013-ARIZONA-2020-08-04.zip"
   division_id: "ocd-division/country:us/state:az"
   vip_version: "3.0"
   user: "kane@democracy.works"
